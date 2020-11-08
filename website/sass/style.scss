@@ -25,6 +25,7 @@ $font-serif: "Georgia", serif;
 
 .main-title {
   font: bold 200% $font-serif;
+  user-select: none;
 }
 
 .container {

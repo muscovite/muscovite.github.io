@@ -15,6 +15,6 @@ Tier 2
 Tier 3
 - Bluebird
 
-Not recommended
+Overrated
 - Salt & Straw
 - Full Tilt
