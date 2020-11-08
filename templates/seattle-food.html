@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {{ section.title }}
+{% endblock title %}
+
+{% block content %}
+    <p>
+        Some food things. TODO: more details
+    </p>
+    <hr noshade>
+    {% for page in section.pages %}
+    <div class="food-entry">
+        <h3 class="title is-4">{{ page.title }}</h3>
+        <div>
+            {{ page.content | safe }}
+        </div>
+        <hr noshade>
+    </div>
+    {% endfor %}
+{% endblock content %}
