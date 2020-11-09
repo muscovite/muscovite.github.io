@@ -11,3 +11,6 @@ title = "Restaurants"
 - Ma'ono
 - Arepa Venezuelan Kitchen
 - Un Bien
+- Little Ting's Dumplings
+- Bateau
+- Din Tai Fung
