@@ -14,3 +14,6 @@ title = "Restaurants"
 - Little Ting's Dumplings
 - Bateau
 - Din Tai Fung
+- Salare
+- Manolin
+- 19 Gold

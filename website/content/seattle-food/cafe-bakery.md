@@ -13,6 +13,7 @@ title = "Cafes & Bakeries"
 - Zylberschtein's
 - Temple Pastries
 - Coyle's Bakeshop
+- Temple Pastries
 
 ## Afternoon Teas
 - Coyle's Bakeshop
@@ -26,6 +27,7 @@ title = "Cafes & Bakeries"
 - Hello Robin (cookies)
 - Matcha Cafe Maiko (matcha desserts)
 - Hot Cakes Molten Chocolate Cakery
+- Hiroki (Japanese-inspired)
 
 ## Not recommended
 - General Porpoise (donuts)
