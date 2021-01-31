@@ -3,7 +3,7 @@ title = "Breakfast & Brunch"
 +++
 
 - The Fat Hen
-- Wandering Goose*
+- _Wandering Goose (closed)_
 - Mr. West
 - Blazing Bagels
 - Zylberschtein's
