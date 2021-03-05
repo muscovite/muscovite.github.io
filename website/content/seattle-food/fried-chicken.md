@@ -1,22 +1,23 @@
 +++
 title = "Fried Chicken"
+template = "food-section.html"
 +++
 
 ## Sandwiches
 ### Tier 1
-- Ma'ono
+- [Ma'ono](https://www.maonoseattle.com/)
 
 ### Tier 2
-- Cookie's Country Fried
-- Wandering Goose
-- Milk Drunk
+- [Cookie's Country Chicken](https://www.cookiescountrychicken.com/)
+- _Wandering Goose (closed)_
+- [Milk Drunk](https://www.themilkdrunk.com/)
 
 ## Chicken & Waffles
-- Witness
+- [Witness](http://witnessbar.com/)
 - _Thackeray (chicken & pancakes) (closed)_
 
 ## Chicken pieces
-- JuneBaby
+- [JuneBaby](https://www.junebabyseattle.com/)
 
 ## Not recommended
 - Sisters & Brothers

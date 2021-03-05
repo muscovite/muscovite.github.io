@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {{ section.title }}
+{% endblock title %}
+
+{% block content %}
+    <p>Two Muscovy ducks who hatched around April 18, 2020.</p>
+    <hr noshade>
+    {% for asset in section.assets %}
+        {% if asset is matching("[.](jpeg|jpg|png)$") %}
+            {% set asset = asset|trim_start_matches(pat="/") %}
+                <a href="{{ get_url(path=asset) }}">
+                <img src="{{ resize_image(path=asset, width=240, height=180, op="fit", quality=100) }}" />
+                </a>
+                &ensp;
+        {% endif %}
+    {% endfor %}
+{% endblock content %}
