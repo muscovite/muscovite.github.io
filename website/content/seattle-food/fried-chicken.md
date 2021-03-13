@@ -21,6 +21,6 @@ template = "food-section.html"
 
 ## Not recommended
 - Sisters & Brothers
-- Bok Bok
+- Bok a Bok
 - Ezell's
 - Nate's Wings & Waffles
