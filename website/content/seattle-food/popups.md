@@ -12,10 +12,12 @@ template = "food-section.html"
 - [Pinckney Cookie Cafe](https://lovethesecookies.com/)
 - [Cake Life Everyday](http://www.cakelifeeveryday.com/) (croissants)
 - [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)
+- [PieCurious](https://www.instagram.com/piecurious.seattle/)
 
 ### Peruvian
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)
 - [Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)
+- [Siembra](https://siembraseattle.com/) (Peruvian inspired)
 
 ### Ice cream
 - [KRYSE](https://kryse.squarespace.com/)
@@ -24,8 +26,6 @@ template = "food-section.html"
 ## To try
 - [Caked Goods](https://www.cakedgoods.com/)
 - [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)
-- [Siembra](https://siembraseattle.com/) (Peruvian inspired)
 - [Sankaku](https://www.instagram.com/sankakuseattle) (Japanese)
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)
-- [PieCurious](https://www.instagram.com/piecurious.seattle/)
 - [La Dulce](https://www.ladulceseattle.com/b)

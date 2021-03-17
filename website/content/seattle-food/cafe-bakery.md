@@ -6,7 +6,7 @@ template = "food-section.html"
 ## General
 - [Sod House Bakery](https://sodhousebakery.square.site/)
 - [Cafe Javasti](https://javasti.com/)
-- [Bakery Noveau](https://bakerynouveau.com/)
+- [Bakery Nouveau](https://bakerynouveau.com/)
 - [Cafe Hagen](https://www.cafehagen.com/)
 - [Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)
 - [Monorail Espresso](https://monorailespresso.com/)
