@@ -21,6 +21,8 @@ template = "food-section.html"
 - [SUSU Dessert Bar](https://www.instagram.com/sususeattle)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
 - [Sea Wolf](https://www.seawolfbakers.com/)
+- [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
+- [Cake Life Everyday](http://www.cakelifeeveryday.com/)* (croissants)
 
 ## Afternoon Teas
 - [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
@@ -36,9 +38,21 @@ template = "food-section.html"
 - [Hot Cakes Molten Chocolate Cakery](https://getyourhotcakes.com/)
 - [Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)
 - _Pie Fremont (closed)_
+- [Pinckney Cookie Cafe](https://lovethesecookies.com/)*
+- [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)*
+- [PieCurious](https://www.instagram.com/piecurious.seattle/)*
+
+## Okay-ish
+- [Caked Goods](https://www.cakedgoods.com/)*
 
 ## Not recommended
 - General Porpoise (donuts)
+- [La Dulce](https://www.ladulceseattle.com/)*
+    - Cheesecakes were good, silvanas and breads had mild detergent taste
 
-## To Try
+## To try
 - Setsuko (Japanese)
+- [Juliana Bakery](https://julianabakery.com/)*
+- [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
+- [Graysea's Pies](https://grayseaspies.squarespace.com/)*
+- [Red Arrow Coffee](https://www.redarrowcoffee.com/)

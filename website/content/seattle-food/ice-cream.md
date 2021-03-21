@@ -6,6 +6,7 @@ template = "food-section.html"
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
 - [Parfait](https://www.parfait-icecream.com/)
+- [KRYSE](https://kryse.squarespace.com/)*
 - _Lick Pure Cream (closed)_
 
 ### Tier 2
@@ -13,6 +14,7 @@ template = "food-section.html"
 - [Sweet Alchemy](http://sweetalchemyicecreamery.com/)
 - [Seattle Pops](https://www.seattlepops.com/)
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
+- [Milk and Leaf Collective](https://milkandleaf.love/)*
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 
@@ -28,3 +30,4 @@ template = "food-section.html"
 
 ## To try
 - Laina's
+- Pink's

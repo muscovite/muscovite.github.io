@@ -5,7 +5,11 @@
 {% endblock title %}
 
 {% block content %}
-    <div class="food-entry">
+    <div class="popup-note">
+        <p>* popup/delivery/farmer's market only</p>
+    </div>
+    <hr noshade>
+    <div class="food-entry content">
         {{ page.content | safe }}
     </div>
 {% endblock content %}

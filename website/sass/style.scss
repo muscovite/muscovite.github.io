@@ -46,5 +46,15 @@ $font-serif: "Georgia", serif;
     }
 }
 
+.popup-note {
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+// Bulma overrides
+.content li+li {
+    margin: 0em;
+}
+
 // Import the rest of Bulma
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css");

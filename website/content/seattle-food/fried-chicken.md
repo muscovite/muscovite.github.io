@@ -6,9 +6,10 @@ template = "food-section.html"
 ## Sandwiches
 ### Tier 1
 - [Ma'ono](https://www.maonoseattle.com/)
+- [Cookie's Country Chicken](https://www.cookiescountrychicken.com/)
+- [JuneBaby](https://www.junebabyseattle.com/)
 
 ### Tier 2
-- [Cookie's Country Chicken](https://www.cookiescountrychicken.com/)
 - _Wandering Goose (closed)_
 - [Milk Drunk](https://www.themilkdrunk.com/)
 

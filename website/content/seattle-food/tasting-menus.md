@@ -10,3 +10,4 @@ template = "food-section.html"
 - [Sushi Kashiba](https://sushikashiba.com/)
 - [The Herbfarm](http://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
+- [Eden Hill](http://www.edenhillrestaurant.com/)
