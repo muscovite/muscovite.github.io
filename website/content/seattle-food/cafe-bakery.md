@@ -41,6 +41,7 @@ template = "food-section.html"
 - [Pinckney Cookie Cafe](https://lovethesecookies.com/)*
 - [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)*
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
+- [Macadons](https://macadons.com)*
 
 ## Okay-ish
 - [Caked Goods](https://www.cakedgoods.com/)*

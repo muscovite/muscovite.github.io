@@ -10,11 +10,12 @@ template = "food-section.html"
 - _Lick Pure Cream (closed)_
 
 ### Tier 2
-- [Molly Moon's](https://www.mollymoon.com/)
-- [Sweet Alchemy](http://sweetalchemyicecreamery.com/)
+- [Pink's/ Macadons](https://macadons.com/products/ice-cream-pint)*
 - [Seattle Pops](https://www.seattlepops.com/)
+- [Sweet Alchemy](http://sweetalchemyicecreamery.com/)
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - [Milk and Leaf Collective](https://milkandleaf.love/)*
+- [Molly Moon's](https://www.mollymoon.com/)
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 
@@ -30,4 +31,3 @@ template = "food-section.html"
 
 ## To try
 - Laina's
-- Pink's
