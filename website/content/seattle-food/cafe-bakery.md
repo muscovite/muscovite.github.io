@@ -42,6 +42,7 @@ template = "food-section.html"
 - [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)*
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
 - [Macadons](https://macadons.com)*
+- [Coping Cookies](https://copingcookies.com/)*
 
 ## Okay-ish
 - [Caked Goods](https://www.cakedgoods.com/)*
