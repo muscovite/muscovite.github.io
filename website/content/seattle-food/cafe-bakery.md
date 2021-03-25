@@ -21,12 +21,12 @@ template = "food-section.html"
 - [SUSU Dessert Bar](https://www.instagram.com/sususeattle)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
 - [Sea Wolf](https://www.seawolfbakers.com/)
+- [Cloud City Coffee](https://www.cloudcitycoffee.com/)
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](http://www.cakelifeeveryday.com/)* (croissants)
 
 ## Afternoon Teas
 - [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
-- [White Heather Tea Room](https://www.whiteheather-tearoom.com/afternoon-tea) (Victoria, BC)
 
 ## Specialized
 - [Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)
@@ -37,12 +37,12 @@ template = "food-section.html"
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
 - [Hot Cakes Molten Chocolate Cakery](https://getyourhotcakes.com/)
 - [Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)
-- _Pie Fremont (closed)_
 - [Pinckney Cookie Cafe](https://lovethesecookies.com/)*
 - [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)*
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
 - [Macadons](https://macadons.com)*
 - [Coping Cookies](https://copingcookies.com/)*
+- _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 
 ## Okay-ish
 - [Caked Goods](https://www.cakedgoods.com/)*

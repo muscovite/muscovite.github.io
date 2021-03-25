@@ -10,8 +10,8 @@ template = "food-section.html"
 - [JuneBaby](https://www.junebabyseattle.com/)
 
 ### Tier 2
-- _Wandering Goose (closed)_
 - [Milk Drunk](https://www.themilkdrunk.com/)
+- _Wandering Goose (closed)_
 
 ## Chicken & Waffles
 - [Witness](http://witnessbar.com/)
