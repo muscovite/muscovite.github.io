@@ -3,11 +3,11 @@ title = "Tasting Menus"
 template = "food-section.html"
 +++
 
-- [Altura](https://alturarestaurant.com/)
+- [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
 - [Eight Row](https://www.eightrow.com/)
 - [The Shambles](http://www.delimeatsbar.com/)
-- [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
 - [Sushi Kashiba](https://sushikashiba.com/)
+- [Altura](https://alturarestaurant.com/)
 - [The Herbfarm](http://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
 - [Eden Hill](http://www.edenhillrestaurant.com/)
