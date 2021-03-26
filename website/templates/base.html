@@ -5,6 +5,8 @@
     <meta charset="utf-8">
     <title>yvonne chen - personal website</title>
     <link rel="stylesheet" href="/style.css">
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
 </head>
 
 <!-- Menu bar -->
@@ -23,24 +25,20 @@
             <a class="navbar-item" href="/ducks">
                 ducks
             </a>
-            <a class="navbar-item" href="/seattle-food">
-                seattle food guide
-            </a>
             <!-- Dropdown -->
-            <!-- <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">
-                    Misc
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/seattle-food">
+                    seattle food guide
                 </a>
-    
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="/ducks">
-                        Ducks
-                    </a>
-                    <a class="navbar-item" href="/seattle-food">
-                        Seattle Food Guide
-                    </a>
+                <div class="navbar-dropdown is-boxed">
+                    {% set s = get_section(path="seattle-food/_index.md") %}
+                    {% for page in s.pages %}
+                        <a class="navbar-item" href="/seattle-food/{{page.slug}}">
+                            {{ page.title | lower }}
+                        </a>
+                    {% endfor %}
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 </nav>

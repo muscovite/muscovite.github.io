@@ -10,10 +10,19 @@
     {% for asset in section.assets %}
         {% if asset is matching("[.](jpeg|jpg|png)$") %}
             {% set asset = asset|trim_start_matches(pat="/") %}
-                <a href="{{ get_url(path=asset) }}">
-                <img src="{{ resize_image(path=asset, width=240, height=180, op="fit", quality=100) }}" />
+                <img class="thumbnail" src="{{ resize_image(path=asset, width=240, height=180, op="fit", quality=100) }}" data-large-url="{{ get_url(path=asset) }}" />
                 </a>
                 &ensp;
         {% endif %}
     {% endfor %}
+
+    <div class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content">
+          <p class="image">
+            <img id="modal-img" src="" alt="">
+          </p>
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
 {% endblock content %}
