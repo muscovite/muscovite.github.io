@@ -24,6 +24,7 @@ template = "food-section.html"
 - [Cloud City Coffee](https://www.cloudcitycoffee.com/)
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](http://www.cakelifeeveryday.com/)* (croissants)
+- [Red Arrow Coffee](https://www.redarrowcoffee.com/)
 
 ## Afternoon Teas
 - [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
@@ -57,4 +58,3 @@ template = "food-section.html"
 - [Juliana Bakery](https://julianabakery.com/)*
 - [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
-- [Red Arrow Coffee](https://www.redarrowcoffee.com/)
