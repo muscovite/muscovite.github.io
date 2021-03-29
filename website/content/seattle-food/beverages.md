@@ -12,3 +12,6 @@ template = "food-section.html"
 ## Not recommended
 - Kung Fu Tea
 - Sharetea
+
+## To try
+- [Seeking Kombucha](https://seekingkombucha.com/)

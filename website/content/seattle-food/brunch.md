@@ -16,3 +16,7 @@ template = "food-section.html"
 
 ## Not recommended
 - Portage Bay Cafe
+
+## To try
+- [Sunny Hill](https://www.sunnyhillseattle.com/)
+- [Samara](https://samaraseattle.com/)

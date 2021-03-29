@@ -21,6 +21,8 @@ template = "food-section.html"
 - [19 Gold](https://www.19goldseattle.com/)
 - _[By Tae](https://www.instagram.com/bytaeseattle) (Chirashi bowls) (temp. closed)_*
 - [Kathmandu Momocha](https://www.kathmandumomocha.com/)*
+- [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
+- [Ba Ba Lio](https://www.babaliotaiwan.com/) (Taiwanese inspired)
 
 ## Peruvian
 - [Don Lucho's](http://donluchosinseattle.com/)
@@ -38,3 +40,22 @@ template = "food-section.html"
 - [Archipelago](https://www.archipelagoseattle.com/) (Filipino)
 - [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
+- [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
+- [Itsumono](https://itsumonoseattle.wixsite.com/home)
+- [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
+- [S/T Hooligans](https://www.sthooligans.com/)
+- [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steak)
+- [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
+- [Sunny Hill](https://www.sunnyhillseattle.com/)
+- [Tapas Lab](https://tapaslab.com/)
+- [Jeepney](https://www.jeepneycaphill.com/home)
+- [Calluna](https://callunaseattle.com/)
+- [Taurus Ox](https://taurusox.square.site/)
+- [Shiro's](https://shiros.com/)
+- [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
+- [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
+- [Rupee Bar](https://www.rupeeseattle.com/)
+- [Communion](https://www.communionseattle.com/)
+- [Frank's Oyster House](http://www.franksoysterhouse.com/)
+- [Samara](https://samaraseattle.com/)
+- [Lazy Susan](https://www.lazysusanseattle.com/)

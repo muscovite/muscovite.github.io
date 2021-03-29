@@ -54,7 +54,11 @@ template = "food-section.html"
     - Cheesecakes were good, silvanas and breads had mild detergent taste
 
 ## To try
-- Setsuko (Japanese)
+- [Setsuko](http://setsukopastry.com/)
 - [Juliana Bakery](https://julianabakery.com/)*
 - [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
+- [Retreat](https://retreat-greenlake.com/)
+- [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
+- [Cafe Arta](https://www.cafearta.com/)
+- [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)

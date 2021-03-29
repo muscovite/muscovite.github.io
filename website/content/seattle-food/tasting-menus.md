@@ -11,3 +11,10 @@ template = "food-section.html"
 - [The Herbfarm](http://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
 - [Eden Hill](http://www.edenhillrestaurant.com/)
+
+## Just OK
+- [Wataru](https://wataruseattle.com/)
+
+## To try
+- [Art of the Table](https://www.artofthetable.net/)
+- [Sushi Kappo Tamura](https://www.sushikappotamura.com/)

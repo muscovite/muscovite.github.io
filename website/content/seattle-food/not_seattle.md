@@ -38,6 +38,9 @@ Things to eat outside the greater Seattle area.
 - [Morgenstern's](https://www.morgensternsnyc.com/)
 - [Kaylee's Creamery](http://www.kayleescreamery.com/menu)
 
+## Houston
+- [Pho Saigon](https://www.yelp.com/biz/pho-saigon-houston-12)
+
 # Asia
 
 ## Japan
