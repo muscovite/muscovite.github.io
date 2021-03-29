@@ -20,6 +20,9 @@ Things to eat outside the greater Seattle area.
 - [Soen](https://www.soenportland.co/)
 - [Cheese & Crack](http://www.cheeseandcrack.com/)
 - [Tita's Kitchen](https://www.titaskitchenpdx.com/) (Peruvian)
+- [Lovejoy's Tea Room](https://www.lovejoysportland.com/) (afternoon tea)
+- [Pix Patisserie](http://www.pixpatisserie.com/)
+- [Papa Haydn](https://www.papahaydn.com/)
 
 ## Vancouver, B.C
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)

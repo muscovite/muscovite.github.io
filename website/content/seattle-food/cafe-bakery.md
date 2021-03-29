@@ -62,3 +62,5 @@ template = "food-section.html"
 - [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
 - [Cafe Arta](https://www.cafearta.com/)
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
+- [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)
+- [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
