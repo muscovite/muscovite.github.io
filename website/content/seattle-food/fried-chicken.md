@@ -20,7 +20,7 @@ template = "food-section.html"
 ## Chicken pieces
 - [JuneBaby](https://www.junebabyseattle.com/)
 
-## Not recommended
+## Just OK
 - Sisters & Brothers
 - Bok a Bok
 - Ezell's

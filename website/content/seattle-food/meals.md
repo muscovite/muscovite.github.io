@@ -47,7 +47,7 @@ template = "food-section.html"
 - [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steak)
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
-- [Tapas Lab](https://tapaslab.com/)
+- [Monster Bowl ](https://themonsterbowl.com/)
 - [Jeepney](https://www.jeepneycaphill.com/home)
 - [Calluna](https://callunaseattle.com/)
 - [Taurus Ox](https://taurusox.square.site/)

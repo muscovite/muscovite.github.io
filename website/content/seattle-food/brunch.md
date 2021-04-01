@@ -14,7 +14,7 @@ template = "food-section.html"
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
 
-## Not recommended
+## Just OK
 - Portage Bay Cafe
 
 ## To try

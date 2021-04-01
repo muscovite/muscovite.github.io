@@ -23,7 +23,7 @@ template = "food-section.html"
 - [Bluebird](https://bluebirdicecream.square.site/)
 - [Cupcake Royale](https://www.cupcakeroyale.com/)
 
-## Not recommended
+## Just OK
 - Salt & Straw
 - Full Tilt
 - Fainting Goat

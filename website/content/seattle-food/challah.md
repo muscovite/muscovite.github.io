@@ -9,5 +9,5 @@ template = "food-section.html"
     - only has sesame seed option
 - [Rosellini's](https://rosellinis.com/)
 
-## Not recommended
+## Just OK
 - Grand Central Bakery

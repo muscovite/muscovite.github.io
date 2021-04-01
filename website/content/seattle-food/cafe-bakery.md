@@ -43,12 +43,11 @@ template = "food-section.html"
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
 - [Macadons](https://macadons.com)*
 - [Coping Cookies](https://copingcookies.com/)*
+- [Mighty-O Donuts](https://www.mightyo.com/)
 - _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 
-## Okay-ish
+## Just OK
 - [Caked Goods](https://www.cakedgoods.com/)*
-
-## Not recommended
 - General Porpoise (donuts)
 - [La Dulce](https://www.ladulceseattle.com/)*
     - Cheesecakes were good, silvanas and breads had mild detergent taste
@@ -64,3 +63,4 @@ template = "food-section.html"
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
 - [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)
 - [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
+- [Citizen Coffee](http://www.citizencoffee.com/)

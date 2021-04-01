@@ -9,7 +9,7 @@ template = "food-section.html"
 - [Coffeeholic](https://coffeeholichouse.com/)
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
 
-## Not recommended
+## Just OK
 - Kung Fu Tea
 - Sharetea
 
