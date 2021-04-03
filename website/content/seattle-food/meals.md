@@ -12,6 +12,7 @@ template = "food-section.html"
 - [Salare](https://www.salarerestaurant.com/)
 - [Manolin](http://www.manolinseattle.com/)
 - [JuneBaby](https://www.junebabyseattle.com/)
+- [The London Plane](http://www.thelondonplaneseattle.com/)
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
 
 ## Asian, generally

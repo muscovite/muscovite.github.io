@@ -25,6 +25,8 @@ template = "food-section.html"
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](http://www.cakelifeeveryday.com/)* (croissants)
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
+- [The London Plane](http://www.thelondonplaneseattle.com/)
+- [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
 
 ## Afternoon Teas
 - [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
