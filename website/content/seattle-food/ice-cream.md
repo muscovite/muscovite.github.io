@@ -12,7 +12,7 @@ template = "food-section.html"
 ### Tier 2
 - [Pink's/ Macadons](https://macadons.com/products/ice-cream-pint)*
 - [Seattle Pops](https://www.seattlepops.com/)
-- [Sweet Alchemy](http://sweetalchemyicecreamery.com/)
+- [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - [Milk and Leaf Collective](https://milkandleaf.love/)*
 - [Molly Moon's](https://www.mollymoon.com/)

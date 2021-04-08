@@ -14,7 +14,7 @@ template = "food-section.html"
 - _Wandering Goose (closed)_
 
 ## Chicken & Waffles
-- [Witness](http://witnessbar.com/)
+- [Witness](https://witnessbar.com/)
 - _Thackeray (chicken & pancakes) (closed)_
 
 ## Chicken pieces
@@ -25,3 +25,8 @@ template = "food-section.html"
 - Bok a Bok
 - Ezell's
 - Nate's Wings & Waffles
+
+## To try
+- [S/T Hooligans](https://www.sthooligans.com/)
+- [Triangle Spirits](https://www.trianglefremont.com/)
+- [Union Saloon](https://www.unionsaloonseattle.com/)

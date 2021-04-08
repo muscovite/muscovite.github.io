@@ -13,8 +13,8 @@ template = "food-section.html"
 - [Mr. West](https://mrwestcafebar.com/)
 - [Zylberschtein's](https://www.zylberschtein.com/)
 - [Temple Pastries](https://www.templepastries.com/)
-- [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
-- [Fresh Flours](http://www.freshfloursseattle.com/)
+- [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
+- [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
 - [Preserve & Gather](https://www.preserveandgather.com/)
 - [Blackbird Bakery](https://blackbirdbakery.com/)
@@ -23,18 +23,18 @@ template = "food-section.html"
 - [Sea Wolf](https://www.seawolfbakers.com/)
 - [Cloud City Coffee](https://www.cloudcitycoffee.com/)
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
-- [Cake Life Everyday](http://www.cakelifeeveryday.com/)* (croissants)
+- [Cake Life Everyday](https://www.cakelifeeveryday.com/)* (croissants)
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
-- [The London Plane](http://www.thelondonplaneseattle.com/)
+- [The London Plane](https://www.thelondonplaneseattle.com/)
 - [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
 
 ## Afternoon Teas
-- [Coyle's Bakeshop](http://www.coylesbakeshop.com/)
+- [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
 
 ## Specialized
 - [Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)
 - [Tres Lecheria](https://www.treslecheria.com/) (tres leches cakes)
-- [Flour Box](http://www.theflourboxseattle.com/) (donuts) (preorder only)
+- [Flour Box](https://www.theflourboxseattle.com/) (donuts) (preorder only)
 - [Half & Half](https://www.halfandhalfdoughnuts.com/) (donuts)
 - [Hello Robin](https://www.hellorobincookies.com/) (cookies)
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
@@ -55,7 +55,7 @@ template = "food-section.html"
     - Cheesecakes were good, silvanas and breads had mild detergent taste
 
 ## To try
-- [Setsuko](http://setsukopastry.com/)
+- [Setsuko](https://setsukopastry.com/)
 - [Juliana Bakery](https://julianabakery.com/)*
 - [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
@@ -65,4 +65,5 @@ template = "food-section.html"
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
 - [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)
 - [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
-- [Citizen Coffee](http://www.citizencoffee.com/)
+- [Citizen Coffee](https://www.citizencoffee.com/)
+- [Joe Chocolate](https://joechocolateco.com/pages/joecafe)

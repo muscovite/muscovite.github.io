@@ -18,10 +18,10 @@ Things to eat outside the greater Seattle area.
 - [Kimura Toast Bar](https://kimuratoast.com/)
 - [Kachka](https://www.kachkapdx.com/)
 - [Soen](https://www.soenportland.co/)
-- [Cheese & Crack](http://www.cheeseandcrack.com/)
+- [Cheese & Crack](https://www.cheeseandcrack.com/)
 - [Tita's Kitchen](https://www.titaskitchenpdx.com/) (Peruvian)
 - [Lovejoy's Tea Room](https://www.lovejoysportland.com/) (afternoon tea)
-- [Pix Patisserie](http://www.pixpatisserie.com/)
+- [Pix Patisserie](https://www.pixpatisserie.com/)
 - [Papa Haydn](https://www.papahaydn.com/)
 
 ## Vancouver, B.C
@@ -39,7 +39,7 @@ Things to eat outside the greater Seattle area.
 - [Levain Bakery](https://levainbakery.com/)
 - [Spot Dessert Bar](https://www.spotdessertbar.com/)
 - [Morgenstern's](https://www.morgensternsnyc.com/)
-- [Kaylee's Creamery](http://www.kayleescreamery.com/menu)
+- [Kaylee's Creamery](https://www.kayleescreamery.com/menu)
 
 ## Houston
 - [Pho Saigon](https://www.yelp.com/biz/pho-saigon-houston-12)
@@ -60,7 +60,7 @@ Things to eat outside the greater Seattle area.
 
 ### Kyoto
 - Rakusho (traditional sweets, koi pond)
-- [Walden Woods](http://www.walden-woods.com/) (coffee)
+- [Walden Woods](https://www.walden-woods.com/) (coffee)
 - Yume Wo Katare (ramen)
 - Musubi (some tiny place with amazing beef, small plates)
 
@@ -101,4 +101,4 @@ Things to eat outside the greater Seattle area.
 - [Back to Black](https://backtoblackcoffee.nl/en/) (cafe)
 
 ### Rotterdam
-- _[Ceviche y Maas](http://www.cevicheymaas.nl/) (closed)_
+- _[Ceviche y Maas](https://www.cevicheymaas.nl/) (closed)_
