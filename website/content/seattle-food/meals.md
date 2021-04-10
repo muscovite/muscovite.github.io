@@ -20,10 +20,11 @@ template = "food-section.html"
 - [Din Tai Fung](https://www.dintaifungusa.com/us/locations/seattle-university-village.html)
 - [DoughZone](https://www.doughzonedumplinghouse.com/)
 - [19 Gold](https://www.19goldseattle.com/)
-- _[By Tae](https://www.instagram.com/bytaeseattle) (Chirashi bowls) (temp. closed)_*
+- _[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (temp. closed)_
 - [Kathmandu Momocha](https://www.kathmandumomocha.com/)*
 - [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
-- [Ba Ba Lio](https://www.babaliotaiwan.com/) (Taiwanese inspired)
+- [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
+- [Musang](https://www.musangseattle.com/) (Filipino)
 
 ## Peruvian
 - [Don Lucho's](https://donluchosinseattle.com/)
@@ -38,7 +39,6 @@ template = "food-section.html"
 - [The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)
 
 ## To try
-- [Musang](https://www.musangseattle.com/) (Filipino)
 - [Archipelago](https://www.archipelagoseattle.com/) (Filipino)
 - [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
