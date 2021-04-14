@@ -65,3 +65,5 @@ template = "food-section.html"
 - [Cook Weaver](https://www.cookweaver.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
+- [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
+- [Taku](https://www.takuseattle.com/)
