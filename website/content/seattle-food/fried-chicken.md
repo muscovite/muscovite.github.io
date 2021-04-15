@@ -12,6 +12,8 @@ template = "food-section.html"
 ### Tier 2
 - [Milk Drunk](https://www.themilkdrunk.com/)
 - _Wandering Goose (closed)_
+- [Triangle Spirits](https://www.trianglefremont.com/)
+    - Good cornbread, fries, and chicken skin, average chicken
 
 ## Chicken & Waffles
 - [Witness](https://witnessbar.com/)
@@ -28,5 +30,4 @@ template = "food-section.html"
 
 ## To try
 - [S/T Hooligans](https://www.sthooligans.com/)
-- [Triangle Spirits](https://www.trianglefremont.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)

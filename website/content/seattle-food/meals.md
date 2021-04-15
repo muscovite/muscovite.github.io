@@ -61,7 +61,6 @@ template = "food-section.html"
 - [Frank's Oyster House](https://www.franksoysterhouse.com/)
 - [Samara](https://samaraseattle.com/)
 - [Lazy Susan](https://www.lazysusanseattle.com/)
-- [Triangle Spirits](https://www.trianglefremont.com/)
 - [Cook Weaver](https://www.cookweaver.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
