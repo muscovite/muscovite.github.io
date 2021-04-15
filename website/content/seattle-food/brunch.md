@@ -15,6 +15,7 @@ template = "food-section.html"
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
 - _[Sweetgrass](https://www.yelp.com/biz/sweetgrass-food-seattle-3) (closed)_
+- [Union Saloon](https://www.unionsaloonseattle.com/)
 
 ## Just OK
 - Portage Bay Cafe
@@ -23,4 +24,3 @@ template = "food-section.html"
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Samara](https://samaraseattle.com/)
 - [Triangle Spirits](https://www.trianglefremont.com/)
-- [Union Saloon](https://www.unionsaloonseattle.com/)
