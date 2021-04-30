@@ -34,7 +34,6 @@ template = "food-section.html"
 - [Don Lucho's](https://donluchosinseattle.com/)
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - [Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)*
-- [Siembra](https://siembraseattle.com/) (Peruvian inspired)*
 
 ### Sandwich-like
 - [Ma'ono](https://www.maonoseattle.com/)
@@ -46,6 +45,9 @@ template = "food-section.html"
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
 - [Taurus Ox](https://taurusox.square.site/)
 - [Monsoon](https://monsoonrestaurants.com/seattle/)
+
+## Not recommended
+- Siembra (Peruvian inspired)*
 
 ## To try
 - [Archipelago](https://www.archipelagoseattle.com/) (Filipino)
