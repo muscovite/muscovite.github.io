@@ -3,19 +3,23 @@ title = "Meals"
 template = "food-section.html"
 +++
 
-## American, generally
+## Recommended
+### American/European, generally
 - [Meet the Moon](https://meetthemooncafe.com/)
 - [The Shambles](https://www.delimeatsbar.com/)
 - [Eight Row](https://www.eightrow.com/)
 - [Bateau](https://www.restaurantbateau.com/)
 - [Korochka Tavern](https://www.korochkatavern.net/)
+- [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
 - [Salare](https://www.salarerestaurant.com/)
 - [Manolin](https://www.manolinseattle.com/)
 - [JuneBaby](https://www.junebabyseattle.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
+- [S/T Hooligans](https://www.sthooligans.com/)
+    - Bread pudding and brisket sandwich
 
-## Asian, generally
+### Asian, generally
 - [Little Ting's Dumplings](https://www.yelp.com/biz/little-tings-dumplings-seattle)
 - [Din Tai Fung](https://www.dintaifungusa.com/us/locations/seattle-university-village.html)
 - [DoughZone](https://www.doughzonedumplinghouse.com/)
@@ -26,17 +30,22 @@ template = "food-section.html"
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
 - [Musang](https://www.musangseattle.com/) (Filipino)
 
-## Peruvian
+### Peruvian
 - [Don Lucho's](https://donluchosinseattle.com/)
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - [Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)*
 - [Siembra](https://siembraseattle.com/) (Peruvian inspired)*
 
-## Sandwich-like
+### Sandwich-like
 - [Ma'ono](https://www.maonoseattle.com/)
 - [Arepa Venezuelan Kitchen](https://www.facebook.com/ArepaVen/)
 - [Un Bien](https://www.unbienseattle.com/)
 - [The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)
+
+## Decent
+- [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
+- [Taurus Ox](https://taurusox.square.site/)
+- [Monsoon](https://monsoonrestaurants.com/seattle/)
 
 ## To try
 - [Archipelago](https://www.archipelagoseattle.com/) (Filipino)
@@ -45,14 +54,11 @@ template = "food-section.html"
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
 - [Itsumono](https://itsumonoseattle.wixsite.com/home)
 - [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
-- [S/T Hooligans](https://www.sthooligans.com/)
 - [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steak)
-- [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Monster Bowl ](https://themonsterbowl.com/)
 - [Jeepney](https://www.jeepneycaphill.com/home)
 - [Calluna](https://callunaseattle.com/)
-- [Taurus Ox](https://taurusox.square.site/)
 - [Shiro's](https://shiros.com/)
 - [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
 - [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
@@ -64,5 +70,5 @@ template = "food-section.html"
 - [Cook Weaver](https://www.cookweaver.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
-- [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
-- [Taku](https://www.takuseattle.com/)
+- [Taku](https://www.takuseattle.com/) (chicken karaage)
+- [Single Shot](https://www.singleshotseattle.com/)

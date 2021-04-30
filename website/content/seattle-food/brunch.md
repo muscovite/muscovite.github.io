@@ -3,6 +3,7 @@ title = "Breakfast & Brunch"
 template = "food-section.html"
 +++
 
+## Recommended
 - [The Fat Hen](https://thefathenseattle.com/)
 - [Mr. West](https://mrwestcafebar.com/)
 - [Blazing Bagels](https://www.blazingbagels.com/)
@@ -17,10 +18,14 @@ template = "food-section.html"
 - _[Sweetgrass](https://www.yelp.com/biz/sweetgrass-food-seattle-3) (closed)_
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 
-## Just OK
+## Decent
+- [Monsoon](https://monsoonrestaurants.com/seattle/)
+    - dim sum brunch
+
+## Not recommended
 - Portage Bay Cafe
 
 ## To try
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Samara](https://samaraseattle.com/)
-- [Triangle Spirits](https://www.trianglefremont.com/)
+- [Single Shot](https://www.singleshotseattle.com/)

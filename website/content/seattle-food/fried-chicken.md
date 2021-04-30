@@ -22,12 +22,15 @@ template = "food-section.html"
 ## Chicken pieces
 - [JuneBaby](https://www.junebabyseattle.com/)
 
-## Just OK
+## Decent
+- [S/T Hooligans](https://www.sthooligans.com/)
+- [Union Saloon](https://www.unionsaloonseattle.com/)
+
+## Not recommended
 - Sisters & Brothers
 - Bok a Bok
 - Ezell's
 - Nate's Wings & Waffles
 
 ## To try
-- [S/T Hooligans](https://www.sthooligans.com/)
-- [Union Saloon](https://www.unionsaloonseattle.com/)
+- [Taku](https://www.takuseattle.com/) (chicken karaage)

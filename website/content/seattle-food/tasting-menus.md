@@ -3,6 +3,7 @@ title = "Tasting Menus"
 template = "food-section.html"
 +++
 
+## Recommended
 - [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
 - [Eight Row](https://www.eightrow.com/)
 - [The Shambles](https://www.delimeatsbar.com/)
@@ -12,7 +13,7 @@ template = "food-section.html"
 - [Surrell](https://surrellseattle.com/)
 - [Eden Hill](https://www.edenhillrestaurant.com/)
 
-## Just OK
+## Decent
 - [Wataru](https://wataruseattle.com/)
 
 ## To try

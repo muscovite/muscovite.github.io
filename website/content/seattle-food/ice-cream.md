@@ -3,6 +3,7 @@ title = "Ice Cream"
 template = "food-section.html"
 +++
 
+## Recommended
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
 - [Parfait](https://www.parfait-icecream.com/)
@@ -19,12 +20,13 @@ template = "food-section.html"
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 
-### Tier 3
+## Decent
 - [Bluebird](https://bluebirdicecream.square.site/)
 - [Cupcake Royale](https://www.cupcakeroyale.com/)
 
-## Just OK
+## Not recommended
 - Salt & Straw
+    - interesting sounding flavors rarely live up to expectations
 - Full Tilt
 - Fainting Goat
 - Shug's

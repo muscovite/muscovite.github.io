@@ -3,7 +3,8 @@ title = "Cafes & Bakeries"
 template = "food-section.html"
 +++
 
-## General
+## Recommended
+### General
 - [Sod House Bakery](https://sodhousebakery.square.site/)
 - [Cafe Javasti](https://javasti.com/)
 - [Bakery Nouveau](https://bakerynouveau.com/)
@@ -27,14 +28,15 @@ template = "food-section.html"
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
+- [Sugar Bakery & Cafe](https://sugarbakerycafe.com/)
 
-## Afternoon Teas
+### Afternoon Teas
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
 
-## Specialized
+### Specialized
 - [Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)
 - [Tres Lecheria](https://www.treslecheria.com/) (tres leches cakes)
-- [Flour Box](https://www.theflourboxseattle.com/) (donuts) (preorder only)
+- [Flour Box](https://www.theflourboxseattle.com/) (donuts)
 - [Half & Half](https://www.halfandhalfdoughnuts.com/) (donuts)
 - [Hello Robin](https://www.hellorobincookies.com/) (cookies)
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
@@ -45,11 +47,16 @@ template = "food-section.html"
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
 - [Macadons](https://macadons.com)*
 - [Coping Cookies](https://copingcookies.com/)*
+- [Salt & Other Vices](https://saltandothervices.com/)* (cookies)
 - [Mighty-O Donuts](https://www.mightyo.com/)
 - _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 
-## Just OK
+## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
+- [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
+- [Lady Grey](https://www.ladygreyseattle.com/)* (cakes)
+
+## Not recommended
 - General Porpoise (donuts)
 - [La Dulce](https://www.ladulceseattle.com/)*
     - Cheesecakes were good, silvanas and breads had mild detergent taste
@@ -60,10 +67,10 @@ template = "food-section.html"
 - [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
 - [Retreat](https://retreat-greenlake.com/)
-- [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
 - [Cafe Arta](https://www.cafearta.com/)
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
 - [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)
 - [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
 - [Citizen Coffee](https://www.citizencoffee.com/)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe)
+- [Rey Amargo](https://www.reyamargo.us/) (chocolate)
