@@ -29,6 +29,8 @@ template = "food-section.html"
 - [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
 - [Musang](https://www.musangseattle.com/) (Filipino)
+- [Itsumono](https://itsumonoseattle.wixsite.com/home)
+    - karaage
 
 ### Peruvian
 - [Don Lucho's](https://donluchosinseattle.com/)
@@ -54,7 +56,6 @@ template = "food-section.html"
 - [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
-- [Itsumono](https://itsumonoseattle.wixsite.com/home)
 - [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
 - [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steak)
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
