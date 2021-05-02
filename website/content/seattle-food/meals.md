@@ -75,3 +75,4 @@ template = "food-section.html"
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
 - [Taku](https://www.takuseattle.com/) (chicken karaage)
 - [Single Shot](https://www.singleshotseattle.com/)
+- [Martino's](https://www.martinos.net/) (sandwiches, BBQ)

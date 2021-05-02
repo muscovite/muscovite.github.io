@@ -29,6 +29,9 @@ template = "food-section.html"
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
 - [Sugar Bakery & Cafe](https://sugarbakerycafe.com/)
+- [Boot Scootin Bread](https://boot-scootin-bread.square.site/)
+- [Saint Bread](https://www.saintbread.com/)
+    - provisional inclusion; promising, but need more visits
 
 ### Afternoon Teas
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
@@ -49,12 +52,15 @@ template = "food-section.html"
 - [Coping Cookies](https://copingcookies.com/)*
 - [Salt & Other Vices](https://saltandothervices.com/)* (cookies)
 - [Mighty-O Donuts](https://www.mightyo.com/)
+- [Chocolati Cafe](https://chocolati.com/)
+    - hot chocolates, mochas; truffles are kind of disappointing
 - _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
 - [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
 - [Lady Grey](https://www.ladygreyseattle.com/)* (cakes)
+- [Caffe Ladro](https://www.caffeladro.com/)
 
 ## Not recommended
 - General Porpoise (donuts)
@@ -74,3 +80,4 @@ template = "food-section.html"
 - [Citizen Coffee](https://www.citizencoffee.com/)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe)
 - [Rey Amargo](https://www.reyamargo.us/) (chocolate)
+- [Treat Cookies](https://www.treatcookies.com/) (Burien! so far away)

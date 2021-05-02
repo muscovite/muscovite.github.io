@@ -11,12 +11,12 @@ template = "food-section.html"
 - [Meet the Moon](https://meetthemooncafe.com/)
 - [Seattle Biscuit Co.](https://seattlebiscuitcompany.com/)
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
-- _[Wandering Goose](https://www.thewanderinggoose.com/) (closed)_
 - [The London Plane](https://www.thelondonplaneseattle.com/)
+- [Union Saloon](https://www.unionsaloonseattle.com/)
+- _[Wandering Goose](https://www.thewanderinggoose.com/) (closed)_
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
 - _[Sweetgrass](https://www.yelp.com/biz/sweetgrass-food-seattle-3) (closed)_
-- [Union Saloon](https://www.unionsaloonseattle.com/)
 
 ## Decent
 - [Monsoon](https://monsoonrestaurants.com/seattle/)
@@ -29,3 +29,4 @@ template = "food-section.html"
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Samara](https://samaraseattle.com/)
 - [Single Shot](https://www.singleshotseattle.com/)
+- [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
