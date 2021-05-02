@@ -34,3 +34,4 @@ template = "food-section.html"
 
 ## To try
 - [Taku](https://www.takuseattle.com/) (chicken karaage)
+- [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
