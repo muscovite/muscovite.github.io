@@ -34,7 +34,7 @@ template = "food-section.html"
     - provisional inclusion; promising, but need more visits
 
 ### Afternoon Teas
-- [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
+- [Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)
 
 ### Specialized
 - [Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)

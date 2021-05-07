@@ -30,7 +30,7 @@ template = "food-section.html"
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
 - [Musang](https://www.musangseattle.com/) (Filipino)
 - [Itsumono](https://itsumonoseattle.wixsite.com/home)
-    - karaage
+    - karaage, whatever creative food-of-the-day they cook up
 
 ### Peruvian
 - [Don Lucho's](https://donluchosinseattle.com/)
@@ -47,6 +47,8 @@ template = "food-section.html"
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
 - [Taurus Ox](https://taurusox.square.site/)
 - [Monsoon](https://monsoonrestaurants.com/seattle/)
+- [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steakhouse)
+- [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
@@ -56,8 +58,6 @@ template = "food-section.html"
 - [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
-- [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
-- [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steak)
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Monster Bowl ](https://themonsterbowl.com/)
 - [Jeepney](https://www.jeepneycaphill.com/home)
