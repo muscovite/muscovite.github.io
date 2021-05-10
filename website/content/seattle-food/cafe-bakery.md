@@ -54,6 +54,7 @@ template = "food-section.html"
 - [Mighty-O Donuts](https://www.mightyo.com/)
 - [Chocolati Cafe](https://chocolati.com/)
     - hot chocolates, mochas; truffles are kind of disappointing
+- [Selva Central Goods](https://www.selvacentralgoods.com/) (Central American inspired)
 - _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 
 ## Decent
@@ -64,8 +65,9 @@ template = "food-section.html"
 
 ## Not recommended
 - General Porpoise (donuts)
-- [La Dulce](https://www.ladulceseattle.com/)*
+- La Dulce*
     - Cheesecakes were good, silvanas and breads had mild detergent taste
+- Rey Amargo (chocolate)
 
 ## To try
 - [Setsuko](https://setsukopastry.com/)
@@ -79,5 +81,4 @@ template = "food-section.html"
 - [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
 - [Citizen Coffee](https://www.citizencoffee.com/)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe)
-- [Rey Amargo](https://www.reyamargo.us/) (chocolate)
 - [Treat Cookies](https://www.treatcookies.com/) (Burien! so far away)

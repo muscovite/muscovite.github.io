@@ -32,6 +32,12 @@ template = "food-section.html"
 - [Itsumono](https://itsumonoseattle.wixsite.com/home)
     - karaage, whatever creative food-of-the-day they cook up
 
+### Americanized Mexican
+- [Heavy Restaurant Group](http://www.heavyrestaurantgroup.com/)
+    - Barrio and Pablo y Pablo are basically the same restaurant in different locations
+    - Meet the Moon: pork carnitas
+    - they all have (the same) great guac
+
 ### Peruvian
 - [Don Lucho's](https://donluchosinseattle.com/)
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
