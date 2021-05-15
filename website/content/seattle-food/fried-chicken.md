@@ -29,6 +29,7 @@ template = "food-section.html"
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Milk Drunk](https://www.themilkdrunk.com/)
 - [Witness](https://witnessbar.com/)
+- [Taku](https://www.takuseattle.com/) (karaage)
 
 ## Not recommended
 - Sisters & Brothers
@@ -37,5 +38,4 @@ template = "food-section.html"
 - Nate's Wings & Waffles
 
 ## To try
-- [Taku](https://www.takuseattle.com/) (chicken karaage)
 - [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
