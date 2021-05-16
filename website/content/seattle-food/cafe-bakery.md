@@ -62,6 +62,7 @@ template = "food-section.html"
 - [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
 - [Lady Grey](https://www.ladygreyseattle.com/)* (cakes)
 - [Caffe Ladro](https://www.caffeladro.com/)
+- [Santo Coffee](https://www.santocoffee.co/)
 
 ## Not recommended
 - General Porpoise (donuts)
