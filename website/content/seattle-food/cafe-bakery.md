@@ -11,6 +11,7 @@ template = "food-section.html"
 - [Cafe Hagen](https://www.cafehagen.com/)
 - [Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)
 - [Monorail Espresso](https://monorailespresso.com/)
+    - their chubbies are great (think fat shortbread cookies)
 - [Mr. West](https://mrwestcafebar.com/)
 - [Zylberschtein's](https://www.zylberschtein.com/)
 - [Temple Pastries](https://www.templepastries.com/)
