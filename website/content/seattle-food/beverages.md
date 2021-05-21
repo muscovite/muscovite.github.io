@@ -9,10 +9,10 @@ template = "food-section.html"
 - [Sip House](https://www.siphousewa.com/)
 - [Coffeeholic](https://coffeeholichouse.com/)
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
+- [Seeking Kombucha](https://seekingkombucha.com/)
 
 ## Not recommended
 - Kung Fu Tea
 - Sharetea
 
 ## To try
-- [Seeking Kombucha](https://seekingkombucha.com/)

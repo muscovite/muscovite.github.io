@@ -11,7 +11,7 @@ template = "food-section.html"
 - [Cafe Hagen](https://www.cafehagen.com/)
 - [Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)
 - [Monorail Espresso](https://monorailespresso.com/)
-    - their chubbies are great (think fat shortbread cookies)
+    - mochas; chubbies (think fat shortbread cookies)
 - [Mr. West](https://mrwestcafebar.com/)
 - [Zylberschtein's](https://www.zylberschtein.com/)
 - [Temple Pastries](https://www.templepastries.com/)
@@ -57,6 +57,8 @@ template = "food-section.html"
     - hot chocolates, mochas; truffles are kind of disappointing
 - [Selva Central Goods](https://www.selvacentralgoods.com/) (Central American inspired)
 - _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
+- [Metropolitan Market](https://metropolitan-market.com/)
+    - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
@@ -64,18 +66,18 @@ template = "food-section.html"
 - [Lady Grey](https://www.ladygreyseattle.com/)* (cakes)
 - [Caffe Ladro](https://www.caffeladro.com/)
 - [Santo Coffee](https://www.santocoffee.co/)
+- [Graysea's Pies](https://grayseaspies.squarespace.com/)*
 
 ## Not recommended
 - General Porpoise (donuts)
 - La Dulce*
     - Cheesecakes were good, silvanas and breads had mild detergent taste
 - Rey Amargo (chocolate)
+- Lola's Traveling Tea Party
 
 ## To try
 - [Setsuko](https://setsukopastry.com/)
 - [Juliana Bakery](https://julianabakery.com/)*
-- [Lola's Traveling Tea Party](https://www.instagram.com/lolastravelingteaparty)*
-- [Graysea's Pies](https://grayseaspies.squarespace.com/)*
 - [Retreat](https://retreat-greenlake.com/)
 - [Cafe Arta](https://www.cafearta.com/)
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)

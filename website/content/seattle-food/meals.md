@@ -33,7 +33,7 @@ template = "food-section.html"
     - karaage, whatever creative food-of-the-day they cook up
 
 ### Americanized Mexican
-- [Heavy Restaurant Group](http://www.heavyrestaurantgroup.com/)
+- [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
     - Barrio and Pablo y Pablo are basically the same restaurant in different locations
     - Meet the Moon: pork carnitas
     - they all have (the same) great guac
@@ -79,6 +79,7 @@ template = "food-section.html"
 - [Cook Weaver](https://www.cookweaver.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
-- [Taku](https://www.takuseattle.com/) (chicken karaage)
 - [Single Shot](https://www.singleshotseattle.com/)
 - [Martino's](https://www.martinos.net/) (sandwiches, BBQ)
+- [Hangry Panda](https://hangrypandaseattle.square.site/)
+- [Ciudad](https://www.ciudadseattle.com/menu)

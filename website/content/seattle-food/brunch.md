@@ -13,6 +13,8 @@ template = "food-section.html"
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
+- [Eight Row](https://www.eightrow.com/)
+    - tasting menu style
 - _[Wandering Goose](https://www.thewanderinggoose.com/) (closed)_
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)_
@@ -30,3 +32,4 @@ template = "food-section.html"
 - [Samara](https://samaraseattle.com/)
 - [Single Shot](https://www.singleshotseattle.com/)
 - [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
+- [Volunteer Park Cafe](https://www.volunteerpark.cafe/) (opening soon)
