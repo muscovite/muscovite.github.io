@@ -7,7 +7,12 @@ Things to eat outside the greater Seattle area.
 
 # North America
 
-## Portland
+## San Juan Island, WA
+- [Duck Soup](https://www.ducksoupsanjuans.com/)
+- [Westcott Bay Shellfish](https://www.westcottbayshellfish.com/)
+- [Cafe Demeter](https://www.facebook.com/Cafe-Demeter-160086194143103/)
+
+## Portland, OR
 - [Wiz Bang Bar](https://saltandstraw.com/pages/wiz-bang-bar)
 - [Screen Door](https://screendoorrestaurant.com/) (chicken and waffles)
 - [Pie Spot](https://www.pie-spot.com/)
