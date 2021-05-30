@@ -55,6 +55,7 @@ template = "food-section.html"
 - [Monsoon](https://monsoonrestaurants.com/seattle/)
 - [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steakhouse)
 - [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
+- [Martino's](https://www.martinos.net/) (sandwiches, BBQ)
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
@@ -80,6 +81,5 @@ template = "food-section.html"
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
 - [Single Shot](https://www.singleshotseattle.com/)
-- [Martino's](https://www.martinos.net/) (sandwiches, BBQ)
 - [Hangry Panda](https://hangrypandaseattle.square.site/)
 - [Ciudad](https://www.ciudadseattle.com/menu)

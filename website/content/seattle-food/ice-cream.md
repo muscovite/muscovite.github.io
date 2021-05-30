@@ -32,4 +32,5 @@ template = "food-section.html"
 - Shug's
 
 ## To try
-- Laina's
+- [Laina's](https://lainasicecream.com/)
+- [Matcha Man Ice Cream & Taiyaki](https://www.instagram.com/matchamansea/?hl=en)

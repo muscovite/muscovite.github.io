@@ -33,6 +33,7 @@ template = "food-section.html"
 - [Boot Scootin Bread](https://boot-scootin-bread.square.site/)
 - [Saint Bread](https://www.saintbread.com/)
     - provisional inclusion; promising, but need more visits
+- [Milstead](http://milsteadandco.com/)
 
 ### Afternoon Teas
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)
@@ -86,3 +87,7 @@ template = "food-section.html"
 - [Citizen Coffee](https://www.citizencoffee.com/)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe)
 - [Treat Cookies](https://www.treatcookies.com/) (Burien! so far away)
+- [Moonrise Bakery](https://www.moonrise-bakery.com/) (formerly Le Reve)
+- [Tougo Coffee](https://www.facebook.com/tougocoffee/)
+    - carries some Asian-inspired caneles
+- [Aeipathy Patisserie](https://www.aeipathypatisserie.com/)
