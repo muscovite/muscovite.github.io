@@ -6,8 +6,8 @@ template = "food-section.html"
 ## Recommended
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
-- [Parfait](https://www.parfait-icecream.com/)
 - [KRYSE](https://kryse.squarespace.com/)*
+- _[Parfait](https://www.parfait-icecream.com/) (closed)_
 - _Lick Pure Cream (closed)_
 
 ### Tier 2
@@ -17,6 +17,7 @@ template = "food-section.html"
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - [Milk and Leaf Collective](https://milkandleaf.love/)*
 - [Molly Moon's](https://www.mollymoon.com/)
+- [Fancy Screams](https://www.fancyscreams.com/)*
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 
@@ -28,7 +29,9 @@ template = "food-section.html"
 - Salt & Straw
     - interesting sounding flavors rarely live up to expectations
 - Full Tilt
+    - Thai Tea and Ube are decent sometimes
 - Fainting Goat
+    - weird because they are basically the same store as Nutty Squirrel
 - Shug's
 
 ## To try

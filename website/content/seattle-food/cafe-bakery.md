@@ -57,9 +57,12 @@ template = "food-section.html"
 - [Chocolati Cafe](https://chocolati.com/)
     - hot chocolates, mochas; truffles are kind of disappointing
 - [Selva Central Goods](https://www.selvacentralgoods.com/) (Central American inspired)
-- _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
 - [Metropolitan Market](https://metropolitan-market.com/)
     - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
+- [Tall Grass Bakery](https://www.tallgrassbakery.com/)
+- _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
+- _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
+
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
@@ -91,3 +94,12 @@ template = "food-section.html"
 - [Tougo Coffee](https://www.facebook.com/tougocoffee/)
     - carries some Asian-inspired caneles
 - [Aeipathy Patisserie](https://www.aeipathypatisserie.com/)
+- [Rila Bakery](https://www.facebook.com/rilacake/)
+- [Zuri's Donuts](https://www.facebook.com/zurisdonutz/)
+- [Pligrim Coffeehouse](https://pilgrimcoffeehouse.com/)
+- [Snohomish Pie Co](https://snohomishpieco.com/)
+- [Pie Bar](https://thegenuinepiebar.com/) (Cap Hill)
+- [Pie Bar](https://www.piebar.com/) (Ballard/ Phinney)
+- [Cafe Besalu](https://www.cafebesalu.com/)
+- [A La Mode Pies](https://www.alamodeseattle.com/)
+- [Arosa Cafe](https://www.arosacafe.com/)
