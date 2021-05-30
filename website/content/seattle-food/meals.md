@@ -42,6 +42,7 @@ template = "food-section.html"
 - [Don Lucho's](https://donluchosinseattle.com/)
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - [Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)*
+- [Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)
 
 ### Sandwich-like
 - [Ma'ono](https://www.maonoseattle.com/)

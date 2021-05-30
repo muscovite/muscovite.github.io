@@ -91,7 +91,7 @@ template = "food-section.html"
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe)
 - [Treat Cookies](https://www.treatcookies.com/) (Burien! so far away)
 - [Moonrise Bakery](https://www.moonrise-bakery.com/) (formerly Le Reve)
-- [Tougo Coffee](https://www.facebook.com/tougocoffee/)
+- [Tougo Coffee](https://www.tougocoffee.com/)
     - carries some Asian-inspired caneles
 - [Aeipathy Patisserie](https://www.aeipathypatisserie.com/)
 - [Rila Bakery](https://www.facebook.com/rilacake/)
