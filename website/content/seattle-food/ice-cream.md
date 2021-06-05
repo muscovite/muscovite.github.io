@@ -13,11 +13,13 @@ template = "food-section.html"
 ### Tier 2
 - [Pink's/ Macadons](https://macadons.com/products/ice-cream-pint)*
 - [Seattle Pops](https://www.seattlepops.com/)
+
+### Tier 3
 - [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
+- [Fancy Screams](https://www.fancyscreams.com/)*
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - [Milk and Leaf Collective](https://milkandleaf.love/)*
 - [Molly Moon's](https://www.mollymoon.com/)
-- [Fancy Screams](https://www.fancyscreams.com/)*
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 

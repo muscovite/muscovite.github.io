@@ -27,13 +27,14 @@ template = "food-section.html"
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](https://www.cakelifeeveryday.com/)* (croissants)
 - [Red Arrow Coffee](https://www.redarrowcoffee.com/)
-- [The London Plane](https://www.thelondonplaneseattle.com/)
 - [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
 - [Sugar Bakery & Cafe](https://sugarbakerycafe.com/)
 - [Boot Scootin Bread](https://boot-scootin-bread.square.site/)
 - [Saint Bread](https://www.saintbread.com/)
     - provisional inclusion; promising, but need more visits
 - [Milstead](http://milsteadandco.com/)
+- [Aiepathy Patisserie](https://www.aeipathypatisserie.com/)
+    - good but kind of oily croissants, pretty good cinnamon roll
 
 ### Afternoon Teas
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)
@@ -103,3 +104,4 @@ template = "food-section.html"
 - [Cafe Besalu](https://www.cafebesalu.com/)
 - [A La Mode Pies](https://www.alamodeseattle.com/)
 - [Arosa Cafe](https://www.arosacafe.com/)
+- [The London Plane](https://www.thelondonplaneseattle.com/)
