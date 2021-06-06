@@ -35,6 +35,9 @@ template = "food-section.html"
 - [Milstead](http://milsteadandco.com/)
 - [Aiepathy Patisserie](https://www.aeipathypatisserie.com/)
     - good but kind of oily croissants, pretty good cinnamon roll
+- [Akio's Bakery](https://www.akiosbakery.com/)*
+    - Good cream puffs, though cream could be a bit stronger in flavor
+    - Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries
 
 ### Afternoon Teas
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)
