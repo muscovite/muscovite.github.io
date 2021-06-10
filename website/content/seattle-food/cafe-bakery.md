@@ -7,14 +7,14 @@ template = "food-section.html"
 ### General
 - [Sod House Bakery](https://sodhousebakery.square.site/)
 - [Cafe Javasti](https://javasti.com/)
-- [Bakery Nouveau](https://bakerynouveau.com/)
+- **[Bakery Nouveau](https://bakerynouveau.com/)**
 - [Cafe Hagen](https://www.cafehagen.com/)
-- [Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)
-- [Monorail Espresso](https://monorailespresso.com/)
+- **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
+- **[Monorail Espresso](https://monorailespresso.com/)**
     - mochas; chubbies (think fat shortbread cookies)
-- [Mr. West](https://mrwestcafebar.com/)
+- **[Mr. West](https://mrwestcafebar.com/)**
 - [Zylberschtein's](https://www.zylberschtein.com/)
-- [Temple Pastries](https://www.templepastries.com/)
+- **[Temple Pastries](https://www.templepastries.com/)**
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
 - [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
@@ -22,14 +22,14 @@ template = "food-section.html"
 - [Blackbird Bakery](https://blackbirdbakery.com/)
 - [SUSU Dessert Bar](https://www.instagram.com/sususeattle)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
-- [Sea Wolf](https://www.seawolfbakers.com/)
+- **[Sea Wolf](https://www.seawolfbakers.com/)**
 - [Cloud City Coffee](https://www.cloudcitycoffee.com/)
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](https://www.cakelifeeveryday.com/)* (croissants)
-- [Red Arrow Coffee](https://www.redarrowcoffee.com/)
+- **[Red Arrow Coffee](https://www.redarrowcoffee.com/)**
 - [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
 - [Sugar Bakery & Cafe](https://sugarbakerycafe.com/)
-- [Boot Scootin Bread](https://boot-scootin-bread.square.site/)
+- **[Boot Scootin Bread](https://boot-scootin-bread.square.site/)***
 - [Saint Bread](https://www.saintbread.com/)
     - provisional inclusion; promising, but need more visits
 - [Milstead](http://milsteadandco.com/)
@@ -38,24 +38,25 @@ template = "food-section.html"
 - [Akio's Bakery](https://www.akiosbakery.com/)*
     - Good cream puffs, though cream could be a bit stronger in flavor
     - Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries
+- [Bakery Honore](https://bakeryhonore.com/)
 
 ### Afternoon Teas
-- [Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)
+- **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
 
 ### Specialized
-- [Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)
-- [Tres Lecheria](https://www.treslecheria.com/) (tres leches cakes)
-- [Flour Box](https://www.theflourboxseattle.com/) (donuts)
+- **[Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)**
+- **[Tres Lecheria](https://www.treslecheria.com/) (tres leches cakes)**
+- **[Flour Box](https://www.theflourboxseattle.com/) (donuts)**
 - [Half & Half](https://www.halfandhalfdoughnuts.com/) (donuts)
 - [Hello Robin](https://www.hellorobincookies.com/) (cookies)
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
 - [Hot Cakes Molten Chocolate Cakery](https://getyourhotcakes.com/)
-- [Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)
-- [Pinckney Cookie Cafe](https://lovethesecookies.com/)*
-- [Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)*
+- **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**
+- **[Pinckney Cookie Cafe](https://lovethesecookies.com/)***
+- **[Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)***
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
-- [Macadons](https://macadons.com)*
-- [Coping Cookies](https://copingcookies.com/)*
+- **[Macadons](https://macadons.com)***
+- **[Coping Cookies](https://copingcookies.com/)***
 - [Salt & Other Vices](https://saltandothervices.com/)* (cookies)
 - [Mighty-O Donuts](https://www.mightyo.com/)
 - [Chocolati Cafe](https://chocolati.com/)
@@ -64,7 +65,8 @@ template = "food-section.html"
 - [Metropolitan Market](https://metropolitan-market.com/)
     - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
 - [Tall Grass Bakery](https://www.tallgrassbakery.com/)
-- _[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)_
+- [Grateful Bread](https://gratefulbreadbaking.com/)
+- _**[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)**_
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
 
 
@@ -97,7 +99,6 @@ template = "food-section.html"
 - [Moonrise Bakery](https://www.moonrise-bakery.com/) (formerly Le Reve)
 - [Tougo Coffee](https://www.tougocoffee.com/)
     - carries some Asian-inspired caneles
-- [Aeipathy Patisserie](https://www.aeipathypatisserie.com/)
 - [Rila Bakery](https://www.facebook.com/rilacake/)
 - [Zuri's Donuts](https://www.facebook.com/zurisdonutz/)
 - [Pligrim Coffeehouse](https://pilgrimcoffeehouse.com/)
@@ -108,3 +109,4 @@ template = "food-section.html"
 - [A La Mode Pies](https://www.alamodeseattle.com/)
 - [Arosa Cafe](https://www.arosacafe.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
+- [Crumble & Flake](https://crumbleandflake.com/)

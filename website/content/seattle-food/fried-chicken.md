@@ -20,9 +20,9 @@ template = "food-section.html"
 - _Thackeray (with pancakes) (closed)_
 
 ### Chicken pieces
-- [JuneBaby](https://www.junebabyseattle.com/) (bone-in chicken)
-- [Ma'ono](https://www.maonoseattle.com/) (tenders)
-- [Itsumono](https://itsumonoseattle.wixsite.com/home) (karaage)
+- **[JuneBaby](https://www.junebabyseattle.com/) (bone-in chicken)**
+- **[Ma'ono](https://www.maonoseattle.com/) (tenders)**
+- **[Itsumono](https://itsumonoseattle.wixsite.com/home) (karaage)**
 
 ## Decent
 - [S/T Hooligans](https://www.sthooligans.com/)
