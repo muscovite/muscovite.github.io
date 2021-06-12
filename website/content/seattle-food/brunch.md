@@ -32,3 +32,5 @@ template = "food-section.html"
 - [Single Shot](https://www.singleshotseattle.com/)
 - [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
 - [Volunteer Park Cafe](https://www.volunteerpark.cafe/) (opening soon)
+- [Revel](https://www.relayrestaurantgroup.com/restaurants/revel/) (Asian fusion)
+- [Rasai](https://rasaiwa.com/) (Indian fusion)

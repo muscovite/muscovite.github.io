@@ -16,7 +16,9 @@ template = "food-section.html"
 ## Decent
 - [Wataru](https://wataruseattle.com/)
 - [SAI Sushi & Sake](https://www.saisushiandsake.com/)
+- [Haymaker](https://www.haymakerseattle.com/)
 
 ## To try
 - [Art of the Table](https://www.artofthetable.net/)
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
+- [Violet](https://www.violetseattle.com/)

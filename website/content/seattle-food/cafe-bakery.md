@@ -110,3 +110,5 @@ template = "food-section.html"
 - [Arosa Cafe](https://www.arosacafe.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [Crumble & Flake](https://crumbleandflake.com/)
+- [Cakes + Trees](https://www.cakesandtrees.com/)
+- [Bell's Cookie Co](https://www.bellscookieco.com/)
