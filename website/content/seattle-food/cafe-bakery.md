@@ -66,6 +66,8 @@ template = "food-section.html"
     - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
 - [Tall Grass Bakery](https://www.tallgrassbakery.com/)
 - [Grateful Bread](https://gratefulbreadbaking.com/)
+- [Coco Pandan](https://cocopandansea.cococart.co/)*
+    - kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)
 - _**[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)**_
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
 

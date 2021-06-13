@@ -83,7 +83,6 @@ template = "food-section.html"
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Midnite Ramen](https://www.ramenseattle.com/menu)
 - [Single Shot](https://www.singleshotseattle.com/)
-- [Hangry Panda](https://hangrypandaseattle.square.site/)
 - [Ciudad](https://www.ciudadseattle.com/menu) (Mediterranean inspired)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
