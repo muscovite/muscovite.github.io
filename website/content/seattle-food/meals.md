@@ -32,13 +32,15 @@ template = "food-section.html"
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home)**
     - karaage, whatever creative food-of-the-day they cook up
 - [Jeepney](https://www.jeepneycaphill.com/home)
+- [Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)
+    - probably the best Malay food I've had since Singapore days
 
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
     - Barrio and Pablo y Pablo are basically the same restaurant in different locations
     - Meet the Moon: pork carnitas
-    - they all have (the same) great guac
+    - they all have the same great guac (usually)
 
 ### Peruvian
 - **[Don Lucho's](https://donluchosinseattle.com/)**
