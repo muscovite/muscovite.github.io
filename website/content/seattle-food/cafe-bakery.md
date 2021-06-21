@@ -9,7 +9,6 @@ template = "food-section.html"
 - [Cafe Javasti](https://javasti.com/)
 - **[Bakery Nouveau](https://bakerynouveau.com/)**
 - [Cafe Hagen](https://www.cafehagen.com/)
-- **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
 - **[Monorail Espresso](https://monorailespresso.com/)**
     - mochas; chubbies (think fat shortbread cookies)
 - **[Mr. West](https://mrwestcafebar.com/)**
@@ -20,7 +19,6 @@ template = "food-section.html"
 - [Rosellini's](https://rosellinis.com/)
 - [Preserve & Gather](https://www.preserveandgather.com/)
 - [Blackbird Bakery](https://blackbirdbakery.com/)
-- [SUSU Dessert Bar](https://www.instagram.com/sususeattle)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
 - **[Sea Wolf](https://www.seawolfbakers.com/)**
 - [Cloud City Coffee](https://www.cloudcitycoffee.com/)
@@ -35,10 +33,19 @@ template = "food-section.html"
 - [Milstead](http://milsteadandco.com/)
 - [Aiepathy Patisserie](https://www.aeipathypatisserie.com/)
     - good but kind of oily croissants, pretty good cinnamon roll
+- [Bakery Honore](https://bakeryhonore.com/)
+
+### Asian/ Asian inspired
+- [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
 - [Akio's Bakery](https://www.akiosbakery.com/)*
     - Good cream puffs, though cream could be a bit stronger in flavor
     - Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries
-- [Bakery Honore](https://bakeryhonore.com/)
+- **[SUSU Dessert Bar](https://www.instagram.com/sususeattle)**
+- **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
+- [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
+- **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**
+- [Coco Pandan](https://cocopandansea.cococart.co/)*
+    - kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
@@ -49,9 +56,7 @@ template = "food-section.html"
 - **[Flour Box](https://www.theflourboxseattle.com/) (donuts)**
 - [Half & Half](https://www.halfandhalfdoughnuts.com/) (donuts)
 - [Hello Robin](https://www.hellorobincookies.com/) (cookies)
-- [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
 - [Hot Cakes Molten Chocolate Cakery](https://getyourhotcakes.com/)
-- **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**
 - **[Pinckney Cookie Cafe](https://lovethesecookies.com/)***
 - **[Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)***
 - [PieCurious](https://www.instagram.com/piecurious.seattle/)*
@@ -66,15 +71,12 @@ template = "food-section.html"
     - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
 - [Tall Grass Bakery](https://www.tallgrassbakery.com/)
 - [Grateful Bread](https://gratefulbreadbaking.com/)
-- [Coco Pandan](https://cocopandansea.cococart.co/)*
-    - kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)
 - _**[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)**_
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
 
-
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
-- [Boon Boona Coffee](https://www.boonboonacoffee.com/) (once Cap Hill location opens)
+- [Boon Boona Coffee](https://www.boonboonacoffee.com/)
 - [Lady Grey](https://www.ladygreyseattle.com/)* (cakes)
 - [Caffe Ladro](https://www.caffeladro.com/)
 - [Santo Coffee](https://www.santocoffee.co/)
@@ -113,4 +115,3 @@ template = "food-section.html"
 - [The London Plane](https://www.thelondonplaneseattle.com/)
 - [Crumble & Flake](https://crumbleandflake.com/)
 - [Cakes + Trees](https://www.cakesandtrees.com/)
-- [Bell's Cookie Co](https://www.bellscookieco.com/)
