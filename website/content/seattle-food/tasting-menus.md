@@ -4,16 +4,21 @@ template = "food-section.html"
 +++
 
 ## Recommended
+### Tier 1
 - [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
+- [Sushi Kashiba](https://sushikashiba.com/)
+
+## Tier 2
 - [Eight Row](https://www.eightrow.com/)
 - [The Shambles](https://www.delimeatsbar.com/)
-- [Sushi Kashiba](https://sushikashiba.com/)
 - [Altura](https://alturarestaurant.com/)
+
+## Tier 3
 - [The Herbfarm](https://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
-- [Eden Hill](https://www.edenhillrestaurant.com/)
 
 ## Decent
+- [Eden Hill](https://www.edenhillrestaurant.com/)
 - [Wataru](https://wataruseattle.com/)
 - [SAI Sushi & Sake](https://www.saisushiandsake.com/)
 - [Haymaker](https://www.haymakerseattle.com/)
@@ -22,3 +27,4 @@ template = "food-section.html"
 - [Art of the Table](https://www.artofthetable.net/)
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
 - [Violet](https://www.violetseattle.com/)
+- [Archipelago](https://www.archipelagoseattle.com/)
