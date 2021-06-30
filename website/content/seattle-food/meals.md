@@ -32,9 +32,10 @@ template = "food-section.html"
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home)**
     - karaage, whatever creative food-of-the-day they cook up
 - [Jeepney](https://www.jeepneycaphill.com/home)
-- [Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)
+- [Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)*
     - probably the best Malay food I've had since Singapore days
-
+- [Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)*
+    - chili crab!!
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)

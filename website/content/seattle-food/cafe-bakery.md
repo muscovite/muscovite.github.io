@@ -46,6 +46,8 @@ template = "food-section.html"
 - **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**
 - [Coco Pandan](https://cocopandansea.cococart.co/)*
     - kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)
+- [Hello Em](https://www.instagram.com/hello.em_coffee/?hl=en) (Vietnamese inspired)
+- [Kinako and Goma](https://www.instagram.com/kinakoandgoma/?hl=en) (East/ SE Asia flavors)
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
