@@ -10,6 +10,7 @@ template = "food-section.html"
 
 ## Tier 2
 - [Eight Row](https://www.eightrow.com/)
+- [Archipelago](https://www.archipelagoseattle.com/)
 - [The Shambles](https://www.delimeatsbar.com/)
 - [Altura](https://alturarestaurant.com/)
 

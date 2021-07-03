@@ -34,8 +34,9 @@ template = "food-section.html"
 - [Jeepney](https://www.jeepneycaphill.com/home)
 - [Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)*
     - probably the best Malay food I've had since Singapore days
-- [Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)*
+- **[Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)***
     - chili crab!!
+- [Rasai](https://rasaiwa.com/) (Modernized Indian)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -68,11 +69,9 @@ template = "food-section.html"
 - Siembra (Peruvian inspired)*
 
 ## To try
-- [Archipelago](https://www.archipelagoseattle.com/) (Filipino)
 - [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
-- [Monster Bowl ](https://themonsterbowl.com/)
 - [Calluna](https://callunaseattle.com/)
 - [Shiro's](https://shiros.com/)
 - [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
