@@ -34,6 +34,8 @@ template = "food-section.html"
 - [Aiepathy Patisserie](https://www.aeipathypatisserie.com/)
     - good but kind of oily croissants, pretty good cinnamon roll
 - [Bakery Honore](https://bakeryhonore.com/)
+- [Union Coffee](https://unioncoffeeseattle.com/)
+    - trivia: used to be owned by husband of Molly Moon's founder
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -83,6 +85,8 @@ template = "food-section.html"
 - [Caffe Ladro](https://www.caffeladro.com/)
 - [Santo Coffee](https://www.santocoffee.co/)
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
+- [Kaffeeklatsch](https://www.facebook.com/KaffeeklatschSeattle/)
+- [Backyard Bakery Maple Leaf](https://seattlebackyardbakery.com/)
 
 ## Not recommended
 - General Porpoise (donuts)
