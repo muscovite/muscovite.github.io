@@ -6,6 +6,7 @@ template = "food-section.html"
 ## Recommended
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
+    - seasonal flavors are where they shine; vanilla also good
 - [KRYSE](https://kryse.squarespace.com/)*
 - _[Parfait](https://www.parfait-icecream.com/) (closed)_
 - _Lick Pure Cream (closed)_
