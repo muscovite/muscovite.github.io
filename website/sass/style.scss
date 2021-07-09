@@ -42,7 +42,7 @@ $font-serif: "Georgia", serif;
     }
 
     ul {
-        margin-bottom: 1em;
+        margin-top: 0em;
     }
 }
 
@@ -52,8 +52,14 @@ $font-serif: "Georgia", serif;
 }
 
 // Bulma overrides
-.content li+li {
-    margin: 0em;
+.content {
+    li+li {
+        margin: 0em;
+    }
+
+    ul ul {
+        margin-top: 0em;
+    }
 }
 
 .navbar-brand a {
