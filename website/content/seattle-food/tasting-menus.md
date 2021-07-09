@@ -28,4 +28,3 @@ template = "food-section.html"
 - [Art of the Table](https://www.artofthetable.net/)
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
 - [Violet](https://www.violetseattle.com/)
-- [Archipelago](https://www.archipelagoseattle.com/)
