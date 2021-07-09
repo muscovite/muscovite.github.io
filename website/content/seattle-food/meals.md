@@ -37,6 +37,8 @@ template = "food-section.html"
 - **[Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)***
     - chili crab!!
 - [Rasai](https://rasaiwa.com/) (Modernized Indian)
+- **[Kamonegi](https://www.kamonegiseattle.com/)**
+    - specializes in soba
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -69,7 +71,6 @@ template = "food-section.html"
 - Siembra (Peruvian inspired)*
 
 ## To try
-- [Kamonegi](https://www.kamonegiseattle.com/)
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
 - [Calluna](https://callunaseattle.com/)

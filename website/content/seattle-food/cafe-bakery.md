@@ -36,6 +36,9 @@ template = "food-section.html"
 - [Bakery Honore](https://bakeryhonore.com/)
 - [Union Coffee](https://unioncoffeeseattle.com/)
     - trivia: used to be owned by husband of Molly Moon's founder
+- **[Cafe Besalu](https://www.cafebesalu.com/)**
+    - croissant-dough pastries are consistently good
+
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -115,7 +118,6 @@ template = "food-section.html"
 - [Snohomish Pie Co](https://snohomishpieco.com/)
 - [Pie Bar](https://thegenuinepiebar.com/) (Cap Hill)
 - [Pie Bar](https://www.piebar.com/) (Ballard/ Phinney)
-- [Cafe Besalu](https://www.cafebesalu.com/)
 - [A La Mode Pies](https://www.alamodeseattle.com/)
 - [Arosa Cafe](https://www.arosacafe.com/)
 - [The London Plane](https://www.thelondonplaneseattle.com/)
