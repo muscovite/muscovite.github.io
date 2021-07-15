@@ -47,7 +47,16 @@ Things to eat outside the greater Seattle area.
 - [Kaylee's Creamery](https://www.kayleescreamery.com/menu)
 
 ## Houston
-- [Pho Saigon](https://www.yelp.com/biz/pho-saigon-houston-12)
+- [Pho Saigon (Midtown)](https://www.yelp.com/biz/pho-saigon-houston-12)
+
+## Austin, TX
+- [Gati](https://www.gatiicecream.com/)
+- [Inka Chicken](https://inka-chicken.com/)
+    - not their alfajores
+- [Madam Mam's](https://www.madammam.com/)
+- [Interstellar](https://www.theinterstellarbbq.com/)
+- [Veracruz All Natural](https://www.veracruzallnatural.com/)
+    - great guac & chips, juice drinks; tacos average (high Austin standards!) to good
 
 # Asia
 
