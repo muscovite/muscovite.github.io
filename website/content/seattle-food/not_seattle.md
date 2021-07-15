@@ -29,6 +29,10 @@ Things to eat outside the greater Seattle area.
 - [Pix Patisserie](https://www.pixpatisserie.com/)
 - [Papa Haydn](https://www.papahaydn.com/)
 
+## Eugene, OR
+- [Off the Waffle](https://offthewaffle.com/)
+    - bring their frozen liege waffles home!
+
 ## Vancouver, B.C
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)
 - [Medina](https://www.medinacafe.com/) (breakfast/brunch)
@@ -45,6 +49,9 @@ Things to eat outside the greater Seattle area.
 - [Spot Dessert Bar](https://www.spotdessertbar.com/)
 - [Morgenstern's](https://www.morgensternsnyc.com/)
 - [Kaylee's Creamery](https://www.kayleescreamery.com/menu)
+
+### To try
+- [Fan Fan Doughnuts](https://www.fan-fandoughnuts.com/)
 
 ## Houston
 - [Pho Saigon (Midtown)](https://www.yelp.com/biz/pho-saigon-houston-12)

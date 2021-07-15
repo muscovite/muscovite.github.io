@@ -91,3 +91,5 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
+- [Canlis](https://canlis.com/)
+    - mostly for the views and to see if new executive chef is doing anything interesting
