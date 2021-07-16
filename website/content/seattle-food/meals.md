@@ -25,6 +25,7 @@ template = "food-section.html"
 - **[DoughZone](https://www.doughzonedumplinghouse.com/)**
 - **[19 Gold](https://www.19goldseattle.com/)**
 - _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (temp. closed)**_
+- _[Happy Grillmore](https://www.facebook.com/HappyGrillmoreBurgers/) (Filipino-inspired burgers) (closed)_
 - **[Kathmandu Momocha](https://www.kathmandumomocha.com/)***
 - [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)

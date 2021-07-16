@@ -90,6 +90,7 @@ template = "food-section.html"
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
 - [Kaffeeklatsch](https://www.facebook.com/KaffeeklatschSeattle/)
 - [Backyard Bakery Maple Leaf](https://seattlebackyardbakery.com/)
+- [Cakes + Trees](https://www.cakesandtrees.com/)
 
 ## Not recommended
 - General Porpoise (donuts)

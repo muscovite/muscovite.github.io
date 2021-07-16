@@ -17,12 +17,14 @@ template = "food-section.html"
 
 ### Chicken & Bread
 - [Seattle Biscuit Co.](https://seattlebiscuitcompany.com/) (with biscuit)
+- [Fat's Chicken & Waffles](https://fatschickenandwaffles.com/) (with honey butter & biscuit)
 - _Thackeray (with pancakes) (closed)_
 
 ### Chicken pieces
 - **[JuneBaby](https://www.junebabyseattle.com/) (bone-in chicken)**
 - **[Ma'ono](https://www.maonoseattle.com/) (tenders)**
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home) (karaage)**
+- [Fat's Chicken & Waffles](https://fatschickenandwaffles.com/)
 
 ## Decent
 - [S/T Hooligans](https://www.sthooligans.com/)
