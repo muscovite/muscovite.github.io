@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://muscovite.github.io/sitemap.xml
