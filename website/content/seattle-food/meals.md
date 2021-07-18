@@ -40,6 +40,8 @@ template = "food-section.html"
 - [Rasai](https://rasaiwa.com/) (Modernized Indian)
 - **[Kamonegi](https://www.kamonegiseattle.com/)**
     - specializes in soba
+- [Chiang's Gourmet](https://chiangsgourmetseattle.com/) (dim sum)
+    - weekends only; have off menu items, like har gow!
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)

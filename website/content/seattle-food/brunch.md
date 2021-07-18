@@ -19,6 +19,8 @@ template = "food-section.html"
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
 - _**[Sweetgrass](https://www.yelp.com/biz/sweetgrass-food-seattle-3) (closed)**_
+- [Chiang's Gourmet](https://chiangsgourmetseattle.com/) (dim sum)
+    - weekends only; have off menu items, like har gow!
 
 ## Decent
 - [Monsoon](https://monsoonrestaurants.com/seattle/)

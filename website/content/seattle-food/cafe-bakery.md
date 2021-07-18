@@ -80,6 +80,7 @@ template = "food-section.html"
 - [Grateful Bread](https://gratefulbreadbaking.com/)
 - _**[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)**_
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
+- [Oso Negro Baking Co](https://www.osonegrobakingco.com/) (Argentinian alfajores)
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
