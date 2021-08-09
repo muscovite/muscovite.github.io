@@ -38,6 +38,7 @@ template = "food-section.html"
     - trivia: used to be owned by husband of Molly Moon's founder
 - **[Cafe Besalu](https://www.cafebesalu.com/)**
     - croissant-dough pastries are consistently good
+- [Lighthouse Roasters](https://lighthouseroasters.com/)
 
 
 ### Asian/ Asian inspired
