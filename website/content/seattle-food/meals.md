@@ -4,21 +4,6 @@ template = "food-section.html"
 +++
 
 ## Recommended
-### American/European, generally
-- **[Meet the Moon](https://meetthemooncafe.com/)**
-- [The Shambles](https://www.delimeatsbar.com/)
-- **[Eight Row](https://www.eightrow.com/)**
-- **[Bateau](https://www.restaurantbateau.com/)**
-- [Korochka Tavern](https://www.korochkatavern.net/)
-- [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
-- [Salare](https://www.salarerestaurant.com/)
-- **[Manolin](https://www.manolinseattle.com/)**
-- **[JuneBaby](https://www.junebabyseattle.com/)**
-- _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
-- **[S/T Hooligans](https://www.sthooligans.com/)**
-    - Bread pudding and brisket sandwich
-- [Sunny Hill](https://www.sunnyhillseattle.com/)
-
 ### Asian, generally
 - **[Little Ting's Dumplings](https://www.yelp.com/biz/little-tings-dumplings-seattle)**
 - **[Din Tai Fung](https://www.dintaifungusa.com/us/locations/seattle-university-village.html)**
@@ -62,6 +47,22 @@ template = "food-section.html"
 - [Un Bien](https://www.unbienseattle.com/)
 - **[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)**
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
+
+### American/European etc, generally
+- **[Meet the Moon](https://meetthemooncafe.com/)**
+- [The Shambles](https://www.delimeatsbar.com/)
+- **[Eight Row](https://www.eightrow.com/)**
+- **[Bateau](https://www.restaurantbateau.com/)**
+- [Korochka Tavern](https://www.korochkatavern.net/)
+- [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
+- [Salare](https://www.salarerestaurant.com/)
+- **[Manolin](https://www.manolinseattle.com/)**
+- **[JuneBaby](https://www.junebabyseattle.com/)**
+- _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
+- **[S/T Hooligans](https://www.sthooligans.com/)**
+    - Bread pudding and brisket sandwich
+- [Sunny Hill](https://www.sunnyhillseattle.com/)
+- [Corvus & Co.](https://www.corvusandcompany.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
