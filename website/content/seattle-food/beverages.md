@@ -11,6 +11,9 @@ template = "food-section.html"
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
 - [Seeking Kombucha](https://seekingkombucha.com/)
 
+## Decent
+- [Happy Lemon](https://happylemonseattle.com/)
+
 ## Not recommended
 - Kung Fu Tea
 - Sharetea

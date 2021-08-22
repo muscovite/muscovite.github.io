@@ -39,6 +39,7 @@ template = "food-section.html"
 - **[Cafe Besalu](https://www.cafebesalu.com/)**
     - croissant-dough pastries are consistently good
 - [Lighthouse Roasters](https://lighthouseroasters.com/)
+- [Volunteer Park Cafe](https://www.volunteerpark.cafe/)
 
 
 ### Asian/ Asian inspired
