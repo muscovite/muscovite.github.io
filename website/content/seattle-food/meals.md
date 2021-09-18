@@ -18,9 +18,10 @@ template = "food-section.html"
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home)**
     - karaage, whatever creative food-of-the-day they cook up
 - [Jeepney](https://www.jeepneycaphill.com/home)
-- [Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)*
+- **[Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)***
     - probably the best Malay food I've had since Singapore days
 - **[Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)***
+    - pickup in Lynnwood; delivery available for a fee
     - chili crab!!
 - [Rasai](https://rasaiwa.com/) (Modernized Indian)
 - **[Kamonegi](https://www.kamonegiseattle.com/)**
@@ -59,7 +60,7 @@ template = "food-section.html"
 - **[Manolin](https://www.manolinseattle.com/)**
 - **[JuneBaby](https://www.junebabyseattle.com/)**
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
-- **[S/T Hooligans](https://www.sthooligans.com/)**
+- [S/T Hooligans](https://www.sthooligans.com/)
     - Bread pudding and brisket sandwich
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Corvus & Co.](https://www.corvusandcompany.com/)

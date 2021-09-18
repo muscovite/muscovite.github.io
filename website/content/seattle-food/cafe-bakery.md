@@ -48,6 +48,7 @@ template = "food-section.html"
     - Good cream puffs, though cream could be a bit stronger in flavor
     - Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries
 - **[SUSU Dessert Bar](https://www.instagram.com/sususeattle)**
+    - Need to get in line 1~1.5 hours before opening to ensure widest choice of items. The line also moves extremely slowly as there's only one person both taking and packing orders
 - **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
 - **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**

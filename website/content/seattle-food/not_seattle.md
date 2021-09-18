@@ -13,11 +13,13 @@ Things to eat outside the greater Seattle area.
 - [Cafe Demeter](https://www.facebook.com/Cafe-Demeter-160086194143103/)
 
 ## Portland, OR
-- [Wiz Bang Bar](https://saltandstraw.com/pages/wiz-bang-bar)
+- _[Wiz Bang Bar](https://saltandstraw.com/pages/wiz-bang-bar) (closed indefinitely)_
 - [Screen Door](https://screendoorrestaurant.com/) (chicken and waffles)
 - [Pie Spot](https://www.pie-spot.com/)
 - [Pine State Biscuits](https://www.pinestatebiscuits.com/)
 - [Andina](https://www.andinarestaurant.com/)
+- [Kopi Coffee Company](https://www.kopicoffeeco.com/)
+- [Doe Donuts](https://www.doedonuts.com/)
 
 ### To try
 - [Kimura Toast Bar](https://kimuratoast.com/)
