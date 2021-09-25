@@ -58,8 +58,8 @@ Things to eat outside the greater Seattle area.
 
 ## Houston
 - [Pho Saigon (Midtown)](https://www.yelp.com/biz/pho-saigon-houston-12)
-- [Singapore Cafe][https://singaporecafesugarland.com/]
-- [Sur Latin Peruvian Cuisine][https://www.surlatinfood.com/]
+- [Singapore Cafe](https://singaporecafesugarland.com/)
+- [Sur Latin Peruvian Cuisine](https://www.surlatinfood.com/)
     - lucuma shake
 
 ## Austin, TX
