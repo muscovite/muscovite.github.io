@@ -11,10 +11,12 @@ template = "food-section.html"
 - [Sip House](https://www.siphousewa.com/)
 - [Coffeeholic](https://coffeeholichouse.com/)
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
+    - All the flavors kind of blur together, but they're all good
 - [Seeking Kombucha](https://seekingkombucha.com/)
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)
+   - Get: matcha avocado shake
 
 ## Not recommended
 - Kung Fu Tea

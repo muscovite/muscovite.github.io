@@ -6,9 +6,11 @@ template = "food-section.html"
 ## Recommended
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
-    - seasonal flavors are where they shine; vanilla also good
+    - Seasonal flavors are where they shine; vanilla also good
 - [KRYSE](https://kryse.squarespace.com/)*
+    - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _[Parfait](https://www.parfait-icecream.com/) (closed)_
+    - Get: vegan double chocolate dip bars, vegan chocolate, matcha
 - _Lick Pure Cream (closed)_
 
 ### Tier 2
@@ -21,6 +23,8 @@ template = "food-section.html"
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - [Milk and Leaf Collective](https://milkandleaf.love/)*
 - [Molly Moon's](https://www.mollymoon.com/)
+    - They've been slowly declining over the years ):
+    - Get: waffle cone, chocolate hard shell
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 
@@ -30,11 +34,11 @@ template = "food-section.html"
 
 ## Not recommended
 - Salt & Straw
-    - interesting sounding flavors rarely live up to expectations
+    - Interesting sounding flavors rarely live up to expectations
 - Full Tilt
     - Thai Tea and Ube are decent sometimes
 - Fainting Goat
-    - weird because they are basically the same store as Nutty Squirrel
+    - Weird because they are basically the same store as Nutty Squirrel (owned by either parents/children of FG's owners)
 - Shug's
 
 ## To try

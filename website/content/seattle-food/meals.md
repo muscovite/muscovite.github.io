@@ -7,8 +7,10 @@ template = "food-section.html"
 ### Asian, generally
 - **[Little Ting's Dumplings](https://www.yelp.com/biz/little-tings-dumplings-seattle)**
 - **[Din Tai Fung](https://www.dintaifungusa.com/us/locations/seattle-university-village.html)**
+    - Get: xiao long bao
 - **[DoughZone](https://www.doughzonedumplinghouse.com/)**
 - **[19 Gold](https://www.19goldseattle.com/)**
+    - Get: green onion pancake, beef noodle soup, malatang, minced pork over rice
 - _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (temp. closed)**_
 - _[Happy Grillmore](https://www.facebook.com/HappyGrillmoreBurgers/) (Filipino-inspired burgers) (closed)_
 - **[Kathmandu Momocha](https://www.kathmandumomocha.com/)***
@@ -16,18 +18,19 @@ template = "food-section.html"
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
 - **[Musang](https://www.musangseattle.com/) (Filipino)**
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home)**
-    - karaage, whatever creative food-of-the-day they cook up
+    - Get: karaage, whatever creative food-of-the-day they cook up
 - [Jeepney](https://www.jeepneycaphill.com/home)
 - **[Masakan](https://www.instagram.com/masakanseattle/?hl=en) (Malay)***
     - probably the best Malay food I've had since Singapore days
 - **[Marimakan](https://www.instagram.com/marimakanseattle/?hl=en) (Singapore/Malay)***
     - pickup in Lynnwood; delivery available for a fee
-    - chili crab!!
+    - Have tried: chili crab, char kway teow, duck egg kaya
 - [Rasai](https://rasaiwa.com/) (Modernized Indian)
 - **[Kamonegi](https://www.kamonegiseattle.com/)**
     - specializes in soba
 - [Chiang's Gourmet](https://chiangsgourmetseattle.com/) (dim sum)
     - weekends only; have off menu items, like har gow!
+- [Kobuta and Ookami](https://www.kobutaandookami.com/) (pork katsu)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -39,12 +42,16 @@ template = "food-section.html"
 - **[Don Lucho's](https://donluchosinseattle.com/)**
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)***
-    - worth traveling for their sushi
+    - Opening in Pioneer Square soon!
 - **[Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)**
+    - Still need to try their pollo a la brasa
 
 ### Sandwich-like
 - **[Ma'ono](https://www.maonoseattle.com/)**
+    - Get: sandwich, tenders, mac & kimcheese, hawaiian BBQ
+    - Pass: drumsticks, fries
 - **[Arepa Venezuelan Kitchen](https://www.facebook.com/ArepaVen/)**
+    - Get: special steak
 - [Un Bien](https://www.unbienseattle.com/)
 - **[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)**
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
@@ -61,7 +68,7 @@ template = "food-section.html"
 - **[JuneBaby](https://www.junebabyseattle.com/)**
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
 - [S/T Hooligans](https://www.sthooligans.com/)
-    - Bread pudding and brisket sandwich
+    - Get: bread pudding and brisket sandwich
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Corvus & Co.](https://www.corvusandcompany.com/)
 

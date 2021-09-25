@@ -20,6 +20,7 @@ Things to eat outside the greater Seattle area.
 - [Andina](https://www.andinarestaurant.com/)
 - [Kopi Coffee Company](https://www.kopicoffeeco.com/)
 - [Doe Donuts](https://www.doedonuts.com/)
+    - Their long donut boxes are kind of awkward if you order more than a few
 
 ### To try
 - [Kimura Toast Bar](https://kimuratoast.com/)
@@ -33,7 +34,7 @@ Things to eat outside the greater Seattle area.
 
 ## Eugene, OR
 - [Off the Waffle](https://offthewaffle.com/)
-    - bring their frozen liege waffles home!
+    - Bring their frozen liege waffles home!
 
 ## Vancouver, B.C
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)
@@ -64,7 +65,7 @@ Things to eat outside the greater Seattle area.
 ## Austin, TX
 - [Gati](https://www.gatiicecream.com/)
 - [Inka Chicken](https://inka-chicken.com/)
-    - not their alfajores
+    - Pass: alfajores
 - [Madam Mam's](https://www.madammam.com/)
 - [Interstellar](https://www.theinterstellarbbq.com/)
 - [Veracruz All Natural](https://www.veracruzallnatural.com/)
@@ -80,6 +81,7 @@ Things to eat outside the greater Seattle area.
 
 ### Tokyo
 - [Bepocah](https://www.bepocah.com/en/index.html)
+    - The seco with wagyu was divine
 - [Fuglen](https://www.fuglen.no/) (coffee)
 - Nanaya (intense matcha ice cream)
 - Tonkatsu Maisen
@@ -88,6 +90,7 @@ Things to eat outside the greater Seattle area.
 - Rakusho (traditional sweets, koi pond)
 - [Walden Woods](https://www.walden-woods.com/) (coffee)
 - Yume Wo Katare (ramen)
+    - has a sibling restaurant in Boston
 - Musubi (some tiny place with amazing beef, small plates)
 
 ### Uji
