@@ -94,8 +94,7 @@ $font-serif: "Georgia", serif;
         }
     }
 
-    // active so you can click on mobile
-    .food-listing:hover > .food-descriptor, .food-listing:active > .food-descriptor {
+    .food-listing:hover > .food-descriptor, .food-listing:active > .food-descriptor, .food-listing:focus > .food-descriptor {
         display: inline-block;
     }
 }

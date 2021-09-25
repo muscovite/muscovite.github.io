@@ -19,6 +19,7 @@ template = "food-section.html"
 - **[Mr. West](https://mrwestcafebar.com/)**
 - [Zylberschtein's](https://www.zylberschtein.com/)
 - **[Temple Pastries](https://www.templepastries.com/)**
+    - Get: croissants, macarons, seasonal mini cakes
 - [Coyle's Bakeshop](https://www.coylesbakeshop.com/)
 - [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
