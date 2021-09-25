@@ -44,6 +44,60 @@ $font-serif: "Georgia", serif;
     ul {
         margin-top: 0em;
     }
+
+    // Food entry
+    .food-listing {
+        position: relative;
+    }
+
+    // Keep description hidden before JS loads
+    ul > li > ul {
+        display: none;
+    }
+
+    // Food entry description
+    .food-descriptor {
+        display: none;
+        list-style: none;
+
+        bottom: 0;
+        border-radius: 20px;
+        padding: 8px 15px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 25%;
+        background-color: #EEE;
+        position: absolute;
+
+        :before {
+            content: "";
+            position: absolute;
+            z-index: 0;
+            bottom: 0;
+            left: -7px;
+            height: 20px;
+            width: 20px;
+            background: #EEE;
+            border-bottom-right-radius: 15px;
+        }
+
+        :after {
+            content: "";
+            position: absolute;
+            z-index: 1;
+            bottom: 0;
+            left: -10px;
+            width: 10px;
+            height: 20px;
+            background: white;
+            border-bottom-right-radius: 10px;
+        }
+    }
+
+    // active so you can click on mobile
+    .food-listing:hover > .food-descriptor, .food-listing:active > .food-descriptor {
+        display: inline-block;
+    }
 }
 
 .popup-note {

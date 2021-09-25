@@ -29,3 +29,5 @@ template = "food-section.html"
 - [Art of the Table](https://www.artofthetable.net/)
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
 - [Violet](https://www.violetseattle.com/)
+- [Canlis](https://canlis.com/)
+    - mostly for the views and to see if new executive chef is doing anything interesting
