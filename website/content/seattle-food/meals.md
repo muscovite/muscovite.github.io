@@ -53,6 +53,7 @@ template = "food-section.html"
 - **[Arepa Venezuelan Kitchen](https://www.facebook.com/ArepaVen/)**
     - Get: special steak
 - [Un Bien](https://www.unbienseattle.com/)
+    - Get: the press
 - **[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)**
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
 
@@ -80,7 +81,7 @@ template = "food-section.html"
 - [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
 - [Martino's](https://www.martinos.net/) (sandwiches, BBQ)
 - [Paseo](https://www.paseo.com/) (Caribbean sandwiches)
-    - note: now has a different owner than the much lauded original, but may or may not have some of the same staff 
+    - Note: now has a different owner than the much lauded original, but may or may not have some of the same staff 
 
 ## Not recommended
 - Siembra (Peruvian inspired)*

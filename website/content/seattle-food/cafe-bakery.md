@@ -119,7 +119,8 @@ template = "food-section.html"
 ## Not recommended
 - General Porpoise (donuts)
 - La Dulce*
-    - Cheesecakes were good, silvanas and breads had mild detergent taste
+    - Silvanas and breads had mild detergent taste
+    - Cheesecakes were okay, but kind of imploded and the volume made up for with whipped cream??
 - Rey Amargo (chocolate)
 - Lola's Traveling Tea Party
 - Saint Bread

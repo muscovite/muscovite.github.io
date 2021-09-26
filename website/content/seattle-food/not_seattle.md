@@ -14,7 +14,8 @@ Things to eat outside the greater Seattle area.
 
 ## Portland, OR
 - _[Wiz Bang Bar](https://saltandstraw.com/pages/wiz-bang-bar) (closed indefinitely)_
-- [Screen Door](https://screendoorrestaurant.com/) (chicken and waffles)
+- [Screen Door](https://screendoorrestaurant.com/)
+    - Get: chicken and waffles
 - [Pie Spot](https://www.pie-spot.com/)
 - [Pine State Biscuits](https://www.pinestatebiscuits.com/)
 - [Andina](https://www.andinarestaurant.com/)
@@ -49,7 +50,9 @@ Things to eat outside the greater Seattle area.
 ## NYC
 - [LlamaSan](https://www.llamasannyc.com/)
 - [Levain Bakery](https://levainbakery.com/)
+    - Get: the fattest chocolate chip walnut cookies
 - [Spot Dessert Bar](https://www.spotdessertbar.com/)
+    - a college era classic (:
 - [Morgenstern's](https://www.morgensternsnyc.com/)
 - [Kaylee's Creamery](https://www.kayleescreamery.com/menu)
 
@@ -90,7 +93,7 @@ Things to eat outside the greater Seattle area.
 - Rakusho (traditional sweets, koi pond)
 - [Walden Woods](https://www.walden-woods.com/) (coffee)
 - Yume Wo Katare (ramen)
-    - has a sibling restaurant in Boston
+    - Has a sibling restaurant in Boston
 - Musubi (some tiny place with amazing beef, small plates)
 
 ### Uji

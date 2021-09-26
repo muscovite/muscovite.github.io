@@ -7,18 +7,19 @@ template = "food-section.html"
 ### Sandwiches
 #### Tier 1
 - [Ma'ono](https://www.maonoseattle.com/)
-- [Cookie's Country Chicken](https://www.cookiescountrychicken.com/)
 - [JuneBaby](https://www.junebabyseattle.com/)
 
 #### Tier 2
 - [Triangle Spirits](https://www.trianglefremont.com/)
     - Good cornbread, fries, and chicken skin, average chicken
+- [Cookie's Country Chicken](https://www.cookiescountrychicken.com/)
 - _Wandering Goose (closed)_
 
-### Chicken & Bread
+### Chicken & [insert starch]
 - [Seattle Biscuit Co.](https://seattlebiscuitcompany.com/) (with biscuit)
-- [Fat's Chicken & Waffles](https://fatschickenandwaffles.com/) (with honey butter & biscuit)
-- _Thackeray (with pancakes) (closed)_
+- [Fat's Chicken & Waffles](https://fatschickenandwaffles.com/) (with biscuit)
+    - Honey butter chicken biscuit!
+- _[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed) (with pancakes)_
 
 ### Chicken pieces
 - **[JuneBaby](https://www.junebabyseattle.com/) (bone-in chicken)**
@@ -40,4 +41,3 @@ template = "food-section.html"
 - Nate's Wings & Waffles
 
 ## To try
-- [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)

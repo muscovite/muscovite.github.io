@@ -18,7 +18,6 @@ template = "food-section.html"
     - Get: pimento cheese biscuit
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - **[Eight Row](https://www.eightrow.com/)**
-    - Get: dinner or brunch tasting menu
 - _[Wandering Goose](https://www.thewanderinggoose.com/) (closed)_
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
