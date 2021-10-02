@@ -31,6 +31,7 @@ template = "food-section.html"
 - [Chiang's Gourmet](https://chiangsgourmetseattle.com/) (dim sum)
     - weekends only; have off menu items, like har gow!
 - [Kobuta and Ookami](https://www.kobutaandookami.com/) (pork katsu)
+- [Paju](https://www.pajurestaurant.com/) (Korean)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -107,4 +108,3 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
-- [Paju](https://www.pajurestaurant.com/)
