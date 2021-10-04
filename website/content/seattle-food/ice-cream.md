@@ -31,6 +31,9 @@ template = "food-section.html"
 ## Decent
 - [Bluebird](https://bluebirdicecream.square.site/)
 - [Cupcake Royale](https://www.cupcakeroyale.com/)
+- [Indigo Cow](https://www.instagram.com/indigo_cow/)
+    - Tastes like it's made of good quality fresh milk, but there's not much flavor
+    - Highlight was actually the Theo chocolate hard shell
 
 ## Not recommended
 - Salt & Straw

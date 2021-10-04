@@ -8,7 +8,7 @@ template = "food-section.html"
 - **[Little Ting's Dumplings](https://www.yelp.com/biz/little-tings-dumplings-seattle)**
 - **[Din Tai Fung](https://www.dintaifungusa.com/us/locations/seattle-university-village.html)**
     - Get: xiao long bao
-- **[DoughZone](https://www.doughzonedumplinghouse.com/)**
+- **[Dough Zone](https://www.doughzonedumplinghouse.com/)**
 - **[19 Gold](https://www.19goldseattle.com/)**
     - Get: green onion pancake, beef noodle soup, malatang, minced pork over rice
 - _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (temp. closed)**_
@@ -73,6 +73,7 @@ template = "food-section.html"
     - Get: bread pudding and brisket sandwich
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Corvus & Co.](https://www.corvusandcompany.com/)
+- [Pasta Casalinga](https://pastacasalingaseattle.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
