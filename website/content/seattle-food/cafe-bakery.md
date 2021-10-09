@@ -47,7 +47,6 @@ template = "food-section.html"
 - [Lighthouse Roasters](https://lighthouseroasters.com/)
 - [Volunteer Park Cafe](https://www.volunteerpark.cafe/)
 
-
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
 - [Akio's Bakery](https://www.akiosbakery.com/)*
@@ -66,6 +65,9 @@ template = "food-section.html"
 - [FogRose Atelier](https://www.fogrose.com/)
     - Specializes in desserts
     - Had a really good to-go afternoon tea
+- [Cake House](https://www.yelp.com/biz/cake-house-seattle)
+    - Get: taro bun, coconut tart, red bean puff pastry
+    - A little on the sweet side, but very good
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**

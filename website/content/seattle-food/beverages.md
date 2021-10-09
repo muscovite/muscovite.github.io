@@ -13,6 +13,8 @@ template = "food-section.html"
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
     - All the flavors kind of blur together, but they're all good
 - [Seeking Kombucha](https://seekingkombucha.com/)
+- [Tea King](https://teaking.co/)
+    - Get: taro milk, pudding cups
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)
