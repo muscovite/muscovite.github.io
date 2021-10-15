@@ -27,6 +27,8 @@ template = "food-section.html"
     - Dim sum on weekends only.
     - They have off menu items, like har gow!
 - [Fat's Chicken and Waffles](https://fatschickenandwaffles.com/)
+- [Skalka](https://www.skalkaseattle.com/)
+    - Specializes in khachapuri
 
 ## Decent
 - [Monsoon](https://monsoonrestaurants.com/seattle/)

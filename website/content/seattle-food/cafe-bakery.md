@@ -33,7 +33,7 @@ template = "food-section.html"
 - [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
 - [Cake Life Everyday](https://www.cakelifeeveryday.com/)* (croissants)
 - **[Red Arrow Coffee](https://www.redarrowcoffee.com/)**
-- [La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/)
+- _[La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/) (closed)_
 - [Sugar Bakery & Cafe](https://sugarbakerycafe.com/)
 - **[Boot Scootin Bread](https://boot-scootin-bread.square.site/)***
 - [Milstead](http://milsteadandco.com/)

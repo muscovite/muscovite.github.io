@@ -32,6 +32,11 @@ template = "food-section.html"
     - weekends only; have off menu items, like har gow!
 - [Kobuta and Ookami](https://www.kobutaandookami.com/) (pork katsu)
 - [Paju](https://www.pajurestaurant.com/) (Korean)
+- [Kricket Club](https://www.kricketclub.com/) (Modern Indian)
+    - Good for being our neighborhood indian place, but average overall (and kind of pricey)
+    - Most items have a nice spicy kick to them
+- [Seattle Fish Guys](https://www.seattlefishguys.com/) (poke)
+- [45th Stop n Shop](https://www.45thstopnshop.com/) (poke)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
