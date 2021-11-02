@@ -101,6 +101,7 @@ template = "food-section.html"
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
 - [Oso Negro Baking Co](https://www.osonegrobakingco.com/) (Argentinian alfajores)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe) (caffeinated chocolate)
+- [Hédonisme](https://www.experiencehedonisme.com/)
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*

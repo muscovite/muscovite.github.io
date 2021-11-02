@@ -37,6 +37,7 @@ template = "food-section.html"
     - Most items have a nice spicy kick to them
 - [Seattle Fish Guys](https://www.seattlefishguys.com/) (poke)
 - [45th Stop n Shop](https://www.45thstopnshop.com/) (poke)
+- [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -99,7 +100,6 @@ template = "food-section.html"
 - [Calluna](https://callunaseattle.com/)
 - [Shiro's](https://shiros.com/)
 - [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
-- [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
 - [Rupee Bar](https://www.rupeeseattle.com/)
 - [Communion](https://www.communionseattle.com/)
 - [Frank's Oyster House](https://www.franksoysterhouse.com/)

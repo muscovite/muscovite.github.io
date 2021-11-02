@@ -15,6 +15,7 @@ template = "food-section.html"
 - [Seeking Kombucha](https://seekingkombucha.com/)
 - [Tea King](https://teaking.co/)
     - Get: taro milk, pudding cups
+- [20 OZ TEA](https://www.20oztea.com/)
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)
@@ -26,6 +27,8 @@ template = "food-section.html"
     - Get: mochi clouds
 - [Phin](https://www.phinseattle.com/) (Vietnamese coffee)
     - Get: pandan waffle
+- [Timeless Tea](https://www.yelp.com/biz/timeless-tea-seattle-5)
+    - Drinks aren't amazing, pastries/desserts are pretty good
 
 ## Not recommended
 - Kung Fu Tea
