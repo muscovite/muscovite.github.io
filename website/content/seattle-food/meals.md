@@ -49,6 +49,8 @@ template = "food-section.html"
 - **[Don Lucho's](https://donluchosinseattle.com/)**
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)**
+    - specialty: Nikkei (Peruvian-Japanese) sushi rolls
+    - Amazing homemade Basque-style cheesecake
 - **[Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)**
     - Still need to try their pollo a la brasa
 
