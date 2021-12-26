@@ -48,8 +48,7 @@ template = "food-section.html"
 ### Peruvian
 - **[Don Lucho's](https://donluchosinseattle.com/)**
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
-- **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)***
-    - Opening in Pioneer Square soon!
+- **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)**
 - **[Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)**
     - Still need to try their pollo a la brasa
 
@@ -90,6 +89,10 @@ template = "food-section.html"
 - [Martino's](https://www.martinos.net/) (sandwiches, BBQ)
 - [Paseo](https://www.paseo.com/) (Caribbean sandwiches)
     - Note: now has a different owner than the much lauded original, but may or may not have some of the same staff 
+- [Yoroshiku](https://www.yoroshikuseattle.com/)
+- [Than Vi (U-District)](https://thanhvi.net/)
+- [Gainsbourg](http://gainsbourglounge.com/)
+    - very generous cheese board portions
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
@@ -114,3 +117,4 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
+- [Reunion](https://www.reunionmalaysian.com/) (Malay, Kirkland)

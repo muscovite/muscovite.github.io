@@ -74,6 +74,20 @@ Things to eat outside the greater Seattle area.
 - [Veracruz All Natural](https://www.veracruzallnatural.com/)
     - great guac & chips, juice drinks; tacos average (high Austin standards!) to good
 
+## Orange County-ish, CA
+- [Banh Mi Che Cali](https://www.yelp.com/biz/banh-mi-and-che-cali-garden-grove)
+    - Nice baguettes
+
+## Decent
+- [Smoking Tiger](https://www.smokingtiger.com/)
+    - good coffee/drinks, overall average baked goods
+- [Paderia Bakehouse](https://www.paderia.com/)
+    - chocolate/walnut was like a worse Levain's cookie, but triple chocolate was like a less sweet, therefore better, version of Levain's. Both a bit oily, though
+- [Civitas Coffee](https://www.civitascoffeeco.com/)
+- [Stereoscope](https://www.stereoscopecoffee.com/)
+- [Solid Coffee](https://solidcoffeeroasters.com/)
+- [Flat White](https://www.yelp.com/biz/flat-white-coffee-cypress)
+
 # Asia
 
 ## Japan

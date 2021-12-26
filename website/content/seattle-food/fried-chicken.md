@@ -7,7 +7,7 @@ template = "food-section.html"
 ### Sandwiches
 #### Tier 1
 - [Ma'ono](https://www.maonoseattle.com/)
-- [JuneBaby](https://www.junebabyseattle.com/)
+- _[JuneBaby](https://www.junebabyseattle.com/) (currently closed)_
 
 #### Tier 2
 - [Triangle Spirits](https://www.trianglefremont.com/)

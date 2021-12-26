@@ -8,6 +8,7 @@ template = "food-section.html"
 - [Temple Pastries](https://www.templepastries.com/)
     - only has sesame seed option
 - [Rosellini's](https://rosellinis.com/)
+- [Shawn's Cafe And Bakery](https://www.shawnscafeandbakery.com/)
 
 ## Decent
 - [Zylberschtein's](https://www.zylberschtein.com/)
