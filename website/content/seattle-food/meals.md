@@ -38,6 +38,7 @@ template = "food-section.html"
 - [Seattle Fish Guys](https://www.seattlefishguys.com/) (poke)
 - [45th Stop n Shop](https://www.45thstopnshop.com/) (poke)
 - [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
+- [Saigon Deli](https://www.yelp.com/biz/saigon-deli-seattle-2)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)

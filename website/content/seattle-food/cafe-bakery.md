@@ -46,6 +46,9 @@ template = "food-section.html"
     - Croissant-dough pastries are consistently good
 - [Lighthouse Roasters](https://lighthouseroasters.com/)
 - [Volunteer Park Cafe](https://www.volunteerpark.cafe/)
+- [Bake Shop](https://bakeshopseattle.com/)
+    - Get: ham & cheese potato bun, scallion scone, miso buckwheat chocolate cookie
+    - Need to try: chocolate babka
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -102,6 +105,7 @@ template = "food-section.html"
 - [Oso Negro Baking Co](https://www.osonegrobakingco.com/) (Argentinian alfajores)
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe) (caffeinated chocolate)
 - [Hédonisme](https://www.experiencehedonisme.com/)
+- [Old Salt](https://www.oldsaltseattle.com/) (bagel sandwiches)
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*

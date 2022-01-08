@@ -27,6 +27,9 @@ template = "food-section.html"
 - **[Itsumono](https://itsumonoseattle.wixsite.com/home) (karaage)**
 - [Fat's Chicken & Waffles](https://fatschickenandwaffles.com/)
 
+### Korean Fried Chicken
+- [bb.q Chicken](https://www.yelp.com/biz/bb-q-chicken-uw-seattle)
+
 ## Decent
 - [S/T Hooligans](https://www.sthooligans.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
