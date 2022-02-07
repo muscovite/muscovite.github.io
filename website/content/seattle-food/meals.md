@@ -96,6 +96,9 @@ template = "food-section.html"
 - [Than Vi (U-District)](https://thanhvi.net/)
 - [Gainsbourg](http://gainsbourglounge.com/)
     - very generous cheese board portions
+- [Reunion](https://www.reunionmalaysian.com/) (Malay, Kirkland)
+- [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
+- [The Harvest Vine](https://www.harvestvine.com/)
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
@@ -105,7 +108,6 @@ template = "food-section.html"
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
 - [Calluna](https://callunaseattle.com/)
 - [Shiro's](https://shiros.com/)
-- [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
 - [Rupee Bar](https://www.rupeeseattle.com/)
 - [Communion](https://www.communionseattle.com/)
 - [Frank's Oyster House](https://www.franksoysterhouse.com/)
@@ -120,4 +122,4 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
-- [Reunion](https://www.reunionmalaysian.com/) (Malay, Kirkland)
+- [Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino)

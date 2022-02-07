@@ -132,13 +132,13 @@ template = "food-section.html"
 - Lola's Traveling Tea Party
 - Saint Bread
     - Cardamom is great, but not THAT much cardamom
+- [Cafe Arta](https://www.cafearta.com/)
+    - our neighborhood bookstore cafe
 
 ## To try
 - [Setsuko](https://setsukopastry.com/)
 - [Juliana Bakery](https://julianabakery.com/)*
     - Basque cheesecakes
-- [Cafe Arta](https://www.cafearta.com/)
-    - our neighborhood bookstore cafe
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
 - [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)
 - [Cafe Tenby](https://www.cafetenby.com/high-tea) (afternoon tea)
@@ -165,3 +165,4 @@ template = "food-section.html"
     - need to try mooncakes
 - [Kiki Bakery](https://www.kikibakery.com/)
     - need to try mooncakes
+- [Baiten](https://www.instagram.com/baitenseattle/)

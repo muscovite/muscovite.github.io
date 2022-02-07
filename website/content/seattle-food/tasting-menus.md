@@ -15,8 +15,11 @@ template = "food-section.html"
     - mostly for the views and to see if new executive chef is doing anything interesting
 - [Eight Row](https://www.eightrow.com/)
 - [Archipelago](https://www.archipelagoseattle.com/)
-- [The Shambles](https://www.delimeatsbar.com/)
-    - seemed to have been a limited time thing
+- _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
+- [Ltd Edition Sushi](https://www.ltdeditionsushi.com/)
+    - solely fish focused (unlike, e.g. Taneda)
+    - generous sushi sizes
+    - flavor mixes a little hit or miss
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
 
 ## Tier 3
