@@ -39,6 +39,7 @@ template = "food-section.html"
 - [45th Stop n Shop](https://www.45thstopnshop.com/) (poke)
 - [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
 - [Saigon Deli](https://www.yelp.com/biz/saigon-deli-seattle-2)
+- [Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -99,6 +100,8 @@ template = "food-section.html"
 - [Reunion](https://www.reunionmalaysian.com/) (Malay, Kirkland)
 - [Flavor Lao Bowl](https://www.yelp.com/biz/flavor-lao-bowl-seattle)
 - [The Harvest Vine](https://www.harvestvine.com/)
+- [Radiator Whiskey](https://www.radiatorwhiskey.com/)
+    - Good: burnt ends
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
@@ -122,4 +125,3 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
-- [Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino)
