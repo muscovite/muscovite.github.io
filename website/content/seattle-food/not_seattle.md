@@ -148,3 +148,71 @@ Things to eat outside the greater Seattle area.
 
 ### Rotterdam
 - _[Ceviche y Maas](https://www.cevicheymaas.nl/) (closed)_
+
+## Spain
+
+All the places we went to with varying levels of approval
+
+### Granada
+- La Autentica Carmela
+    - Sit down restaurant, pretty good
+- Bañuelo Teteria
+    - Tea and Middle Eastern pastries
+- Cafe Futbol
+    - pretty good churros, mediocre hot chocolate
+- Bar Aliatar
+    - bocadillos
+- Los Diamantes
+    - local bar chain
+- Taberna La Tana
+- Casa Enrique (bar)
+- El Huerto San Anton (cafe)
+- Cafeteria Nueva Estacion (cafe)
+- Misc foods tried: jamon serrano/iberico, salmorejo, vermut, butifarra
+
+### Madrid
+- Pez Tortilla
+- Taberna Almeria
+- San Gines
+    - good churros, mediocre hot chocolate
+- Bar La Campana
+    - calamari sandwich
+- Cafe Pum Pum
+    - super cute brunch spot
+- El Ñeru
+    - Asturian restaurant, good cheesecake too. Tried: cachopo, fabada
+- La Mallorquina
+    - Cafe on Plaza Mayor, pretty good. Don't get violet-flavored candies
+- Puerto Rico (actually a Spanish restaurant)
+    - some really good tripe dish, squid with rice
+- Acid (cafe)
+- Pisco y Lima (Peruvian)
+- La Barra Dulce
+    - palmeras, torrija
+- Restaurante Manolo 1934
+    - cocido, rabo de toro, patatas bravas
+- Boconó
+
+### Valencia
+- La Marcelina
+    - seafood by the beach, great paellasg
+- Misc food tried: bottled agua de Valencia, chufa nuts, horchata/orxata, farton, buñuelos
+
+### Barcelona
+- Cinc Sentits
+    - Catalan focused tasting menu with local ingredients, 10/10 would recommend
+- Satan's Coffee Corner
+- Nomad Coffee
+- JonCake
+- La Cansaladeria (inside Mercat de Santa Caterina)
+    - butchery with, oddly, really good cheesecake
+- Pincho J
+    - don't get their cheesecake
+- Conesa Entrepans
+- Chök (chocolate/ dessert shop)
+    - only got a truffle, but other stuff looked good
+- Brew Coffee
+    - good cheesecake
+- Pepa Tomate
+    - great value menu del dia; tried fideua
+- Tincset i mes
