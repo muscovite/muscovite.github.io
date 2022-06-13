@@ -7,8 +7,6 @@ template = "food-section.html"
 ### Tier 1
 - [Frankie & Jo's](https://frankieandjos.com/)
     - Seasonal flavors are where they shine; vanilla also good
-- [KRYSE](https://kryse.squarespace.com/)*
-    - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _[Parfait](https://www.parfait-icecream.com/) (closed)_
     - Get: vegan double chocolate dip bars, vegan chocolate, matcha
 - _Lick Pure Cream (closed)_
@@ -25,6 +23,8 @@ template = "food-section.html"
 - [Molly Moon's](https://www.mollymoon.com/)
     - They've been slowly declining over the years ):
     - Get: waffle cone, chocolate hard shell
+- [KRYSE](https://kryse.squarespace.com/)*
+    - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 

@@ -16,6 +16,7 @@ template = "food-section.html"
 - [Tea King](https://teaking.co/)
     - Get: taro milk, pudding cups
 - [20 OZ TEA](https://www.20oztea.com/)
+- [Young Tea](https://www.youngteaglobal.com/)
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)

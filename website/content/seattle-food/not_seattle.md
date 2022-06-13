@@ -64,6 +64,8 @@ Things to eat outside the greater Seattle area.
 - [Singapore Cafe](https://singaporecafesugarland.com/)
 - [Sur Latin Peruvian Cuisine](https://www.surlatinfood.com/)
     - lucuma shake
+- [Sweets by Belen](https://www.sweetsbybelen.com/)
+    - Peruvian bakery
 
 ## Austin, TX
 - [Gati](https://www.gatiicecream.com/)
