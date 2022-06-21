@@ -40,6 +40,7 @@ template = "food-section.html"
 - [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
 - [Saigon Deli](https://www.yelp.com/biz/saigon-deli-seattle-2)
 - [Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino)
+- [Hi Life](https://www.instagram.com/hilife_bainbridge/?hl=en)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -105,6 +106,7 @@ template = "food-section.html"
 
 ## Not recommended
 - Siembra (Peruvian inspired)*
+- Proper Fish (Bainbridge Island)
 
 ## To try
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)

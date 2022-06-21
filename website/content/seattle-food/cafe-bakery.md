@@ -137,7 +137,7 @@ template = "food-section.html"
 
 ## To try
 - [Setsuko](https://setsukopastry.com/)
-- [Juliana Bakery](https://julianabakery.com/)*
+- [Juliana Bakery](https://juliana-bakery.square.site/)*
     - Basque cheesecakes
 - [Hagen Coffee Roasters](https://www.hagencoffeeroasters.com/)
 - [Old Towne Grainery Tea Room](https://oldtowngrainerytearoom.com/) (afternoon tea)

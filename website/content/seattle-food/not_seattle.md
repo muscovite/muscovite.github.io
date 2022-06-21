@@ -43,9 +43,28 @@ Things to eat outside the greater Seattle area.
 - [Nelson the Seagull](https://www.nelsontheseagull.com/) (breakfast/brunch)
 
 ## Victoria, B.C
+
+### Recommended
 - [Red Fish Blue Fish](https://www.redfish-bluefish.com/)
 - [White Heather Tea Room](https://www.whiteheather-tearoom.com/afternoon-tea)
 - [Jam Cafe](https://jamcafes.com/)
+- [Fol Epi](https://www.folepi.ca/)
+- [Habit Coffee](https://www.habitcoffee.com/)
+- [The Hidden Gem](https://www.thehiddengem.ca/)
+- [Deer And Dough](https://www.deeranddough.ca/)
+- [Chocolate & Co](https://www.chocolatandco.com/)
+
+### Decent
+- Crust Bakery
+- Saveur
+- Parachute Ice Cream
+- Pendray Inn Afternoon Tea
+- The Empress Hotel Afternoon Tea
+
+### Afternoon Tea - to try
+- Butchart Gardens
+- Hotel Grand Pacific
+- Abkhazi Teahouse
 
 ## NYC
 - [LlamaSan](https://www.llamasannyc.com/)
