@@ -34,6 +34,7 @@ template = "food-section.html"
 - [S/T Hooligans](https://www.sthooligans.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
 - [Milk Drunk](https://www.themilkdrunk.com/)
+    - overly hard chicken batter, and chicken itself not that flavorful
 - [Witness](https://witnessbar.com/)
 - [Taku](https://www.takuseattle.com/) (karaage)
 
