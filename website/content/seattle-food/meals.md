@@ -84,6 +84,8 @@ template = "food-section.html"
 - [Sunny Hill](https://www.sunnyhillseattle.com/)
 - [Corvus & Co.](https://www.corvusandcompany.com/)
 - [Pasta Casalinga](https://pastacasalingaseattle.com/)
+- [Off Alley](https://www.offalleyseattle.com/)
+    - Order the whole menu and split between 4 people
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
