@@ -49,6 +49,8 @@ template = "food-section.html"
 - [Bake Shop](https://bakeshopseattle.com/)
     - Get: ham & cheese potato bun, scallion scone, miso buckwheat chocolate cookie
     - Need to try: chocolate babka
+- [Papa Chango](https://www.papachangocafe.com/)
+    - cafe bombon; cortados with a hint of sweetness
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -86,7 +88,6 @@ template = "food-section.html"
 - [Hot Cakes Molten Chocolate Cakery](https://getyourhotcakes.com/)
 - **[Pinckney Cookie Cafe](https://lovethesecookies.com/)***
 - **[Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)***
-- [PieCurious](https://www.instagram.com/piecurious.seattle/)*
 - **[Macadons](https://macadons.com)***
     - Best macarons in the area
 - **[Coping Cookies](https://copingcookies.com/)***
@@ -106,6 +107,8 @@ template = "food-section.html"
 - [Joe Chocolate](https://joechocolateco.com/pages/joecafe) (caffeinated chocolate)
 - [Hédonisme](https://www.experiencehedonisme.com/)
 - [Old Salt](https://www.oldsaltseattle.com/) (bagel sandwiches)
+- [Spinnaker Chocolate](https://www.spinnakerchocolate.com/)
+    - excellent limited run hazelnut chocolate spread
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
