@@ -73,6 +73,8 @@ template = "food-section.html"
 - [Cake House](https://www.yelp.com/biz/cake-house-seattle)
     - Get: taro bun, coconut tart, red bean puff pastry
     - A little on the sweet side, but very good
+- [Aroom Coffee](https://www.aroomers.com/home) (Vietnamese)
+    - Avocado coffee
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
