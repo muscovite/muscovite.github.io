@@ -119,5 +119,61 @@ $font-serif: "Georgia", serif;
     color: #4a4a4a;
 }
 
+// --- Hoverable list items
+
+.listings-entry {
+
+    .hover-listing {
+        position: relative;
+    }
+
+    // Keep description hidden before JS loads (assume everyone has JS enabled)
+    ul > li > ul {
+        display: none;
+    }
+
+    .hover-descriptor {
+        display: none;
+        list-style: none;
+    
+        bottom: 0;
+        border-radius: 20px;
+        padding: 8px 15px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 25%;
+        background-color: #EEE;
+        position: absolute;
+    
+        :before {
+            content: "";
+            position: absolute;
+            z-index: 0;
+            bottom: 0;
+            left: -7px;
+            height: 20px;
+            width: 20px;
+            background: #EEE;
+            border-bottom-right-radius: 15px;
+        }
+    
+        :after {
+            content: "";
+            position: absolute;
+            z-index: 1;
+            bottom: 0;
+            left: -10px;
+            width: 10px;
+            height: 20px;
+            background: white;
+            border-bottom-right-radius: 10px;
+        }
+    }
+
+    .hover-listing:hover > .hover-descriptor, .hover-listing:active > .hover-descriptor, .hover-listing:focus > .hover-descriptor {
+        display: inline-block;
+    }
+}
+
 // Import the rest of Bulma
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css");

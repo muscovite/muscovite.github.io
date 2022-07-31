@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {{ section.title }}
+{% endblock title %}
+
+{% block content %}
+    {% for page in section.pages %}
+        <div class="listings-entry content">
+            {{ page.content | safe }}
+        </div>
+    {% endfor %}
+{% endblock content %}

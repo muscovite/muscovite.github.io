@@ -1,6 +1,6 @@
 $(window).on('load', function() {
     img_gallery_init();
-    food_descriptors_init();
+    hover_descriptors_init();
 });
 
 // Initialize duck image gallery
@@ -21,12 +21,11 @@ function img_gallery_init() {
      });
 }
 
-
-
-// Initialize description boxes/bubbles for food listings
-function food_descriptors_init() {
-    let food_listings = $(".food-entry > ul > li" ).has("ul");
-    food_listings.addClass("food-listing");
-    food_listings.append("▸")
-    $(".food-entry > ul > li > ul" ).addClass("food-descriptor");
+// Initialize hover description boxes/bubbles
+function hover_descriptors_init() {
+    let listings = $(".listings-entry > ul > li" ).has("ul");
+    console.log(listings);
+    listings.addClass("hover-listing");
+    listings.append("▸")
+    $(".listings-entry > ul > li > ul" ).addClass("hover-descriptor");
 }
