@@ -86,6 +86,8 @@ template = "food-section.html"
 - [Pasta Casalinga](https://pastacasalingaseattle.com/)
 - [Off Alley](https://www.offalleyseattle.com/)
     - Order the whole menu and split between 4 people
+- [Ciudad](https://www.ciudadseattle.com/)
+    - The option to order meat by the pound is solid. Also features a Stacey Rozich mural
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
