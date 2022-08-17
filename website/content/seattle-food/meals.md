@@ -39,7 +39,7 @@ template = "food-section.html"
 - [45th Stop n Shop](https://www.45thstopnshop.com/) (poke)
 - [Biang Biang Noodles](https://www.biangbiangnoodles.com/)
 - [Saigon Deli](https://www.yelp.com/biz/saigon-deli-seattle-2)
-- [Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino)
+- _[Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino) (closed)_
 - [Hi Life](https://www.instagram.com/hilife_bainbridge/?hl=en)
 
 ### Americanized Mexican
