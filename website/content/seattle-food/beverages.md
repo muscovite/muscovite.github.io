@@ -17,6 +17,10 @@ template = "food-section.html"
     - Get: taro milk, pudding cups
 - [20 OZ TEA](https://www.20oztea.com/)
 - [Young Tea](https://www.youngteaglobal.com/)
+- [Sunright](https://www.snrtea.com/)
+    - Have only been once so far, but it's promising
+- [Aroom Coffee](https://www.aroomers.com/home) (Vietnamese)
+    - Avocado coffee
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)

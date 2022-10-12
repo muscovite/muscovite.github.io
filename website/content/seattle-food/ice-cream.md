@@ -45,6 +45,7 @@ template = "food-section.html"
 - Fainting Goat
     - Weird because they are basically the same store as Nutty Squirrel (owned by either parents/children of FG's owners)
 - Shug's
+- YoYo and CoCo
 
 ## To try
 - [Laina's](https://lainasicecream.com/)
