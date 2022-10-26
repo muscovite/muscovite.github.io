@@ -41,6 +41,7 @@ template = "food-section.html"
 - [Saigon Deli](https://www.yelp.com/biz/saigon-deli-seattle-2)
 - _[Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino) (closed)_
 - [Hi Life](https://www.instagram.com/hilife_bainbridge/?hl=en)
+- [Dumpling the Noodle](https://www.dumplingthenoodle.com/)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
