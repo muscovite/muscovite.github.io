@@ -38,5 +38,6 @@ template = "food-section.html"
 ## Not recommended
 - Kung Fu Tea
 - Sharetea
+- Tiger Sugar
 
 ## To try
