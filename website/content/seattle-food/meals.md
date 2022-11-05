@@ -42,6 +42,9 @@ template = "food-section.html"
 - _[Bunsoy](https://www.instagram.com/bunsoyseattle/) (Filipino) (closed)_
 - [Hi Life](https://www.instagram.com/hilife_bainbridge/?hl=en)
 - [Dumpling the Noodle](https://www.dumplingthenoodle.com/)
+- Green Tree (Vietnamese)
+    - Chonky banh mi
+    - Rivals Pho88
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
