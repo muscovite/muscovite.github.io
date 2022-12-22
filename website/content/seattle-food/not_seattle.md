@@ -85,6 +85,24 @@ Things to eat outside the greater Seattle area.
     - lucuma shake
 - [Sweets by Belen](https://www.sweetsbybelen.com/)
     - Peruvian bakery
+- [Blacksmith](https://www.blacksmithhouston.com/)
+    - Really good biscuits
+- [Koffeteria](https://www.koffeteria.com/)
+- [Canary Coffee](https://www.canaryhtx.com/)
+    - Haven't tried any coffee, but really good pastries by [SHAK•KAR](https://shakkar.co/)
+- [Tiny's Milk & Cookies](https://tinysmilkandcookies.com/)
+    - People say it's the best chocolate chip cookie in Houston. It's pretty good! But "best" status is TBD
+- [Torchy's Tacos](https://torchystacos.com/)
+    - Fried avocado, fried chicken
+
+### To Try
+- [Craft Creamery](https://craftcreameryhtx.com/)
+- [Flower and Cream](https://www.flowerandcream.com/)
+- [Fat Cat Creamery (retry)](https://www.fatcatcreamery.com/)
+- [Underground Creamery](https://www.instagram.com/undergroundcreamery/?hl=en)
+- [SweetCup](https://www.sweetcupgelato.com/)
+- [Siphon Coffee](https://siphoncoffee.com/)
+- [Mademoiselle Louise](https://www.mademoisellelouise.com/)
 
 ## Austin, TX
 - [Gati](https://www.gatiicecream.com/)
