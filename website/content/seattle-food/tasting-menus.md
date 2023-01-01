@@ -13,18 +13,21 @@ template = "food-section.html"
 ## Tier 2
 - [Canlis](https://canlis.com/)
     - mostly for the views and to see if new executive chef is doing anything interesting
-- [Eight Row](https://www.eightrow.com/)
 - [Archipelago](https://www.archipelagoseattle.com/)
-- _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
 - [Ltd Edition Sushi](https://www.ltdeditionsushi.com/)
     - solely fish focused (unlike, e.g. Taneda)
     - generous sushi sizes
     - flavor mixes a little hit or miss
-- [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
-
-## Tier 3
+- [Cafe Juanita](https://www.cafejuanita.com/)
+    - Four tasting menus (omnivore, pescatarian, vegetarian, and vegan) and you're allowed to mix and match components of each
 - [The Herbfarm](https://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
+- _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
+
+## Tier 3
+- [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
+- [Eight Row](https://www.eightrow.com/)
+    - Great ideas, execution not always 100%, but has a special place in our hearts
 
 ## Decent
 - [Eden Hill](https://www.edenhillrestaurant.com/)
