@@ -127,6 +127,25 @@ Things to eat outside the greater Seattle area.
 - [Solid Coffee](https://solidcoffeeroasters.com/)
 - [Flat White](https://www.yelp.com/biz/flat-white-coffee-cypress)
 
+## Big Island, Hawaii
+
+### Recommended
+- [Pine Tree Cafe](https://www.pinetreecafehi.com/)
+- [Island Vintage Coffee - King's Shops](https://www.islandvintagecoffee.com/)
+    - Good acai bowls and coffee
+- [Original Big Island Shave Ice Co (OBISIC)](https://obisic.squarespace.com/home)
+- [Pau Hana Poke](http://pauhanapokehi.com/)
+- [Honaunau Poke](https://www.instagram.com/honaunaupokeshop/?hl=en)
+- [Two Ladies Kitchen](https://www.facebook.com/twoladieskitchenorginal/) (mochi)
+    - Call in order a day before so you don't have to wait in line
+    - Must try fresh strawberry mochi
+- [Kula Shave Ice](https://kulashaveice.com/pages/menu)
+- [Kaya's Kawanui](https://www.kayascoffee.com/)
+- [Mrs Barry’s Kona Cookies](https://www.konacookies.com/)
+    - We really only liked their coconut shortbread and chocolate dipped macadamia shortbread
+- [Umekes Fish Market Bar & Grill](https://www.umekesrestaurants.com/)
+- [Saucy Mama's](https://saucymamasfoodtruck.com/)
+
 # Asia
 
 ## Japan
