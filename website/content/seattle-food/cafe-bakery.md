@@ -51,8 +51,8 @@ template = "food-section.html"
     - Need to try: chocolate babka
 - [Papa Chango](https://www.papachangocafe.com/)
     - cafe bombon; cortados with a hint of sweetness
-- [Mitten Sweets & Coffee](https://www.mittensweetsandcoffee.com/)
-    - Matcha chocolate cake and puff pastry was really good
+- [Shawn's Cafe and Bakery](https://www.shawnscafeandbakery.com/)
+- [La Fête Pâtisserie](https://www.lafetepatisserie.com/)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -77,6 +77,9 @@ template = "food-section.html"
     - A little on the sweet side, but very good
 - [Aroom Coffee](https://www.aroomers.com/home) (Vietnamese)
     - Avocado coffee, sesame coffee
+- [Mitten Sweets & Coffee](https://www.mittensweetsandcoffee.com/)
+    - Matcha chocolate cake and puff pastry was really good
+- [Voi Ca Phe](https://www.voicaphe.com/) (Vietnamese)
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
