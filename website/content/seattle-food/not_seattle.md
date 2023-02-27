@@ -41,6 +41,8 @@ Things to eat outside the greater Seattle area.
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)
 - [Medina](https://www.medinacafe.com/) (breakfast/brunch)
 - [Nelson the Seagull](https://www.nelsontheseagull.com/) (breakfast/brunch)
+- [Purebread](https://www.purebread.ca/)
+- [Small Victory](https://smallvictory.ca/)
 
 ## Victoria, B.C
 

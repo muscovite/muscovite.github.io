@@ -92,6 +92,7 @@ template = "food-section.html"
     - Order the whole menu and split between 4 people
 - [Ciudad](https://www.ciudadseattle.com/)
     - The option to order meat by the pound is solid. Also features a Stacey Rozich mural
+- [Kona Kitchen - Maple Leaf](https://konakitchen.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)

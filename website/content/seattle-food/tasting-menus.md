@@ -23,8 +23,16 @@ template = "food-section.html"
 - [The Herbfarm](https://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
 - _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
+- [Sushi by Scratch](https://www.sushibyscratchrestaurants.com/)
+    - Very fusion, but keeps the flavors subtle so they work pretty well
+    - Vibe is too modern for our liking
+- [Sushi Suzuki](https://www.sushisuzuki.com/about)
+- [TOMO](https://tomoseattle.com/)
+    - Portions are on the smaller side
 
 ## Tier 3
+- [Takai by Kashiba](https://takaibykashiba.com/)
+    - The "free" parking situation really brings this low. They pair with some commerical building whose time limit isn't even long enough for the omakase and who tickets you literally a minute past your time window 
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
 - [Eight Row](https://www.eightrow.com/)
     - Great ideas, execution not always 100%, but has a special place in our hearts
