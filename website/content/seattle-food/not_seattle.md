@@ -23,26 +23,27 @@ Things to eat outside the greater Seattle area.
 - [Doe Donuts](https://www.doedonuts.com/)
     - Their long donut boxes are kind of awkward if you order more than a few
 
-### To try
-- [Kimura Toast Bar](https://kimuratoast.com/)
-- [Kachka](https://www.kachkapdx.com/)
-- [Soen](https://www.soenportland.co/)
-- [Cheese & Crack](https://www.cheeseandcrack.com/)
-- [Tita's Kitchen](https://www.titaskitchenpdx.com/) (Peruvian)
-- [Lovejoy's Tea Room](https://www.lovejoysportland.com/) (afternoon tea)
-- [Pix Patisserie](https://www.pixpatisserie.com/)
-- [Papa Haydn](https://www.papahaydn.com/)
-
 ## Eugene, OR
 - [Off the Waffle](https://offthewaffle.com/)
     - Bring their frozen liege waffles home!
 
 ## Vancouver, B.C
+
+### Recommended
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)
 - [Medina](https://www.medinacafe.com/) (breakfast/brunch)
 - [Nelson the Seagull](https://www.nelsontheseagull.com/) (breakfast/brunch)
+    - Really good sourdough
 - [Purebread](https://www.purebread.ca/)
 - [Small Victory](https://smallvictory.ca/)
+- [Saku](https://www.sakuvancouver.com/)
+    - The Zenbu Katsu set has a little bit of everything and is plenty for two
+
+### Decent
+- [Beaucoup Bakery](https://www.beaucoupbakery.com/)
+    - Had a few good items and not great ones, including some breads that felt stale despite us arriving within 30 minutes of opening
+- [Angus T](https://angust.com/) (croissants)
+    - Interesting flavors, but croissants themselves not super fresh (maybe would be better earlier in the day)
 
 ## Victoria, B.C
 
@@ -76,9 +77,6 @@ Things to eat outside the greater Seattle area.
     - a college era classic (:
 - [Morgenstern's](https://www.morgensternsnyc.com/)
 - [Kaylee's Creamery](https://www.kayleescreamery.com/menu)
-
-### To try
-- [Fan Fan Doughnuts](https://www.fan-fandoughnuts.com/)
 
 ## Houston
 - [Pho Saigon (Midtown)](https://www.yelp.com/biz/pho-saigon-houston-12)
