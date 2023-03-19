@@ -30,3 +30,4 @@
 
 - Fire Emblem: Three Houses
 - Super Mario Odyssey
+- Mario & Luigi: Superstar Saga (original and remastered)
