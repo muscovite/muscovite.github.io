@@ -22,7 +22,8 @@
 - Shovel Knight series
 - Slay the Spire
 - Stacking
-- Steamworld Dig series
+- Steamworld Dig I & II
+- Steamworld Heist
 - Unpacking
 - Untitled Goose Game
 
