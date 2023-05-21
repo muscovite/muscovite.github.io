@@ -116,6 +116,7 @@ template = "food-section.html"
 - [Old Salt](https://www.oldsaltseattle.com/) (bagel sandwiches)
 - [Spinnaker Chocolate](https://www.spinnakerchocolate.com/)
     - excellent limited run hazelnut chocolate spread
+- [Dutch Dame Stroopwafels](instagram.com/ddamestroopwafels/?hl=en)*
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*

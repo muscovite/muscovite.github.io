@@ -45,6 +45,7 @@ template = "food-section.html"
 - Green Tree (Vietnamese)
     - Chonky banh mi
     - Rivals Pho88
+- [Enseamada Cafe](https://www.instagram.com/enseamada/?hl=en)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
