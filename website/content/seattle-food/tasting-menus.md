@@ -22,6 +22,7 @@ template = "food-section.html"
     - Four tasting menus (omnivore, pescatarian, vegetarian, and vegan) and you're allowed to mix and match components of each
 - [The Herbfarm](https://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
+    - They are very slow. Expect a 2.5-3 hr long meal
 - _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
 - [Sushi by Scratch](https://www.sushibyscratchrestaurants.com/)
     - Very fusion, but keeps the flavors subtle so they work pretty well
