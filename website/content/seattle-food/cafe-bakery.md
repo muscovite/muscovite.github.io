@@ -117,6 +117,7 @@ template = "food-section.html"
 - [Spinnaker Chocolate](https://www.spinnakerchocolate.com/)
     - excellent limited run hazelnut chocolate spread
 - [Dutch Dame Stroopwafels](instagram.com/ddamestroopwafels/?hl=en)*
+- [Porto-Pies](https://www.portopies.com/)*
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
