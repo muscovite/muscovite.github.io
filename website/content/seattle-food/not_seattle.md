@@ -48,6 +48,7 @@ Things to eat outside the greater Seattle area.
 ## Victoria, B.C
 
 ### Recommended
+
 - [Red Fish Blue Fish](https://www.redfish-bluefish.com/)
 - [White Heather Tea Room](https://www.whiteheather-tearoom.com/afternoon-tea)
 - [Jam Cafe](https://jamcafes.com/)
@@ -56,10 +57,18 @@ Things to eat outside the greater Seattle area.
 - [The Hidden Gem](https://www.thehiddengem.ca/)
 - [Deer And Dough](https://www.deeranddough.ca/)
 - [Chocolate & Co](https://www.chocolatandco.com/)
+- [Part and Parcel](https://www.partandparcel.ca/)
+- [Morning People](https://www.morningpeoplefoodtruck.com/)
+- [10 Acres Bistro](https://10acres.ca/)
+- [Martha's Delectables](https://marthasdelectables.ca/)*
+- [Cold Comfort](https://www.coldcomfort.ca/)
 
 ### Decent
 - Crust Bakery
+- Fernwood Coffee
+- Hide + Seek Coffee
 - Saveur
+- Hazel's Ice Cream
 - Parachute Ice Cream
 - Pendray Inn Afternoon Tea
 - The Empress Hotel Afternoon Tea

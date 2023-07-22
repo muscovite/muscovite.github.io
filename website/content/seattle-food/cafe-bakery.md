@@ -53,6 +53,8 @@ template = "food-section.html"
     - cafe bombon; cortados with a hint of sweetness
 - [Shawn's Cafe and Bakery](https://www.shawnscafeandbakery.com/)
 - [La Fête Pâtisserie](https://www.lafetepatisserie.com/)
+- [Ben's Bread](https://bensbread.com/)
+- [Layers](https://www.layersgreenlake.com/)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)

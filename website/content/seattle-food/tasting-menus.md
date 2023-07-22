@@ -30,13 +30,14 @@ template = "food-section.html"
 - [Sushi Suzuki](https://www.sushisuzuki.com/about)
 - [TOMO](https://tomoseattle.com/)
     - Portions are on the smaller side
+- [Copine](https://www.copineseattle.com/)
+- [Eight Row](https://www.eightrow.com/)
+    - Great ideas, execution not always 100%, but has a special place in our hearts
 
 ## Tier 3
 - [Takai by Kashiba](https://takaibykashiba.com/)
     - The "free" parking situation really brings this low. They pair with some commerical building whose time limit isn't even long enough for the omakase and who tickets you literally a minute past your time window 
 - [Sushi Kappo Tamura](https://www.sushikappotamura.com/)
-- [Eight Row](https://www.eightrow.com/)
-    - Great ideas, execution not always 100%, but has a special place in our hearts
 
 ## Decent
 - [Eden Hill](https://www.edenhillrestaurant.com/)
