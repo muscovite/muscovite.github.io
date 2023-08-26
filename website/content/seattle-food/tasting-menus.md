@@ -48,5 +48,5 @@ template = "food-section.html"
 - [Wa'z](https://www.wazseattle.com/)
 - [Violet](https://www.violetseattle.com/)
 
-## To try
+## To Try/ retry
 - [Art of the Table](https://www.artofthetable.net/)

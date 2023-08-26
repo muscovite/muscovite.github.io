@@ -47,6 +47,6 @@ template = "food-section.html"
 - Shug's
 - YoYo and CoCo
 
-## To try
+## To Try/ retry
 - [Laina's](https://lainasicecream.com/)
 - [Matcha Man Ice Cream & Taiyaki](https://www.instagram.com/matchamansea/?hl=en)

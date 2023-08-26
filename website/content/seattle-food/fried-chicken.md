@@ -44,4 +44,4 @@ template = "food-section.html"
 - Ezell's
 - Nate's Wings & Waffles
 
-## To try
+## To Try/ retry

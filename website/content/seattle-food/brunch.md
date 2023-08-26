@@ -38,7 +38,6 @@ template = "food-section.html"
 ## Not recommended
 - Portage Bay Cafe
 
-## To try
+## To Try/ retry
 - [Rasai](https://rasaiwa.com/) (Indian fusion)
-- [Samara](https://samaraseattle.com/)
 - [Revel](https://www.relayrestaurantgroup.com/restaurants/revel/) (Asian fusion)

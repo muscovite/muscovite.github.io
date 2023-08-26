@@ -62,6 +62,10 @@ Things to eat outside the greater Seattle area.
 - [10 Acres Bistro](https://10acres.ca/)
 - [Martha's Delectables](https://marthasdelectables.ca/)*
 - [Cold Comfort](https://www.coldcomfort.ca/)
+- [Bear & Joey](https://www.bearandjoey.ca/)
+- [Sea Cider](https://www.seacider.ca/)
+    - Worth a drive to their tasting room
+    - Really good cheese plate and non alcoholic ciders
 
 ### Decent
 - Crust Bakery
@@ -104,7 +108,7 @@ Things to eat outside the greater Seattle area.
 - [Torchy's Tacos](https://torchystacos.com/)
     - Fried avocado, fried chicken
 
-### To Try
+### To Try/ retry
 - [Craft Creamery](https://craftcreameryhtx.com/)
 - [Flower and Cream](https://www.flowerandcream.com/)
 - [Fat Cat Creamery (retry)](https://www.fatcatcreamery.com/)
@@ -199,7 +203,7 @@ Things to eat outside the greater Seattle area.
 ### Lima
 - [Central](https://centralrestaurante.com.pe/en/)
 
-### To try
+### To Try/ retry
 - [Maido](https://maido.pe/en/)
 
 # Europe

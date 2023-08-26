@@ -120,6 +120,7 @@ template = "food-section.html"
     - excellent limited run hazelnut chocolate spread
 - [Dutch Dame Stroopwafels](instagram.com/ddamestroopwafels/?hl=en)*
 - [Porto-Pies](https://www.portopies.com/)*
+- [Doce Donuts](https://www.docedonut.com/)
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
@@ -149,7 +150,7 @@ template = "food-section.html"
 - [Cafe Arta](https://www.cafearta.com/)
     - our neighborhood bookstore cafe
 
-## To try
+## To Try/ retry
 - [Setsuko](https://setsukopastry.com/)
 - [Juliana Bakery](https://juliana-bakery.square.site/)*
     - Basque cheesecakes

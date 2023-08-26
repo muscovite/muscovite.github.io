@@ -48,6 +48,8 @@ template = "food-section.html"
 - [Enseamada Cafe](https://www.instagram.com/enseamada/?hl=en)
 - [Ban Hua Sai](https://banhuasai.com/)
     - Really good roti
+- [Ludi's](https://www.ludisrestaurant.com/)
+    - Still need to try their ube pancakes
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -96,6 +98,7 @@ template = "food-section.html"
 - [Ciudad](https://www.ciudadseattle.com/)
     - The option to order meat by the pound is solid. Also features a Stacey Rozich mural
 - [Kona Kitchen - Maple Leaf](https://konakitchen.com/)
+- [Samara](https://samaraseattle.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
@@ -120,7 +123,7 @@ template = "food-section.html"
 - Siembra (Peruvian inspired)*
 - Proper Fish (Bainbridge Island)
 
-## To try
+## To try/ retry
 - [Sankaku](https://www.instagram.com/sankakuseattle)* (onigiri)
 - [Charlotte Restaurant & Lounge](https://www.lottehotel.com/seattle-hotel/en/dining/restaurant-charlotte-bar.html)
 - [Calluna](https://callunaseattle.com/)
@@ -128,7 +131,6 @@ template = "food-section.html"
 - [Rupee Bar](https://www.rupeeseattle.com/)
 - [Communion](https://www.communionseattle.com/)
 - [Frank's Oyster House](https://www.franksoysterhouse.com/)
-- [Samara](https://samaraseattle.com/)
 - [Lazy Susan](https://www.lazysusanseattle.com/)
 - [Cook Weaver](https://www.cookweaver.com/)
 - [Union Saloon](https://www.unionsaloonseattle.com/)
@@ -139,3 +141,5 @@ template = "food-section.html"
 - [Ooink](https://www.ooinkramen.com/) (fusion Ramen)
 - [RockCreek Seafood & Spirits](https://rockcreekseattle.com/) (seafood)
 - [Koo Hoo Thai Street](https://www.koohoothaistreet.com/)
+- [Phocific Standard Time](https://www.instagram.com/pst.seattle/?hl=en)
+- [Restaurant Christine](https://restaurantchristineseattle.com/)
