@@ -5,9 +5,10 @@ template = "food-section.html"
 
 ## Recommended
 ### General
-- [Sod House Bakery](https://sodhousebakery.square.site/)
-    - Get: scones
-    - Pass: croissants
+- _[Sod House Bakery](https://sodhousebakery.square.site/) (replaced)_
+    - RIP pecan scones
+- _[Zary Bakery](https://www.zarybakery.com/) (replaced)_
+    - Replaced Sod House
 - [Cafe Javasti](https://javasti.com/)
     - Get: quickbreads, especially chocolate zucchini
     - Pass: any mochi or buttermilk bars
@@ -137,6 +138,8 @@ template = "food-section.html"
     - Pass: most of their other things
 - [Pligrim Coffeehouse](https://pilgrimcoffeehouse.com/)
 - [Retreat](https://retreat-greenlake.com/)
+- [Paper Cake Shop](https://www.papercakeshop.com/)
+    - underwhelmed by first visit, but should retry
 
 ## Not recommended
 - General Porpoise (donuts)

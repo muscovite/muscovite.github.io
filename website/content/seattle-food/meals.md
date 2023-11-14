@@ -78,7 +78,8 @@ template = "food-section.html"
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
 
 ### American/European etc, generally
-- **[Meet the Moon](https://meetthemooncafe.com/)**
+- _**[Meet the Moon](https://meetthemooncafe.com/)** (closed)_
+    - Is now another Pablo y Pablo location ):
 - [The Shambles](https://www.delimeatsbar.com/)
 - **[Eight Row](https://www.eightrow.com/)**
 - **[Bateau](https://www.restaurantbateau.com/)**
@@ -99,6 +100,7 @@ template = "food-section.html"
     - The option to order meat by the pound is solid. Also features a Stacey Rozich mural
 - [Kona Kitchen - Maple Leaf](https://konakitchen.com/)
 - [Samara](https://samaraseattle.com/)
+- [Pancita @ Pair](https://www.pairseattle.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
@@ -118,6 +120,9 @@ template = "food-section.html"
 - [The Harvest Vine](https://www.harvestvine.com/)
 - [Radiator Whiskey](https://www.radiatorwhiskey.com/)
     - Good: burnt ends
+- [Phocific Standard Time](https://www.instagram.com/pst.seattle/?hl=en)
+    - Way too loud, which ruins the experience
+    - Good food, okay drinks
 
 ## Not recommended
 - Siembra (Peruvian inspired)*

@@ -27,6 +27,8 @@ template = "food-section.html"
     - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
+- [Hellenika Cultured Creamery](https://www.hellenika.us/)
+    - New concept from Ellenos founders
 
 ## Decent
 - [Bluebird](https://bluebirdicecream.square.site/)
