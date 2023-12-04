@@ -56,6 +56,7 @@ template = "food-section.html"
 - [La Fête Pâtisserie](https://www.lafetepatisserie.com/)
 - [Ben's Bread](https://bensbread.com/)
 - [Layers](https://www.layersgreenlake.com/)
+- [T55 Patisserie](https://t55patisserie.com/)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
@@ -90,6 +91,7 @@ template = "food-section.html"
 ### Specialized
 - **[Deep Sea Sugar & Salt](https://deepseasugar.square.site/) (cakes)**
     - Best cakes in the area
+- [Simply Desserts](https://simplydessertsseattle.com/) (cakes)
 - **[Tres Lecheria](https://www.treslecheria.com/) (tres leches cakes)**
 - **[Flour Box](https://www.theflourboxseattle.com/) (donuts)**
 - [Half & Half](https://www.halfandhalfdoughnuts.com/) (donuts)

@@ -33,6 +33,8 @@ template = "food-section.html"
 - [Copine](https://www.copineseattle.com/)
 - [Eight Row](https://www.eightrow.com/)
     - Great ideas, execution not always 100%, but has a special place in our hearts
+- [Carrello](https://www.carrellorestaurant.com/)
+    - Altura's younger sibling, just as solid at a lower price point
 
 ## Tier 3
 - [Takai by Kashiba](https://takaibykashiba.com/)
