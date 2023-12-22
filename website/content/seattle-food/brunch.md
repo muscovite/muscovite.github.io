@@ -11,7 +11,7 @@ template = "food-section.html"
 - [Blazing Bagels](https://www.blazingbagels.com/)
     - perfect pre-hike fuel stop
 - [Zylberschtein's](https://www.zylberschtein.com/)
-- **[Meet the Moon](https://meetthemooncafe.com/)**
+- _**[Meet the Moon](https://meetthemooncafe.com/)** (closed)_
     - Get: guac & chips, crispy pork carnitas
 - [Seattle Biscuit Co.](https://seattlebiscuitcompany.com/)
 - **[Red Arrow Coffee](https://www.redarrowcoffee.com/)**

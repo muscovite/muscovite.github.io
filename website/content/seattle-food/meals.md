@@ -49,7 +49,6 @@ template = "food-section.html"
 - [Ban Hua Sai](https://banhuasai.com/)
     - Really good roti
 - [Ludi's](https://www.ludisrestaurant.com/)
-    - Still need to try their ube pancakes
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -101,6 +100,7 @@ template = "food-section.html"
 - [Kona Kitchen - Maple Leaf](https://konakitchen.com/)
 - [Samara](https://samaraseattle.com/)
 - [Pancita @ Pair](https://www.pairseattle.com/)
+- [Atoma](https://www.atomaseattle.com/)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)

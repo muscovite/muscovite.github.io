@@ -7,7 +7,8 @@ template = "food-section.html"
 ### General
 - _[Sod House Bakery](https://sodhousebakery.square.site/) (replaced)_
     - RIP pecan scones
-- _[Zary Bakery](https://www.zarybakery.com/) (replaced)_
+    - Replaced by Zary 
+- [Zary Bakery](https://www.zarybakery.com/)_
     - Replaced Sod House
 - [Cafe Javasti](https://javasti.com/)
     - Get: quickbreads, especially chocolate zucchini
