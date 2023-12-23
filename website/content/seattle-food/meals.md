@@ -49,6 +49,7 @@ template = "food-section.html"
 - [Ban Hua Sai](https://banhuasai.com/)
     - Really good roti
 - [Ludi's](https://www.ludisrestaurant.com/)
+- [Made In House](https://www.eatmadeinhouse.com/) (Korean)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
