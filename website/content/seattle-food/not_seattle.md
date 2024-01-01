@@ -130,7 +130,7 @@ Things to eat outside the greater Seattle area.
 - [Banh Mi Che Cali](https://www.yelp.com/biz/banh-mi-and-che-cali-garden-grove)
     - Nice baguettes
 
-## Decent
+### Decent
 - [Smoking Tiger](https://www.smokingtiger.com/)
     - good coffee/drinks, overall average baked goods
 - [Paderia Bakehouse](https://www.paderia.com/)
