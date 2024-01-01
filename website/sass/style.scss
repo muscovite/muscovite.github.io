@@ -175,5 +175,16 @@ $font-serif: "Georgia", serif;
     }
 }
 
+// Table of contents
+
+.page-toc {
+
+    .toc-h2 {
+        margin-left: 1.5em;
+    }
+}
+
+
+
 // Import the rest of Bulma
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css");

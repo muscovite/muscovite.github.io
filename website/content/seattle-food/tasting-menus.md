@@ -4,7 +4,7 @@ template = "food-section.html"
 +++
 
 ## Recommended
-### Tier 1
+## Tier 1
 - [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
     - Very hard to get reservations! Best bet is to sign up for cancellation notifications, or stalk their page at midnight for a spot 60 days out
 - [Sushi Kashiba](https://sushikashiba.com/)
