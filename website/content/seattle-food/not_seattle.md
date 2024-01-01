@@ -197,6 +197,46 @@ Things to eat outside the greater Seattle area.
 - Chili/salted egg/ black pepper crab
 - Durian
 
+## Taiwan
+
+### Taipei
+
+#### Food
+- [老宋記真善美牛肉麵](https://maps.app.goo.gl/CAYBexJBVzSDG2bn6) (beef noodle soup)
+- [Jin Feng Braised Pork Rice 金峰魯肉飯](https://maps.app.goo.gl/xjMtkLtKWjdKhRmNA)
+- [包 Great](https://maps.app.goo.gl/ihTsqdcpDhM84tGX9)
+- [Yong He Soy Milk King 永和豆漿大王](https://maps.app.goo.gl/3s8VquFqYYDnzEVj9) (breakfast)
+
+#### Cafe/Bakery/Dessert
+- [Coffee Sweet 自家烘焙咖啡館](https://maps.app.goo.gl/akbFPvtf4x5FMGyp9)
+- [Fika Fika Cafe](https://maps.app.goo.gl/QiGh26BKh8hRaEey6)
+- [Maroco 馬路口烘焙小舖](https://maps.app.goo.gl/mNH4WUnFW3cGX2pu7)
+- [The FOLKS](https://maps.app.goo.gl/wzrSLwcrYHZsdSXh7)
+    - tasty pudding
+- [Taiyi Milk King 臺一牛奶大王](https://maps.app.goo.gl/AQbR32U4giFy5XBv7)
+- [Instil Coffee Dimension](https://maps.app.goo.gl/igVkxwkFAjtttkAEA)
+    - I _think_ this place was good, don't fully remember
+
+#### Not Recommended
+- Mama Inca ("Peruvian")
+
+
+### Chiayi
+
+#### Food
+- [王家祖傳本產牛雜湯](https://maps.app.goo.gl/JSWp8EZJQ4DLC2iW9) (breakfast beef soup)
+
+
+### Tainan
+
+#### Cafe/Bakery/Dessert
+- [太陽牌冰品](https://maps.app.goo.gl/UAbJtn7gxZL9j6tQ6) (cubed ice desserts)
+    - a childhood favorite
+    - may even have been around since my dad's childhood?!
+- [吐司喵烘焙坊 ](https://www.facebook.com/toast.meow53)
+    - bakery run by my cousin & aunt!
+    - my favorite pineapple cakes ever (they might only make these on special order now, though)
+
 # South America
 
 ## Peru
