@@ -190,5 +190,28 @@ $font-serif: "Georgia", serif;
     }
 }
 
+// Top navigation bar
+
+// Bulma forces open all navbar items in smaller window sizes, so only fix
+// navbar position above that cutoff point
+@media (min-width:1024px) {
+    .navbar {
+        position: fixed;
+    }  
+}
+
+// Ignore menu subitems on smaller window sizes & mobile
+@media (max-width:1024px) {
+    .navbar-dropdown {
+        display: none;
+    }
+}
+
+@media screen {
+    .navbar-dropdown {
+        display: none;
+    }
+}
+
 // Import the rest of Bulma
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css");
