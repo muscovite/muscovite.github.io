@@ -14,6 +14,7 @@
 - *Stone Age
 - *Sushi Go Party!
 - *Wingspan
+- *Llamaland
 
 #### Less relaxed
 - *Agricola
