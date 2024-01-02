@@ -184,7 +184,11 @@ $font-serif: "Georgia", serif;
     }
 }
 
-
+.navbar-item {
+    .sub-item {
+        padding-left: 3em;
+    }
+}
 
 // Import the rest of Bulma
 @import url("https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css");

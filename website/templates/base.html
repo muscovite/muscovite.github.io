@@ -28,7 +28,7 @@
             <a class="navbar-item" href="/games">
                 game recs
             </a>
-            <!-- Dropdown -->
+            <!-- Seattle food dropdown -->
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link" href="/seattle-food">
                     seattle food guide
@@ -39,6 +39,27 @@
                         <a class="navbar-item" href="/seattle-food/{{page.slug}}">
                             {{ page.title | lower }}
                         </a>
+                    {% endfor %}
+                </div>
+            </div>
+            <!-- Not-Seattle food dropdown -->
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/not-seattle">
+                    not-seattle food guide
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    {% set p = get_page(path="not_seattle.md") %}
+                    {% for h1 in p.toc %}
+                        <a class="navbar-item" href="{{ h1.permalink | safe }}">
+                            {{ h1.title | lower }}
+                        </a>
+                        {% if h1.children %}
+                            {% for h2 in h1.children %}
+                                <a class="navbar-item sub-item" href="{{ h2.permalink | safe }}">
+                                    {{ h2.title | lower }}
+                                </a>
+                            {% endfor %}
+                        {% endif %}
                     {% endfor %}
                 </div>
             </div>
