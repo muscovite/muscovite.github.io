@@ -10,7 +10,8 @@
     {% for asset in section.assets %}
         {% if asset is matching("[.](jpeg|jpg|png)$") %}
             {% set asset = asset|trim_start_matches(pat="/") %}
-                <img class="thumbnail" src="{{ resize_image(path=asset, width=240, height=180, op="fit", quality=100) }}" data-large-url="{{ get_url(path=asset) }}" />
+            {% set small_img = resize_image(path=asset, width=240, height=180, op="fit", quality=100) %}
+                <img class="thumbnail" src="{{ small_img.url }}" data-large-url="{{ get_url(path=asset) }}" />
                 </a>
                 &ensp;
         {% endif %}
