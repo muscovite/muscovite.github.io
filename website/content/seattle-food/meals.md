@@ -50,6 +50,7 @@ template = "food-section.html"
     - Really good roti
 - [Ludi's](https://www.ludisrestaurant.com/)
 - [Made In House](https://www.eatmadeinhouse.com/) (Korean)
+- [Red Bowls](https://www.yelp.com/biz/red-bowls-seattle)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
