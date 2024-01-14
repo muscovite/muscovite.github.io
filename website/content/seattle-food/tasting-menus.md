@@ -49,6 +49,3 @@ template = "food-section.html"
 - [Corson Building](https://www.thecorsonbuilding.com/)
 - [Wa'z](https://www.wazseattle.com/)
 - [Violet](https://www.violetseattle.com/)
-
-## To Try/ retry
-- [Art of the Table](https://www.artofthetable.net/)

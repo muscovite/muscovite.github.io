@@ -43,5 +43,3 @@ template = "food-section.html"
 - Bok a Bok
 - Ezell's
 - Nate's Wings & Waffles
-
-## To Try/ retry
