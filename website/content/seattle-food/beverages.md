@@ -39,5 +39,3 @@ template = "food-section.html"
 - Kung Fu Tea
 - Sharetea
 - Tiger Sugar
-
-## To Try/ retry

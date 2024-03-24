@@ -7,6 +7,9 @@ Things to eat outside the greater Seattle area.
 
 # North America
 
+## Evertt, WA
+- [Narrative Coffee](https://narrative.coffee/)
+
 ## San Juan Island, WA
 - [Duck Soup](https://www.ducksoupsanjuans.com/)
 - [Westcott Bay Shellfish](https://www.westcottbayshellfish.com/)
