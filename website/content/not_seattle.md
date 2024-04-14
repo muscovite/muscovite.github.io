@@ -7,7 +7,7 @@ Things to eat outside the greater Seattle area.
 
 # North America
 
-## Evertt, WA
+## Everett, WA
 - [Narrative Coffee](https://narrative.coffee/)
 
 ## San Juan Island, WA
