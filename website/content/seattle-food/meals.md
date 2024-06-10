@@ -51,6 +51,7 @@ template = "food-section.html"
 - [Ludi's](https://www.ludisrestaurant.com/)
 - [Made In House](https://www.eatmadeinhouse.com/) (Korean)
 - [Red Bowls](https://www.yelp.com/biz/red-bowls-seattle)
+- [Koku Cafe and Market](https://kokucafemarket.com/)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
