@@ -69,6 +69,9 @@ Things to eat outside the greater Seattle area.
 - [Sea Cider](https://www.seacider.ca/)
     - Worth a drive to their tasting room
     - Really good cheese plate and non alcoholic ciders
+- [Chocolats Favoris](https://maps.app.goo.gl/UQGopXQURyKyWuqf9)
+    - Decent soft serve, but the existence of hard shell as a topping really elevates it
+- [GoodSide Pastry House](https://goodsidepastryhouse.ca/)
 
 ### Decent
 - Crust Bakery
@@ -79,10 +82,10 @@ Things to eat outside the greater Seattle area.
 - Parachute Ice Cream
 - Pendray Inn Afternoon Tea
 - The Empress Hotel Afternoon Tea
+- Aura Afternoon Tea
 
 ### Afternoon Tea - to try
 - Butchart Gardens
-- Hotel Grand Pacific
 - Abkhazi Teahouse
 
 ## NYC

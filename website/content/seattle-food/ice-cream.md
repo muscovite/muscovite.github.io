@@ -14,6 +14,7 @@ template = "food-section.html"
 ### Tier 2
 - [Pink's/ Macadons](https://macadons.com/products/ice-cream-pint)*
 - [Seattle Pops](https://www.seattlepops.com/)
+- Temple Pastries Ice Cream Sandwich Window
 
 ### Tier 3
 - [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
