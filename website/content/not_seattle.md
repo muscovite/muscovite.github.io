@@ -254,6 +254,67 @@ Things to eat outside the greater Seattle area.
 
 # Europe
 
+## France
+
+### Paris
+- [Fruttini](https://www.fruttini.com/) (ice cream)
+    - fruit ice cream served in fruit skins/shells! So good.
+- [La Marine](https://www.lamarinecanalsaintmartin.com/)
+- [Breizh](https://en.breizhcafe.com/) (galettes & crepes)
+    - have a nice cider selection
+- [Du Pain et des Idées](http://dupainetdesidees.com/) (bakery)
+    - good croissants
+- [Pouliche](https://www.poulicheparis.com/)
+    - As of Sept 2024, they had an amazing €30 set lunch
+- [Kawa Coffee](https://shop.kawa.coffee/en/)
+- [Clove Coffee](https://www.instagram.com/clovecoffeeshop/?hl=en)
+- [La Chocolaterie William Artigue](https://lachocolaterie-williamartigue.com/) 
+- [AVE Pizza Romana](https://www.avepizzaromana.com/)
+- [Ten Belles](https://www.tenbelles.com/) (cafe)
+- [Pâtisserie Yann Couvreur](https://www.yanncouvreur.com/) (bakery)
+    - pretty good croissant
+- [Des gâteaux et du pain](http://www.desgateauxetdupain.com/) (bakery)
+    - Amazing parmesan sables
+- [Mokonuts](https://www.mokonuts.com/)
+    - Definitely needs early reservations for lunch
+- [À la Biche au Bois](http://alabicheaubois.fr/)
+    - make a reservation
+- [Carton Paris](https://www.cartonparis.com/)
+    - pretty nice, and conveniently located near Gare du Nord/ Gare de l'Est
+- _[Kubo Patisserie](http://www.kubo-patisserie.com/)_ (closed)
+    - Luckily managed to catch them for their last month before the owner closed up shop to move away. Got a chocolate caramel tart that was so good we stopped by to grab a second for our flight back.
+
+## England
+
+### London
+- [Claridge's](https://www.claridges.co.uk/restaurants-bars/afternoon-tea/) (afternoon tea)
+- [Ozone Coffee](https://ozonecoffee.co.uk/)
+- [Nostos Coffee](https://nostoscoffee.co.uk/)
+- [Attendant Coffee](https://www.the-attendant.com/en-us)
+    - visited Fitzrovia location, in a former underground toilet
+- [George's Fish Bar](https://maps.app.goo.gl/WLdWWBC7HCMw6ZbaA)
+    - nice variety of fish, well fried. Soggy chips, but maybe that's just the UK style
+- [Monmouth Coffee](https://www.monmouthcoffee.co.uk/)
+- [Qima Cafe](https://qimacafe.com/)
+
+### Oxford
+- [Missing Bean](https://www.themissingbean.co.uk/pages/east-oxford-roastery)
+- [Hamblin Bread](https://hamblinbread.co.uk/)
+- [The Magdalen Arms](https://www.magdalenarms.co.uk/)
+    - Good Sunday roast, though note that the meat is _on_ the Yorkshire pudding
+- [Jericho Coffee](https://jerichocoffeetraders.com/)
+
+### Moreton-in-Marsh, Cotswolds
+- [Rixy's Cotswold Tearoom](https://www.rixyscotswoldtearoom.co.uk/)
+    - excellent scones
+- [Martha's Coffee House](https://www.instagram.com/marthascoffeehouse/?hl=en)
+    - pretty good scones
+
+## France
+
+### Paris
+-
+
 ## The Netherlands
 - Fries
 - Fresh stroopwafels
