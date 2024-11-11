@@ -19,7 +19,7 @@
 #### Less relaxed
 - *Agricola
 - *Blood Rage
-- *(in digital form) Gloomhaven
+- *(in digital form) Gloomhaven, Frosthaven
     - works much better digitally IMO
 - *Seasons
 - *Space Alert

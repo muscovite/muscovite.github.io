@@ -88,8 +88,8 @@ template = "food-section.html"
 - [Korochka Tavern](https://www.korochkatavern.net/)
 - [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
 - [Salare](https://www.salarerestaurant.com/)
-- **[Manolin](https://www.manolinseattle.com/)**
-- **[JuneBaby](https://www.junebabyseattle.com/)**
+- _**[Manolin](https://www.manolinseattle.com/) (closed)**_
+- _**[JuneBaby](https://www.junebabyseattle.com/) (closed)**_
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
 - [S/T Hooligans](https://www.sthooligans.com/)
     - Get: bread pudding and brisket sandwich
@@ -104,6 +104,8 @@ template = "food-section.html"
 - [Samara](https://samaraseattle.com/)
 - [Pancita @ Pair](https://www.pairseattle.com/)
 - [Atoma](https://www.atomaseattle.com/)
+- [The Ruby Brink](https://www.therubybrink.com/) (Vashon Island)
+- [The Hardware Store](https://thsrestaurant.com/) (Vashon Island)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)

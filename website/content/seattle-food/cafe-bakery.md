@@ -26,7 +26,7 @@ template = "food-section.html"
 - [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
 - [Preserve & Gather](https://www.preserveandgather.com/)
-- [Blackbird Bakery](https://blackbirdbakery.com/)
+- [Blackbird Bakery](https://blackbirdbakery.com/) (Bainbridge Island)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
 - **[Sea Wolf](https://www.seawolfbakers.com/)**
     - Get: any croissant, esp. chocolate or plain, lye roll
@@ -58,6 +58,8 @@ template = "food-section.html"
 - [Ben's Bread](https://bensbread.com/)
 - [Layers](https://www.layersgreenlake.com/)
 - [T55 Patisserie](https://t55patisserie.com/)
+- [Moderne Bakery](https://www.modernebakery.com/)*
+    - Had a pretty tasty kouign amman and shortbread box for SRW Fall 2024
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
