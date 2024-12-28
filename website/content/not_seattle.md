@@ -7,6 +7,10 @@ Things to eat outside the greater Seattle area.
 
 # North America
 
+## Vashon Island, WA
+- [The Ruby Brink](https://www.therubybrink.com/) (Vashon Island)
+- [The Hardware Store](https://thsrestaurant.com/) (Vashon Island)
+
 ## Everett, WA
 - [Narrative Coffee](https://narrative.coffee/)
 

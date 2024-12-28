@@ -11,7 +11,7 @@ template = "food-section.html"
 - **[Dough Zone](https://www.doughzonedumplinghouse.com/)**
 - **[19 Gold](https://www.19goldseattle.com/)**
     - Get: green onion pancake, beef noodle soup, malatang, minced pork over rice
-- _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (temp. closed)**_
+- _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (closed)**_
 - _[Happy Grillmore](https://www.facebook.com/HappyGrillmoreBurgers/) (Filipino-inspired burgers) (closed)_
 - **[Kathmandu Momocha](https://www.kathmandumomocha.com/)***
 - [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
@@ -55,35 +55,35 @@ template = "food-section.html"
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
-    - Barrio and Pablo y Pablo are basically the same restaurant in different locations
-    - Meet the Moon: pork carnitas
-    - they all have the same great guac (usually)
 
 ### Peruvian
 - **[Don Lucho's](https://donluchosinseattle.com/)**
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
 - **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)**
     - specialty: Nikkei (Peruvian-Japanese) sushi rolls
-    - Amazing homemade Basque-style cheesecake
+    - Amazing homemade Basque-style cheesecake (may no longer be offered)
 - **[Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)**
     - Still need to try their pollo a la brasa
 
 ### Sandwich-like
 - **[Ma'ono](https://www.maonoseattle.com/)**
     - Get: sandwich, tenders, mac & kimcheese, hawaiian BBQ
-    - Pass: drumsticks, fries
+    - Pass: drumsticks
 - **[Arepa Venezuelan Kitchen](https://www.facebook.com/ArepaVen/)**
     - Get: special steak
 - [Un Bien](https://www.unbienseattle.com/)
     - Get: the press
-- **[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)**
+- (**[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)** (closed?)_
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
 
 ### American/European etc, generally
 - _**[Meet the Moon](https://meetthemooncafe.com/)** (closed)_
     - Is now another Pablo y Pablo location ):
 - [The Shambles](https://www.delimeatsbar.com/)
-- **[Eight Row](https://www.eightrow.com/)**
+- _**[Eight Row](https://www.eightrow.com/)** (closed)_
+- [The Greenwood American Bistro](https://www.thegreenwoodamericanbistro.com/)
+    - Shaping up to be the next Eight Row, but only time will tell
+    - Sides and apps are really good, mains have been unmemorable
 - **[Bateau](https://www.restaurantbateau.com/)**
 - [Korochka Tavern](https://www.korochkatavern.net/)
 - [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
@@ -101,11 +101,9 @@ template = "food-section.html"
 - [Ciudad](https://www.ciudadseattle.com/)
     - The option to order meat by the pound is solid. Also features a Stacey Rozich mural
 - [Kona Kitchen - Maple Leaf](https://konakitchen.com/)
-- [Samara](https://samaraseattle.com/)
+- _[Samara](https://samaraseattle.com/) (closed)_
 - [Pancita @ Pair](https://www.pairseattle.com/)
 - [Atoma](https://www.atomaseattle.com/)
-- [The Ruby Brink](https://www.therubybrink.com/) (Vashon Island)
-- [The Hardware Store](https://thsrestaurant.com/) (Vashon Island)
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
