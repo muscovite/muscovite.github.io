@@ -310,11 +310,6 @@ Things to eat outside the greater Seattle area.
 - [Martha's Coffee House](https://www.instagram.com/marthascoffeehouse/?hl=en)
     - pretty good scones
 
-## France
-
-### Paris
--
-
 ## The Netherlands
 - Fries
 - Fresh stroopwafels
