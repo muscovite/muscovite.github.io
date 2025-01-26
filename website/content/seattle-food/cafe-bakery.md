@@ -35,7 +35,7 @@ template = "food-section.html"
     - Get: any croissant, esp. chocolate or plain, lye roll
     - Pass: cinnamon roll
 - [Cloud City Coffee](https://www.cloudcitycoffee.com/)
-- [Sweet Nothings & More](https://www.sweetnothingsandmore.com/)*
+- [Sweet Bakery](https://www.sweetnothingsandmore.com/)
 - [Cake Life Everyday](https://www.cakelifeeveryday.com/)* (croissants)
 - **[Red Arrow Coffee](https://www.redarrowcoffee.com/)**
 - _[La Marzocco Cafe](https://lamarzoccousa.com/locations/cafe/) (closed)_
@@ -63,6 +63,7 @@ template = "food-section.html"
 - [T55 Patisserie](https://t55patisserie.com/)
 - [Moderne Bakery](https://www.modernebakery.com/)*
     - Had a pretty tasty kouign amman and shortbread box for SRW Fall 2024
+- [Ancient Gate Coffee](https://www.ancientgatecoffee.com/)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
