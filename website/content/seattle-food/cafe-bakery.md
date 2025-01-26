@@ -64,6 +64,7 @@ template = "food-section.html"
 - [Moderne Bakery](https://www.modernebakery.com/)*
     - Had a pretty tasty kouign amman and shortbread box for SRW Fall 2024
 - [Ancient Gate Coffee](https://www.ancientgatecoffee.com/)
+- [Ben's Bread](https://bensbread.com/)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
