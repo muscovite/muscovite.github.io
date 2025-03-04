@@ -34,7 +34,7 @@ Things to eat outside the greater Seattle area.
 - [Off the Waffle](https://offthewaffle.com/)
     - Bring their frozen liege waffles home!
 
-## Vancouver, B.C
+## Vancouver, B.C and surroundings
 
 ### Recommended
 - [Beta5 Chocolates](https://shop.beta5chocolates.com/)
@@ -45,12 +45,32 @@ Things to eat outside the greater Seattle area.
 - [Small Victory](https://smallvictory.ca/)
 - [Saku](https://www.sakuvancouver.com/)
     - The Zenbu Katsu set has a little bit of everything and is plenty for two
+- [Elephant Garden Creamery](https://www.elephantgarden.ca/)
+    - Fun Asian inspired flavors. Well executed, though flavors could be turned up a notch
+- [The Lunch Lady](https://thelunchlady.com/)
+    - Solid option if you snag a reservation, not really worth waiting for
+- [SUYO Modern Peruvain](https://www.suyo.ca/)
+    - Delicious, worth it
+    - Some dishes kind of lost their Peruvian flavor profile, but still tasted great
+- [Bonus Bakery](https://bonusbakery.com/)
+    - I've only had a single item: vegan chocolate chip walnut cookie at Turks Coffee Bar. It was incredible, though. If you're familiar with Monorail Espresso's chubbie, this was basically a chocolate chip walnut chubby
+    - TODO: make a trip to their storefront
+- [Oh Sweet Day! Bakeshop](https://www.ohsweetday.com/)
+    - Tried ube cheesecake and sampler pack of shortbreads. High quality, but the flavors could be stronger
 
 ### Decent
 - [Beaucoup Bakery](https://www.beaucoupbakery.com/)
     - Had a few good items and not great ones, including some breads that felt stale despite us arriving within 30 minutes of opening
 - [Angus T](https://angust.com/) (croissants)
     - Interesting flavors, but croissants themselves not super fresh (maybe would be better earlier in the day)
+- [Notch8](https://www.notch8-dining.com/) (afternoon tea)
+    - Seems like they switch up the theme regularly. Solid option overall
+
+### Not Recommended
+- [Nero Waffle Bar](https://www.nerowafflebar.com/)
+    - Simply lackluster and just makes me miss Off The Waffle when it had a Portland location
+- [Neverland Tea Salon](https://neverlandtea.com/)
+    - Scones were decent. Savories were okay. Sweets were mediocre
 
 ## Victoria, B.C
 
