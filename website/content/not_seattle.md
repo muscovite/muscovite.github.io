@@ -279,9 +279,7 @@ Things to eat outside the greater Seattle area.
 ## Peru
 ### Lima
 - [Central](https://centralrestaurante.com.pe/en/)
-
-### To Try/ retry
-- [Maido](https://maido.pe/en/)
+- [Isolina](https://isolina.pe/)
 
 # Europe
 
