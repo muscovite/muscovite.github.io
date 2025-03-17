@@ -137,6 +137,13 @@ Things to eat outside the greater Seattle area.
     - People say it's the best chocolate chip cookie in Houston. It's pretty good! But "best" status is TBD
 - [Torchy's Tacos](https://torchystacos.com/)
     - Fried avocado, fried chicken
+- [Pacha Nikkei](https://www.pachanikkei.com/)
+    - Everything we had was really good
+- [Kohiko](https://www.kohicoffeehouse.com/)
+    - Coffeehouse with a matcha specialization
+    - Pretty good croissants & alfajores supplied by [Love Croissants](https://www.lovecroissants.com/)
+- [Rang Coffee & More](https://www.instagram.com/rang.coffeeandmore/?hl=en)
+    - Vietnames coffee
 
 ### To Try/ retry
 - [Craft Creamery](https://craftcreameryhtx.com/)
