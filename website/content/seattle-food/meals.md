@@ -54,6 +54,9 @@ template = "food-section.html"
 - [Koku Cafe and Market](https://kokucafemarket.com/)
 - [Local Tide](https://www.localtide.com/)
     - Not really "Asian", PNW fish with some Asian influence on flavors
+- [Akebono Japanese Cuisine](https://www.instagram.com/akebono_seattle/)
+    - Surprisingly decent, especially for the distance-to-value ratio
+    - But don't go out of your way to eat here (:
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)

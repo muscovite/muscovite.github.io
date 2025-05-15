@@ -21,6 +21,10 @@ template = "food-section.html"
     - Have only been once so far, but it's promising
 - [Aroom Coffee](https://www.aroomers.com/home) (Vietnamese)
     - Avocado coffee
+- [Yoka Tea](https://www.yokatea.us/)
+    - Just opened, so I need to revisit them as they rotate drinks seasonally
+    - Pretty tasty croffles
+    - When they were a popup, they had an AMAZING avocado match drink
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)

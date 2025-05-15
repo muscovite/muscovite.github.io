@@ -92,6 +92,9 @@ template = "food-section.html"
 - [Mitten Sweets & Coffee](https://www.mittensweetsandcoffee.com/)
     - Matcha chocolate cake and puff pastry was really good
 - [Voi Ca Phe](https://www.voicaphe.com/) (Vietnamese)
+- [The Wayland Mill](https://www.thewaylandmill.com/)
+    - Japanese inspired small dishes and baked goods
+    - Promising, need to try again
 
 ### Afternoon Teas
 - **[Coyle's Bakeshop](https://www.coylesbakeshop.com/) (currently suspended)**
