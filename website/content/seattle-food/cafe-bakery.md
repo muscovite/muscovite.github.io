@@ -65,6 +65,10 @@ template = "food-section.html"
     - Had a pretty tasty kouign amman and shortbread box for SRW Fall 2024
 - [Ancient Gate Coffee](https://www.ancientgatecoffee.com/)
 - [Ben's Bread](https://bensbread.com/)
+- [Baskette](https://mybaskette.com/)
+    - Particularly enjoy that they have both baked goods and hearty sandwiches during all opening hours
+- [Slow Day Coffee](https://slowday.coffee/)
+    - Focuses on showcasing specialty beans from outside the Seattle area
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)

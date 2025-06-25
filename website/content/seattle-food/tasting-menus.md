@@ -25,6 +25,9 @@ template = "food-section.html"
 - _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
 
 ## Tier 3
+- [ILMU](https://www.t55patisserie.com/ilmu/)
+    - Pretty solid based on a first visit, could move up through the tiers if it holds up
+    - A bit too reliant on foaming things as a gimmick, wish there was more variety
 - [Canlis](https://canlis.com/)
     - mostly for the views and to see if new executive chef is doing anything interesting
 - [Ltd Edition Sushi](https://www.ltdeditionsushi.com/)
