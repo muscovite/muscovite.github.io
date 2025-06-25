@@ -61,6 +61,7 @@ template = "food-section.html"
     - Very nice fish bowls
 - [Aroy Mak](https://thairestaurantseattle.com/)
     - Hits the chicken and rice spot
+- [Taurus Ox](https://www.taurusox.com)
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -116,7 +117,6 @@ template = "food-section.html"
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
-- [Taurus Ox](https://taurusox.square.site/)
 - [Monsoon](https://monsoonrestaurants.com/seattle/)
 - [Kokkaku](https://kokkakuseattle.com/) ("Japanese inspired" steakhouse)
 - [Ishoni Yakiniku](https://www.instagram.com/ishoniseattle/?hl=en)
