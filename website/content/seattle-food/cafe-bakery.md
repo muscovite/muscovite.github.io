@@ -54,8 +54,6 @@ template = "food-section.html"
 - [Bake Shop](https://bakeshopseattle.com/)
     - Get: ham & cheese potato bun, scallion scone, miso buckwheat chocolate cookie
     - Need to try: chocolate babka
-- [Papa Chango](https://www.papachangocafe.com/)
-    - cafe bombon; cortados with a hint of sweetness
 - [Shawn's Cafe and Bakery](https://www.shawnscafeandbakery.com/)
 - [La Fête Pâtisserie](https://www.lafetepatisserie.com/)
 - [Ben's Bread](https://bensbread.com/)
