@@ -59,6 +59,8 @@ template = "food-section.html"
     - But don't go out of your way to eat here (:
 - [Minato](https://minatoseattle.com/)
     - Very nice fish bowls
+- [Aroy Mak](https://thairestaurantseattle.com/)
+    - Hits the chicken and rice spot
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
