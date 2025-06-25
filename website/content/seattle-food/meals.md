@@ -57,6 +57,8 @@ template = "food-section.html"
 - [Akebono Japanese Cuisine](https://www.instagram.com/akebono_seattle/)
     - Surprisingly decent, especially for the distance-to-value ratio
     - But don't go out of your way to eat here (:
+- [Minato](https://minatoseattle.com/)
+    - Very nice fish bowls
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
