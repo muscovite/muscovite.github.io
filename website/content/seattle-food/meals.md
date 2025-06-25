@@ -83,7 +83,7 @@ template = "food-section.html"
     - Get: special steak
 - [Un Bien](https://www.unbienseattle.com/)
     - Get: the press
-- (**[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)** (closed?)_
+- _**[The Grilled Cheese Experience](https://www.grilledcheeseseattle.com/)** (closed?)_
 - _**[Anchor End Pretzel Shoppe](https://www.instagram.com/anchor_end_/?hl=en) (closed)**_
 
 ### American/European etc, generally

@@ -12,24 +12,25 @@ template = "food-section.html"
 - _Lick Pure Cream (closed)_
 
 ### Tier 2
-- [Pink's/ Macadons](https://macadons.com/products/ice-cream-pint)*
+- [Pink's/ Macadons](https://macadons.com/collections/ice-cream-pints)*
 - [Seattle Pops](https://www.seattlepops.com/)
 - Temple Pastries Ice Cream Sandwich Window
 
 ### Tier 3
 - [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
-- [Fancy Screams](https://www.fancyscreams.com/)*
+- _[Fancy Screams](https://www.fancyscreams.com/)* (closed?)_
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
-- [Milk and Leaf Collective](https://milkandleaf.love/)*
+- _[Milk and Leaf Collective](https://milkandleaf.love/)* (closed/hibernating)_
 - [Molly Moon's](https://www.mollymoon.com/)
     - They've been slowly declining over the years ):
     - Get: waffle cone, chocolate hard shell
-- [KRYSE](https://kryse.squarespace.com/)*
+- _[KRYSE](https://kryse.squarespace.com/)* (dormant?)_
     - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _Kurt Farm Shop (closed)_
 - _Sugar Plum (closed)_
 - [Hellenika Cultured Creamery](https://www.hellenika.us/)
     - New concept from Ellenos founders
+    - Shows up at farmer's markets
 
 ## Decent
 - [Bluebird](https://bluebirdicecream.square.site/)

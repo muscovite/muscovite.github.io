@@ -8,7 +8,7 @@ template = "food-section.html"
 - _[Sod House Bakery](https://sodhousebakery.square.site/) (replaced)_
     - RIP pecan scones
     - Replaced by Zary 
-- [Zary Bakery](https://www.zarybakery.com/)_
+- [Zary Bakery](https://www.zarybakery.com/)
     - Replaced Sod House
 - [Cafe Javasti](https://javasti.com/)
     - Get: quickbreads, especially chocolate zucchini
@@ -73,7 +73,7 @@ template = "food-section.html"
 - [Akio's Bakery](https://www.akiosbakery.com/)*
     - Good cream puffs, though cream could be a bit stronger in flavor
     - Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries
-- **[SUSU Dessert Bar](https://www.instagram.com/sususeattle)**
+- _**[SUSU Dessert Bar](https://www.instagram.com/sususeattle)** (on hiatus)_
     - Need to get in line 1~1.5 hours before opening to ensure widest choice of items. The line also moves extremely slowly as there's only one person both taking and packing orders. Food is pretty good, though
 - **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
@@ -115,28 +115,31 @@ template = "food-section.html"
 - **[Pie Bird Bakeshop](https://www.piebirdbakeshop.com/)***
 - **[Macadons](https://macadons.com)***
     - Best macarons in the area
-- **[Coping Cookies](https://copingcookies.com/)***
-- [Salt & Other Vices](https://saltandothervices.com/)* (cookies)
+- _**[Coping Cookies](https://copingcookies.com/)*** (closed)_
+- _[Salt & Other Vices](https://saltandothervices.com/)* (cookies) (closed)_
 - [Mighty-O Donuts](https://www.mightyo.com/)
 - [Chocolati Cafe](https://chocolati.com/)
     - hot chocolates, mochas; truffles are kind of disappointing
 - [Selva Central Goods](https://www.selvacentralgoods.com/) (Central American inspired)
 - [Metropolitan Market](https://metropolitan-market.com/)
     - high end supermarket that bakes "The Cookie" (and overall decent baked goods)
-- [Tall Grass Bakery](https://www.tallgrassbakery.com/)
 - [Grateful Bread](https://gratefulbreadbaking.com/)
 - _**[Pie Fremont](https://www.yelp.com/biz/pie-seattle) (closed)**_
     - Adorable single serve sweet and savory pies. Had a food truck at Westlake
 - _[Sweet Iron](https://sweetironwaffles.com/) (liege waffles) (closed)_
 - [Oso Negro Baking Co](https://www.osonegrobakingco.com/) (Argentinian alfajores)
-- [Joe Chocolate](https://joechocolateco.com/pages/joecafe) (caffeinated chocolate)
-- [Hédonisme](https://www.experiencehedonisme.com/)
+- _Joe Chocolate (caffeinated chocolate) (closed)_
+- _[Hédonisme](https://www.experiencehedonisme.com/) (closed for now)_
+    - Chef moved to France, hope she comes back some day
 - [Old Salt](https://www.oldsaltseattle.com/) (bagel sandwiches)
 - [Spinnaker Chocolate](https://www.spinnakerchocolate.com/)
     - excellent limited run hazelnut chocolate spread
 - [Dutch Dame Stroopwafels](instagram.com/ddamestroopwafels/?hl=en)*
 - [Porto-Pies](https://www.portopies.com/)*
 - [Doce Donuts](https://www.docedonut.com/)
+- [Cookie Break](https://www.thecookiebreaks.com/)
+    - Neighborhood home bakery
+    - Our current Eurovision tradition
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
@@ -147,14 +150,12 @@ template = "food-section.html"
 - [Graysea's Pies](https://grayseaspies.squarespace.com/)*
 - [Kaffeeklatsch](https://www.facebook.com/KaffeeklatschSeattle/)
 - [Backyard Bakery Maple Leaf](https://seattlebackyardbakery.com/)
-- [Cakes + Trees](https://www.cakesandtrees.com/)
+- _[Cakes + Trees](https://www.cakesandtrees.com/) (closed)_
 - [Grand Central Bakery](https://www.grandcentralbakery.com/find-us/seattle/wedgwood/)
     - Get: coffeecake, cuties (seasonal mini chocolate pies), sourdough
     - Pass: most of their other things
-- [Pligrim Coffeehouse](https://pilgrimcoffeehouse.com/)
-- [Retreat](https://retreat-greenlake.com/)
 - [Paper Cake Shop](https://www.papercakeshop.com/)
-    - underwhelmed by first visit, but should retry
+    - unique flavors, but slices are small and pricey
 
 ## Not recommended
 - General Porpoise (donuts)
