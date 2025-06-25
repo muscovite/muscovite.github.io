@@ -34,6 +34,11 @@ Things to eat outside the greater Seattle area.
 - [Off the Waffle](https://offthewaffle.com/)
     - Bring their frozen liege waffles home!
 
+## Boulder, CO
+- [Boulder Dushanbe Teahouse](https://www.boulderteahouse.com/)
+    - Very unique space donated by Boulder's sister city of Dushanbe, Tajikistan 
+    - Afternoon tea is good value for money
+
 ## Vancouver, B.C and surroundings
 
 ### Recommended
