@@ -51,7 +51,7 @@ template = "food-section.html"
 - [Ludi's](https://www.ludisrestaurant.com/)
 - [Made In House](https://www.eatmadeinhouse.com/) (Korean)
 - [Red Bowls](https://www.yelp.com/biz/red-bowls-seattle)
-- [Koku Cafe and Market](https://kokucafemarket.com/)
+- _[Koku Cafe and Market](https://kokucafemarket.com/) (closed)_
 - [Local Tide](https://www.localtide.com/)
     - Not really "Asian", PNW fish with some Asian influence on flavors
 - [Akebono Japanese Cuisine](https://www.instagram.com/akebono_seattle/)
