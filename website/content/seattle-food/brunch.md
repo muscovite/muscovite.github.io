@@ -17,7 +17,7 @@ template = "food-section.html"
 - **[Red Arrow Coffee](https://www.redarrowcoffee.com/)**
     - Get: pimento cheese biscuit
 - [Union Saloon](https://www.unionsaloonseattle.com/)
-- **[Eight Row](https://www.eightrow.com/)**
+- _**[Eight Row](https://www.eightrow.com/)** (closed)_
 - _[Wandering Goose](https://www.thewanderinggoose.com/) (closed)_
 - _[Brunswick & Hunt](https://www.yelp.com/biz/brunswick-and-hunt-seattle) (closed)_
 - _**[Thackeray](https://www.yelp.com/biz/thackeray-seattle-2) (closed)**_
