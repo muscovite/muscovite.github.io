@@ -20,7 +20,6 @@ template = "food-section.html"
     - Roast are on the darker side
     - Get: chubbies (think fat shortbread cookies)
 - [Olympia Coffee (Downtown Seattle)](https://www.olympiacoffee.com/pages/downtown-seattle)
-    - Pretty nice pastries, since they're affiliated with Moonrise Bakery
 - **[Mr. West](https://mrwestcafebar.com/)**
 - [Zylberschtein's](https://www.zylberschtein.com/)
 - **[Temple Pastries](https://www.templepastries.com/)**
