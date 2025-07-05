@@ -171,6 +171,15 @@ Things to eat outside the greater Seattle area.
 ## Orange County-ish, CA
 - [Banh Mi Che Cali](https://www.yelp.com/biz/banh-mi-and-che-cali-garden-grove)
     - Nice baguettes
+- [Baking Room](https://inbakingroom.com/)
+    - Asian-French pastries
+    - Check opening hours! They're quite limited
+- [Bakers & Baristas](https://www.bakersandbaristas.net/)
+    - Solid option for snacks (have yet to try brunch)
+    - Make sure to make time to check out their little corner store in the same plaza, B&B Superette
+- [Coffee &](https://coffeen4u.com/)
+    - I don't know where they source their cookies from, but they are top notch
+    - Don't think I've actually had an espresso drink yet (: next time!
 
 ### Decent
 - [Smoking Tiger](https://www.smokingtiger.com/)
