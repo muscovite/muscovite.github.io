@@ -135,6 +135,10 @@ template = "food-section.html"
 - [Phocific Standard Time](https://www.instagram.com/pst.seattle/?hl=en)
     - Way too loud, which ruins the experience
     - Good food, okay drinks
+- [Ba Sa](https://www.basabainbridgeisland.com/) (Bainbridge Island)
+    - Not bad, but not worth a long wait
+    - Food highlight: Karaage chicken banh mi 
+    - Drink highlights: Tropic Like It's Hot, Passionfruit Lemondrop
 
 ## Not recommended
 - Siembra (Peruvian inspired)*

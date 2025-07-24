@@ -12,7 +12,7 @@ template = "food-section.html"
 
 ## Tier 2
 - [Copine](https://www.copineseattle.com/)
-- [Eight Row](https://www.eightrow.com/)
+- _[Eight Row](https://www.eightrow.com/) (closed)_
 - [Carrello](https://www.carrellorestaurant.com/)
     - Altura's younger sibling, just as solid at a lower price point
 - [Cook Weaver](https://www.cookweaver.com/)

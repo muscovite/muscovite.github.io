@@ -14,10 +14,15 @@ template = "food-section.html"
 ### Tier 2
 - [Pink's/ Macadons](https://macadons.com/collections/ice-cream-pints)*
 - [Seattle Pops](https://www.seattlepops.com/)
-- Temple Pastries Ice Cream Sandwich Window
+- [Ice Cream Sandwich Window](https://www.instagram.com/ice_cream_window/) (by Temple Pastries)
+- [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
+    - Highlights: seasonal strawberry rhubarb, seasonal sakura, Tale of Two Teas
+- [Hellenika Cultured Creamery](https://www.hellenika.us/)
+    - New concept from Ellenos founders. Based in Pike Places, also shows up at farmer's markets
+    - Highlights: ube coconut, marionberry
 
 ### Tier 3
-- [Sweet Alchemy](https://sweetalchemyicecreamery.com/)
+
 - _[Fancy Screams](https://www.fancyscreams.com/)* (closed?)_
 - [Nutty Squirrel Gelato](https://nuttysquirrel.com/)
 - _[Milk and Leaf Collective](https://milkandleaf.love/)* (closed/hibernating)_
@@ -27,10 +32,10 @@ template = "food-section.html"
 - _[KRYSE](https://kryse.squarespace.com/)* (dormant?)_
     - Trivia: Kryse & her ex-husband used to run Central District Ice Cream, which we didn't like because the flavors never lived up to promise. But her solo venture is quite the opposite
 - _Kurt Farm Shop (closed)_
+    - Owner now works full time on his farm on Vashon Island, hosting classes and lectures
+    - Also runs an Airbnb on the farm. Pro tip: take a class and booking a night's stay for an indulgent getaway
 - _Sugar Plum (closed)_
-- [Hellenika Cultured Creamery](https://www.hellenika.us/)
-    - New concept from Ellenos founders
-    - Shows up at farmer's markets
+
 
 ## Decent
 - [Bluebird](https://bluebirdicecream.square.site/)

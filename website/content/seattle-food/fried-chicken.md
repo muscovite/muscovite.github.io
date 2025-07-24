@@ -35,7 +35,7 @@ template = "food-section.html"
 - [Milk Drunk](https://www.themilkdrunk.com/)
     - overly hard chicken batter, and chicken itself not that flavorful
 - [Witness](https://witnessbar.com/)
-- [Taku](https://www.takuseattle.com/) (karaage)
+- _[Taku](https://www.takuseattle.com/) (karaage) (closed)_
 
 ## Not recommended
 - Sisters & Brothers
