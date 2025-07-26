@@ -13,7 +13,8 @@ template = "food-section.html"
     - Get: green onion pancake, beef noodle soup, malatang, minced pork over rice
 - _**[By Tae](https://www.instagram.com/bytaeseattle)* (Chirashi bowls) (closed)**_
 - _[Happy Grillmore](https://www.facebook.com/HappyGrillmoreBurgers/) (Filipino-inspired burgers) (closed)_
-- **[Kathmandu Momocha](https://www.kathmandumomocha.com/)***
+- **[Kathmandu Momocha](https://www.kathmandumomocha.com/)**
+    - Has a physical location in SLU now
 - [Yes Siam](https://www.yessiamthaicafe.com/) (Thai)
 - [Ba Ba Lio](https://www.babaliotaiwan.com/)* (Taiwanese inspired)
 - **[Musang](https://www.musangseattle.com/) (Filipino)**
@@ -62,6 +63,8 @@ template = "food-section.html"
 - [Aroy Mak](https://thairestaurantseattle.com/)
     - Hits the chicken and rice spot
 - [Taurus Ox](https://www.taurusox.com)
+ -[Loumpia](https://www.loumpia.com/)*
+    - They like experimenting with flavors, like a superb halo halo lumpia
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
