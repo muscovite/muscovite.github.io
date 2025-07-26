@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>yvonne chen - personal website</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/jquery.min.js"></script>
+    <script src="/script.js"></script>
+</head>
+
+<!-- Menu bar -->
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <div class="title navbar-item main-title" href="https://bulma.io">
+            <a href="/">yvonne chen</a>
+        </div>
+    </div>
+  
+    <div class="navbar-menu is-active">
+        <div class="navbar-start">
+            <a class="navbar-item" href="/">
+                home
+            </a>
+            <a class="navbar-item" href="/ducks">
+                ducks
+            </a>
+            <a class="navbar-item" href="/games">
+                game recs
+            </a>
+            <!-- Seattle food dropdown -->
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/seattle-food">
+                    seattle food guide
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    
+                    
+                        <a class="navbar-item" href="/seattle-food/fried-chicken">
+                            fried chicken
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/beverages">
+                            beverages
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/challah">
+                            challah
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/tasting-menus">
+                            tasting menus
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/cafe-bakery">
+                            cafes &amp; bakeries
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/meals">
+                            meals
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/brunch">
+                            breakfast &amp; brunch
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/ice-cream">
+                            ice cream
+                        </a>
+                    
+                </div>
+            </div>
+            <!-- Not-Seattle food dropdown -->
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/not-seattle">
+                    not-seattle food guide
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#north-america">
+                            north america
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#vashon-island-wa">
+                                    vashon island, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#everett-wa">
+                                    everett, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#san-juan-island-wa">
+                                    san juan island, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#portland-or">
+                                    portland, or
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#eugene-or">
+                                    eugene, or
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#boulder-co">
+                                    boulder, co
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#vancouver-b-c-and-surroundings">
+                                    vancouver, b.c and surroundings
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#victoria-b-c">
+                                    victoria, b.c
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#nyc">
+                                    nyc
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#houston">
+                                    houston
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#austin-tx">
+                                    austin, tx
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#orange-county-ish-ca">
+                                    orange county-ish, ca
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#big-island-hawaii">
+                                    big island, hawaii
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#asia">
+                            asia
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#japan">
+                                    japan
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#singapore">
+                                    singapore
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#taiwan">
+                                    taiwan
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#south-america">
+                            south america
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#peru">
+                                    peru
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#europe">
+                            europe
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#france">
+                                    france
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#england">
+                                    england
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#the-netherlands">
+                                    the netherlands
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#spain">
+                                    spain
+                                </a>
+                            
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- Body -->
+<body>
+    <section class="section">
+        <!-- Page title -->
+        <div class="container">
+            <h2 class="title is-3">
+                
+    Meals
+
+            </h2>
+        </div>
+        <!-- Main content -->
+        <div class="container">
+            
+    
+    <details open>
+    <summary>Sections</summary>
+    <div class="page-toc">
+        <ul>
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/meals/#recommended">Recommended</a>
+                </li>
+                
+                <ul>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/meals/#asian-generally">Asian, generally</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/meals/#americanized-mexican">Americanized Mexican</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/meals/#peruvian">Peruvian</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/meals/#sandwich-like">Sandwich-like</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/meals/#american-european-etc-generally">American&#x2F;European etc, generally</a>
+                        </li>
+                    
+                </ul>
+                
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/meals/#decent">Decent</a>
+                </li>
+                
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/meals/#not-recommended">Not recommended</a>
+                </li>
+                
+            
+        </ul>
+    </div>
+    </details>
+    
+
+    <div class="popup-note">
+        <p>* popup/delivery/farmer's market</p>
+    </div>
+
+    <hr noshade>
+    <div class="listings-entry content">
+        <h2 id="recommended">Recommended</h2>
+<h3 id="asian-generally">Asian, generally</h3>
+<ul>
+<li><strong><a href="https://www.yelp.com/biz/little-tings-dumplings-seattle">Little Ting's Dumplings</a></strong></li>
+<li><strong><a href="https://www.dintaifungusa.com/us/locations/seattle-university-village.html">Din Tai Fung</a></strong>
+<ul>
+<li>Get: xiao long bao</li>
+</ul>
+</li>
+<li><strong><a href="https://www.doughzonedumplinghouse.com/">Dough Zone</a></strong></li>
+<li><strong><a href="https://www.19goldseattle.com/">19 Gold</a></strong>
+<ul>
+<li>Get: green onion pancake, beef noodle soup, malatang, minced pork over rice</li>
+</ul>
+</li>
+<li><em><strong><a href="https://www.instagram.com/bytaeseattle">By Tae</a>* (Chirashi bowls) (closed)</strong></em></li>
+<li><em><a href="https://www.facebook.com/HappyGrillmoreBurgers/">Happy Grillmore</a> (Filipino-inspired burgers) (closed)</em></li>
+<li><strong><a href="https://www.kathmandumomocha.com/">Kathmandu Momocha</a></strong>
+<ul>
+<li>Has a physical location in SLU now</li>
+</ul>
+</li>
+<li><a href="https://www.yessiamthaicafe.com/">Yes Siam</a> (Thai)</li>
+<li><a href="https://www.babaliotaiwan.com/">Ba Ba Lio</a>* (Taiwanese inspired)</li>
+<li><strong><a href="https://www.musangseattle.com/">Musang</a> (Filipino)</strong></li>
+<li><strong><a href="https://itsumonoseattle.wixsite.com/home">Itsumono</a></strong>
+<ul>
+<li>Get: karaage, whatever creative food-of-the-day they cook up</li>
+</ul>
+</li>
+<li><a href="https://www.jeepneycaphill.com/home">Jeepney</a></li>
+<li><strong><a href="https://www.instagram.com/masakanseattle/?hl=en">Masakan</a> (Malay)</strong>*
+<ul>
+<li>probably the best Malay food I've had since Singapore days</li>
+</ul>
+</li>
+<li><strong><a href="https://www.instagram.com/marimakanseattle/?hl=en">Marimakan</a> (Singapore/Malay)</strong>*
+<ul>
+<li>pickup in Lynnwood; delivery available for a fee</li>
+<li>Have tried: chili crab, char kway teow, duck egg kaya</li>
+</ul>
+</li>
+<li><a href="https://rasaiwa.com/">Rasai</a> (Modernized Indian)</li>
+<li><strong><a href="https://www.kamonegiseattle.com/">Kamonegi</a></strong>
+<ul>
+<li>specializes in soba</li>
+</ul>
+</li>
+<li><a href="https://chiangsgourmetseattle.com/">Chiang's Gourmet</a> (dim sum)
+<ul>
+<li>weekends only; have off menu items, like har gow!</li>
+</ul>
+</li>
+<li><a href="https://www.kobutaandookami.com/">Kobuta and Ookami</a> (pork katsu)</li>
+<li><a href="https://www.pajurestaurant.com/">Paju</a> (Korean)</li>
+<li><a href="https://www.kricketclub.com/">Kricket Club</a> (Modern Indian)
+<ul>
+<li>Good for being our neighborhood indian place, but average overall (and kind of pricey)</li>
+<li>Most items have a nice spicy kick to them</li>
+</ul>
+</li>
+<li><a href="https://www.seattlefishguys.com/">Seattle Fish Guys</a> (poke)</li>
+<li><a href="https://www.45thstopnshop.com/">45th Stop n Shop</a> (poke)</li>
+<li><a href="https://www.biangbiangnoodles.com/">Biang Biang Noodles</a></li>
+<li><a href="https://www.yelp.com/biz/saigon-deli-seattle-2">Saigon Deli</a></li>
+<li><em><a href="https://www.instagram.com/bunsoyseattle/">Bunsoy</a> (Filipino) (closed)</em></li>
+<li><a href="https://www.instagram.com/hilife_bainbridge/?hl=en">Hi Life</a></li>
+<li><a href="https://www.dumplingthenoodle.com/">Dumpling the Noodle</a></li>
+<li>Green Tree (Vietnamese)
+<ul>
+<li>Chonky banh mi</li>
+<li>Rivals Pho88</li>
+</ul>
+</li>
+<li><a href="https://www.instagram.com/enseamada/?hl=en">Enseamada Cafe</a></li>
+<li><a href="https://banhuasai.com/">Ban Hua Sai</a>
+<ul>
+<li>Really good roti</li>
+</ul>
+</li>
+<li><a href="https://www.ludisrestaurant.com/">Ludi's</a></li>
+<li><a href="https://www.eatmadeinhouse.com/">Made In House</a> (Korean)</li>
+<li><a href="https://www.yelp.com/biz/red-bowls-seattle">Red Bowls</a></li>
+<li><em><a href="https://kokucafemarket.com/">Koku Cafe and Market</a> (closed)</em></li>
+<li><a href="https://www.localtide.com/">Local Tide</a>
+<ul>
+<li>Not really &quot;Asian&quot;, PNW fish with some Asian influence on flavors</li>
+</ul>
+</li>
+<li><a href="https://www.instagram.com/akebono_seattle/">Akebono Japanese Cuisine</a>
+<ul>
+<li>Surprisingly decent, especially for the distance-to-value ratio</li>
+<li>But don't go out of your way to eat here (:</li>
+</ul>
+</li>
+<li><a href="https://minatoseattle.com/">Minato</a>
+<ul>
+<li>Very nice fish bowls</li>
+</ul>
+</li>
+<li><a href="https://thairestaurantseattle.com/">Aroy Mak</a>
+<ul>
+<li>Hits the chicken and rice spot</li>
+</ul>
+</li>
+<li><a href="https://www.taurusox.com">Taurus Ox</a>
+-<a href="https://www.loumpia.com/">Loumpia</a>*
+<ul>
+<li>They like experimenting with flavors, like a superb halo halo lumpia</li>
+</ul>
+</li>
+</ul>
+<h3 id="americanized-mexican">Americanized Mexican</h3>
+<ul>
+<li><a href="https://www.heavyrestaurantgroup.com/">Heavy Restaurant Group</a></li>
+</ul>
+<h3 id="peruvian">Peruvian</h3>
+<ul>
+<li><strong><a href="https://donluchosinseattle.com/">Don Lucho's</a></strong></li>
+<li><a href="https://www.instagram.com/mumuskitchen.seattle">Mumu's Kitchen</a>*</li>
+<li><strong><a href="https://www.instagram.com/senorcarbonperuviancuisine/">Señor Carbon</a></strong>
+<ul>
+<li>specialty: Nikkei (Peruvian-Japanese) sushi rolls</li>
+<li>Amazing homemade Basque-style cheesecake (may no longer be offered)</li>
+</ul>
+</li>
+<li><strong><a href="https://pinksaltseattle.com/">Pink Salt</a> (upscale/fusion-y)</strong>
+<ul>
+<li>Still need to try their pollo a la brasa</li>
+</ul>
+</li>
+</ul>
+<h3 id="sandwich-like">Sandwich-like</h3>
+<ul>
+<li><strong><a href="https://www.maonoseattle.com/">Ma'ono</a></strong>
+<ul>
+<li>Get: sandwich, tenders, mac &amp; kimcheese, hawaiian BBQ</li>
+<li>Pass: drumsticks</li>
+</ul>
+</li>
+<li><strong><a href="https://www.facebook.com/ArepaVen/">Arepa Venezuelan Kitchen</a></strong>
+<ul>
+<li>Get: special steak</li>
+</ul>
+</li>
+<li><a href="https://www.unbienseattle.com/">Un Bien</a>
+<ul>
+<li>Get: the press</li>
+</ul>
+</li>
+<li><em><strong><a href="https://www.grilledcheeseseattle.com/">The Grilled Cheese Experience</a></strong> (closed?)</em></li>
+<li><em><strong><a href="https://www.instagram.com/anchor_end_/?hl=en">Anchor End Pretzel Shoppe</a> (closed)</strong></em></li>
+</ul>
+<h3 id="american-european-etc-generally">American/European etc, generally</h3>
+<ul>
+<li><em><strong><a href="https://meetthemooncafe.com/">Meet the Moon</a></strong> (closed)</em>
+<ul>
+<li>Is now another Pablo y Pablo location ):</li>
+</ul>
+</li>
+<li><a href="https://www.delimeatsbar.com/">The Shambles</a></li>
+<li><em><strong><a href="https://www.eightrow.com/">Eight Row</a></strong> (closed)</em></li>
+<li><a href="https://www.thegreenwoodamericanbistro.com/">The Greenwood American Bistro</a>
+<ul>
+<li>Shaping up to be the next Eight Row, but only time will tell</li>
+<li>Sides and apps are really good, mains have been unmemorable</li>
+</ul>
+</li>
+<li><strong><a href="https://www.restaurantbateau.com/">Bateau</a></strong></li>
+<li><a href="https://www.korochkatavern.net/">Korochka Tavern</a></li>
+<li><a href="http://dumplingtzar.com/">Pel Meni Dumpling Tzar</a></li>
+<li><a href="https://www.salarerestaurant.com/">Salare</a></li>
+<li><em><strong><a href="https://www.manolinseattle.com/">Manolin</a> (closed)</strong></em></li>
+<li><em><strong><a href="https://www.junebabyseattle.com/">JuneBaby</a> (closed)</strong></em></li>
+<li><em><strong><a href="https://www.yelp.com/biz/thackeray-seattle-2">Thackeray</a> (closed)</strong></em></li>
+<li><a href="https://www.sthooligans.com/">S/T Hooligans</a>
+<ul>
+<li>Get: bread pudding and brisket sandwich</li>
+</ul>
+</li>
+<li><a href="https://www.sunnyhillseattle.com/">Sunny Hill</a></li>
+<li><a href="https://www.corvusandcompany.com/">Corvus &amp; Co.</a></li>
+<li><a href="https://pastacasalingaseattle.com/">Pasta Casalinga</a></li>
+<li><a href="https://www.offalleyseattle.com/">Off Alley</a>
+<ul>
+<li>Order the whole menu and split between 4 people</li>
+</ul>
+</li>
+<li><a href="https://www.ciudadseattle.com/">Ciudad</a>
+<ul>
+<li>The option to order meat by the pound is solid. Also features a Stacey Rozich mural</li>
+</ul>
+</li>
+<li><a href="https://konakitchen.com/">Kona Kitchen - Maple Leaf</a></li>
+<li><em><a href="https://samaraseattle.com/">Samara</a> (closed)</em></li>
+<li><a href="https://www.pairseattle.com/">Pancita @ Pair</a></li>
+<li><a href="https://www.atomaseattle.com/">Atoma</a></li>
+</ul>
+<h2 id="decent">Decent</h2>
+<ul>
+<li><a href="https://www.isarnkitchen.com/">Isarn Thai Soul Kitchen</a></li>
+<li><a href="https://monsoonrestaurants.com/seattle/">Monsoon</a></li>
+<li><a href="https://kokkakuseattle.com/">Kokkaku</a> (&quot;Japanese inspired&quot; steakhouse)</li>
+<li><a href="https://www.instagram.com/ishoniseattle/?hl=en">Ishoni Yakiniku</a></li>
+<li><a href="https://www.martinos.net/">Martino's</a> (sandwiches, BBQ)</li>
+<li><a href="https://www.paseo.com/">Paseo</a> (Caribbean sandwiches)
+<ul>
+<li>Note: now has a different owner than the much lauded original, but may or may not have some of the same staff </li>
+</ul>
+</li>
+<li><a href="https://www.yoroshikuseattle.com/">Yoroshiku</a></li>
+<li><a href="https://thanhvi.net/">Than Vi (U-District)</a></li>
+<li><a href="http://gainsbourglounge.com/">Gainsbourg</a>
+<ul>
+<li>very generous cheese board portions</li>
+</ul>
+</li>
+<li><a href="https://www.reunionmalaysian.com/">Reunion</a> (Malay, Kirkland)</li>
+<li><a href="https://www.yelp.com/biz/flavor-lao-bowl-seattle">Flavor Lao Bowl</a></li>
+<li><a href="https://www.harvestvine.com/">The Harvest Vine</a></li>
+<li><a href="https://www.radiatorwhiskey.com/">Radiator Whiskey</a>
+<ul>
+<li>Good: burnt ends</li>
+</ul>
+</li>
+<li><a href="https://www.instagram.com/pst.seattle/?hl=en">Phocific Standard Time</a>
+<ul>
+<li>Way too loud, which ruins the experience</li>
+<li>Good food, okay drinks</li>
+</ul>
+</li>
+<li><a href="https://www.basabainbridgeisland.com/">Ba Sa</a> (Bainbridge Island)
+<ul>
+<li>Not bad, but not worth a long wait</li>
+<li>Food highlight: Karaage chicken banh mi </li>
+<li>Drink highlights: Tropic Like It's Hot, Passionfruit Lemondrop</li>
+</ul>
+</li>
+</ul>
+<h2 id="not-recommended">Not recommended</h2>
+<ul>
+<li>Siembra (Peruvian inspired)*</li>
+<li>Proper Fish (Bainbridge Island)</li>
+</ul>
+
+
+    </div>
+
+        </div>
+    </section>
+</body>
+
+</html>

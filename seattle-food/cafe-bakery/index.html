@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>yvonne chen - personal website</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/jquery.min.js"></script>
+    <script src="/script.js"></script>
+</head>
+
+<!-- Menu bar -->
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <div class="title navbar-item main-title" href="https://bulma.io">
+            <a href="/">yvonne chen</a>
+        </div>
+    </div>
+  
+    <div class="navbar-menu is-active">
+        <div class="navbar-start">
+            <a class="navbar-item" href="/">
+                home
+            </a>
+            <a class="navbar-item" href="/ducks">
+                ducks
+            </a>
+            <a class="navbar-item" href="/games">
+                game recs
+            </a>
+            <!-- Seattle food dropdown -->
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/seattle-food">
+                    seattle food guide
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    
+                    
+                        <a class="navbar-item" href="/seattle-food/fried-chicken">
+                            fried chicken
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/beverages">
+                            beverages
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/challah">
+                            challah
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/tasting-menus">
+                            tasting menus
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/cafe-bakery">
+                            cafes &amp; bakeries
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/meals">
+                            meals
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/brunch">
+                            breakfast &amp; brunch
+                        </a>
+                    
+                        <a class="navbar-item" href="/seattle-food/ice-cream">
+                            ice cream
+                        </a>
+                    
+                </div>
+            </div>
+            <!-- Not-Seattle food dropdown -->
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/not-seattle">
+                    not-seattle food guide
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#north-america">
+                            north america
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#vashon-island-wa">
+                                    vashon island, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#everett-wa">
+                                    everett, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#san-juan-island-wa">
+                                    san juan island, wa
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#portland-or">
+                                    portland, or
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#eugene-or">
+                                    eugene, or
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#boulder-co">
+                                    boulder, co
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#vancouver-b-c-and-surroundings">
+                                    vancouver, b.c and surroundings
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#victoria-b-c">
+                                    victoria, b.c
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#nyc">
+                                    nyc
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#houston">
+                                    houston
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#austin-tx">
+                                    austin, tx
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#orange-county-ish-ca">
+                                    orange county-ish, ca
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#big-island-hawaii">
+                                    big island, hawaii
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#asia">
+                            asia
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#japan">
+                                    japan
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#singapore">
+                                    singapore
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#taiwan">
+                                    taiwan
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#south-america">
+                            south america
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#peru">
+                                    peru
+                                </a>
+                            
+                        
+                    
+                        <a class="navbar-item" href="https://muscovite.github.io/not-seattle/#europe">
+                            europe
+                        </a>
+                        
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#france">
+                                    france
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#england">
+                                    england
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#the-netherlands">
+                                    the netherlands
+                                </a>
+                            
+                                <a class="navbar-item sub-item" href="https://muscovite.github.io/not-seattle/#spain">
+                                    spain
+                                </a>
+                            
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- Body -->
+<body>
+    <section class="section">
+        <!-- Page title -->
+        <div class="container">
+            <h2 class="title is-3">
+                
+    Cafes &amp; Bakeries
+
+            </h2>
+        </div>
+        <!-- Main content -->
+        <div class="container">
+            
+    
+    <details open>
+    <summary>Sections</summary>
+    <div class="page-toc">
+        <ul>
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/cafe-bakery/#recommended">Recommended</a>
+                </li>
+                
+                <ul>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/cafe-bakery/#general">General</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/cafe-bakery/#asian-asian-inspired">Asian&#x2F; Asian inspired</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/cafe-bakery/#afternoon-teas">Afternoon Teas</a>
+                        </li>
+                    
+                        <li>
+                            <a class="toc-h2" href="https://muscovite.github.io/seattle-food/cafe-bakery/#specialized">Specialized</a>
+                        </li>
+                    
+                </ul>
+                
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/cafe-bakery/#decent">Decent</a>
+                </li>
+                
+            
+                <li>
+                    <a class="toc-h1" href="https://muscovite.github.io/seattle-food/cafe-bakery/#not-recommended">Not recommended</a>
+                </li>
+                
+            
+        </ul>
+    </div>
+    </details>
+    
+
+    <div class="popup-note">
+        <p>* popup/delivery/farmer's market</p>
+    </div>
+
+    <hr noshade>
+    <div class="listings-entry content">
+        <h2 id="recommended">Recommended</h2>
+<h3 id="general">General</h3>
+<ul>
+<li><em><a href="https://sodhousebakery.square.site/">Sod House Bakery</a> (replaced)</em>
+<ul>
+<li>RIP pecan scones</li>
+<li>Replaced by Zary </li>
+</ul>
+</li>
+<li><a href="https://www.zarybakery.com/">Zary Bakery</a>
+<ul>
+<li>Replaced Sod House</li>
+</ul>
+</li>
+<li><a href="https://javasti.com/">Cafe Javasti</a>
+<ul>
+<li>Get: quickbreads, especially chocolate zucchini</li>
+<li>Pass: any mochi or buttermilk bars</li>
+</ul>
+</li>
+<li><strong><a href="https://bakerynouveau.com/">Bakery Nouveau</a></strong>
+<ul>
+<li>Also a great place to get birthday cakes</li>
+</ul>
+</li>
+<li><a href="https://www.cafehagen.com/">Cafe Hagen</a></li>
+<li><a href="https://monorailespresso.com/">Monorail Espresso</a>
+<ul>
+<li>Roast are on the darker side</li>
+<li>Get: chubbies (think fat shortbread cookies)</li>
+</ul>
+</li>
+<li><a href="https://www.olympiacoffee.com/pages/downtown-seattle">Olympia Coffee (Downtown Seattle)</a></li>
+<li><strong><a href="https://mrwestcafebar.com/">Mr. West</a></strong></li>
+<li><a href="https://www.zylberschtein.com/">Zylberschtein's</a></li>
+<li><strong><a href="https://www.templepastries.com/">Temple Pastries</a></strong>
+<ul>
+<li>Get: croissants, macarons, seasonal mini cakes</li>
+</ul>
+</li>
+<li><a href="https://www.coylesbakeshop.com/">Coyle's Bakeshop</a></li>
+<li><a href="https://www.freshfloursseattle.com/">Fresh Flours</a></li>
+<li><a href="https://rosellinis.com/">Rosellini's</a></li>
+<li><a href="https://www.preserveandgather.com/">Preserve &amp; Gather</a></li>
+<li><a href="https://blackbirdbakery.com/">Blackbird Bakery</a> (Bainbridge Island)</li>
+<li><a href="https://www.rmdessertbar.com/">R&amp;M Dessert Bar</a></li>
+<li><strong><a href="https://www.seawolfbakers.com/">Sea Wolf</a></strong>
+<ul>
+<li>Get: any croissant, esp. chocolate or plain, lye roll</li>
+<li>Pass: cinnamon roll</li>
+</ul>
+</li>
+<li><a href="https://www.cloudcitycoffee.com/">Cloud City Coffee</a></li>
+<li><a href="https://www.sweetnothingsandmore.com/">Sweet Bakery</a></li>
+<li><a href="https://www.cakelifeeveryday.com/">Cake Life Everyday</a>* (croissants)</li>
+<li><strong><a href="https://www.redarrowcoffee.com/">Red Arrow Coffee</a></strong></li>
+<li><em><a href="https://lamarzoccousa.com/locations/cafe/">La Marzocco Cafe</a> (closed)</em></li>
+<li><a href="https://sugarbakerycafe.com/">Sugar Bakery &amp; Cafe</a></li>
+<li><strong><a href="https://boot-scootin-bread.square.site/">Boot Scootin Bread</a></strong>*</li>
+<li><a href="http://milsteadandco.com/">Milstead</a></li>
+<li><a href="https://www.aeipathypatisserie.com/">Aiepathy Patisserie</a>
+<ul>
+<li>Good but kind of oily croissants, pretty good cinnamon roll</li>
+</ul>
+</li>
+<li><a href="https://bakeryhonore.com/">Bakery Honore</a></li>
+<li><a href="https://unioncoffeeseattle.com/">Union Coffee</a>
+<ul>
+<li>Trivia: used to be owned by husband of Molly Moon's founder</li>
+</ul>
+</li>
+<li><strong><a href="https://www.cafebesalu.com/">Cafe Besalu</a></strong>
+<ul>
+<li>Croissant-dough pastries are consistently good</li>
+</ul>
+</li>
+<li><a href="https://lighthouseroasters.com/">Lighthouse Roasters</a></li>
+<li><a href="https://www.volunteerpark.cafe/">Volunteer Park Cafe</a></li>
+<li><a href="https://bakeshopseattle.com/">Bake Shop</a>
+<ul>
+<li>Get: ham &amp; cheese potato bun, scallion scone, miso buckwheat chocolate cookie</li>
+<li>Need to try: chocolate babka</li>
+</ul>
+</li>
+<li><a href="https://www.shawnscafeandbakery.com/">Shawn's Cafe and Bakery</a></li>
+<li><a href="https://www.lafetepatisserie.com/">La Fête Pâtisserie</a></li>
+<li><a href="https://bensbread.com/">Ben's Bread</a></li>
+<li><a href="https://www.layersgreenlake.com/">Layers</a></li>
+<li><a href="https://t55patisserie.com/">T55 Patisserie</a></li>
+<li><a href="https://www.modernebakery.com/">Moderne Bakery</a>*
+<ul>
+<li>Had a pretty tasty kouign amman and shortbread box for SRW Fall 2024</li>
+</ul>
+</li>
+<li><a href="https://www.ancientgatecoffee.com/">Ancient Gate Coffee</a></li>
+<li><a href="https://bensbread.com/">Ben's Bread</a></li>
+<li><a href="https://mybaskette.com/">Baskette</a>
+<ul>
+<li>Particularly enjoy that they have both baked goods and hearty sandwiches during all opening hours</li>
+</ul>
+</li>
+<li><a href="https://slowday.coffee/">Slow Day Coffee</a>
+<ul>
+<li>Focuses on showcasing specialty beans from outside the Seattle area</li>
+</ul>
+</li>
+</ul>
+<h3 id="asian-asian-inspired">Asian/ Asian inspired</h3>
+<ul>
+<li><a href="https://www.instagram.com/kinakoandgoma/">Kinako &amp; Goma</a>* (Southeast Asian inspired)</li>
+<li><a href="https://www.akiosbakery.com/">Akio's Bakery</a>*
+<ul>
+<li>Good cream puffs, though cream could be a bit stronger in flavor</li>
+<li>Good melonpan, but more bread-y than the super soft versions usually sold in Asian bakeries</li>
+</ul>
+</li>
+<li><em><strong><a href="https://www.instagram.com/sususeattle">SUSU Dessert Bar</a></strong> (on hiatus)</em>
+<ul>
+<li>Need to get in line 1~1.5 hours before opening to ensure widest choice of items. The line also moves extremely slowly as there's only one person both taking and packing orders. Food is pretty good, though</li>
+</ul>
+</li>
+<li><strong><a href="https://www.hoodfamousbakeshop.com/">Hood Famous Bakeshop</a> (Filipino)</strong></li>
+<li><a href="https://www.matchacafe-maiko.com/eng/">Matcha Cafe Maiko</a> (matcha desserts)
+<ul>
+<li>Get: matcha soft serve</li>
+</ul>
+</li>
+<li><strong><a href="https://www.instagram.com/hirokidesserts">Hiroki</a> (Japanese-inspired)</strong></li>
+<li><a href="https://cocopandansea.cococart.co/">Coco Pandan</a>*
+<ul>
+<li>kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)</li>
+</ul>
+</li>
+<li><a href="https://www.instagram.com/hello.em_coffee/?hl=en">Hello Em</a> (Vietnamese inspired)</li>
+<li><a href="https://www.instagram.com/kinakoandgoma/?hl=en">Kinako and Goma</a> (East/ SE Asia flavors)</li>
+<li><a href="https://www.fogrose.com/">FogRose Atelier</a>
+<ul>
+<li>Specializes in desserts</li>
+<li>Had a really good to-go afternoon tea</li>
+</ul>
+</li>
+<li><a href="https://www.yelp.com/biz/cake-house-seattle">Cake House</a>
+<ul>
+<li>Get: taro bun, coconut tart, red bean puff pastry</li>
+<li>A little on the sweet side, but very good</li>
+</ul>
+</li>
+<li><a href="https://www.aroomers.com/home">Aroom Coffee</a> (Vietnamese)
+<ul>
+<li>Avocado coffee, sesame coffee</li>
+</ul>
+</li>
+<li><a href="https://www.mittensweetsandcoffee.com/">Mitten Sweets &amp; Coffee</a>
+<ul>
+<li>Matcha chocolate cake and puff pastry was really good</li>
+</ul>
+</li>
+<li><a href="https://www.voicaphe.com/">Voi Ca Phe</a> (Vietnamese)</li>
+<li><a href="https://www.thewaylandmill.com/">The Wayland Mill</a>
+<ul>
+<li>Japanese inspired small dishes and baked goods</li>
+<li>Promising, need to try again</li>
+</ul>
+</li>
+</ul>
+<h3 id="afternoon-teas">Afternoon Teas</h3>
+<ul>
+<li><strong><a href="https://www.coylesbakeshop.com/">Coyle's Bakeshop</a> (currently suspended)</strong></li>
+</ul>
+<h3 id="specialized">Specialized</h3>
+<ul>
+<li><strong><a href="https://deepseasugar.square.site/">Deep Sea Sugar &amp; Salt</a> (cakes)</strong>
+<ul>
+<li>Best cakes in the area</li>
+</ul>
+</li>
+<li><a href="https://simplydessertsseattle.com/">Simply Desserts</a> (cakes)</li>
+<li><strong><a href="https://www.treslecheria.com/">Tres Lecheria</a> (tres leches cakes)</strong></li>
+<li><strong><a href="https://www.theflourboxseattle.com/">Flour Box</a> (donuts)</strong></li>
+<li><a href="https://www.halfandhalfdoughnuts.com/">Half &amp; Half</a> (donuts)</li>
+<li><a href="https://www.hellorobincookies.com/">Hello Robin</a> (cookies)
+<ul>
+<li>Get: classic and vegan chocolate chip</li>
+</ul>
+</li>
+<li><a href="https://getyourhotcakes.com/">Hot Cakes Molten Chocolate Cakery</a></li>
+<li><strong><a href="https://lovethesecookies.com/">Pinckney Cookie Cafe</a></strong>*</li>
+<li><strong><a href="https://www.piebirdbakeshop.com/">Pie Bird Bakeshop</a></strong>*</li>
+<li><strong><a href="https://macadons.com">Macadons</a></strong>*
+<ul>
+<li>Best macarons in the area</li>
+</ul>
+</li>
+<li><em><strong><a href="https://copingcookies.com/">Coping Cookies</a></strong>* (closed)</em></li>
+<li><em><a href="https://saltandothervices.com/">Salt &amp; Other Vices</a>* (cookies) (closed)</em></li>
+<li><a href="https://www.mightyo.com/">Mighty-O Donuts</a></li>
+<li><a href="https://chocolati.com/">Chocolati Cafe</a>
+<ul>
+<li>hot chocolates, mochas; truffles are kind of disappointing</li>
+</ul>
+</li>
+<li><a href="https://www.selvacentralgoods.com/">Selva Central Goods</a> (Central American inspired)</li>
+<li><a href="https://metropolitan-market.com/">Metropolitan Market</a>
+<ul>
+<li>high end supermarket that bakes &quot;The Cookie&quot; (and overall decent baked goods)</li>
+</ul>
+</li>
+<li><a href="https://gratefulbreadbaking.com/">Grateful Bread</a></li>
+<li><em><strong><a href="https://www.yelp.com/biz/pie-seattle">Pie Fremont</a> (closed)</strong></em>
+<ul>
+<li>Adorable single serve sweet and savory pies. Had a food truck at Westlake</li>
+</ul>
+</li>
+<li><em><a href="https://sweetironwaffles.com/">Sweet Iron</a> (liege waffles) (closed)</em></li>
+<li><a href="https://www.osonegrobakingco.com/">Oso Negro Baking Co</a> (Argentinian alfajores)</li>
+<li><em>Joe Chocolate (caffeinated chocolate) (closed)</em></li>
+<li><em><a href="https://www.experiencehedonisme.com/">Hédonisme</a> (closed for now)</em>
+<ul>
+<li>Chef moved to France, hope she comes back some day</li>
+</ul>
+</li>
+<li><a href="https://www.oldsaltseattle.com/">Old Salt</a> (bagel sandwiches)</li>
+<li><a href="https://www.spinnakerchocolate.com/">Spinnaker Chocolate</a>
+<ul>
+<li>excellent limited run hazelnut chocolate spread</li>
+</ul>
+</li>
+<li><a href="https://muscovite.github.io/seattle-food/cafe-bakery/instagram.com/ddamestroopwafels/?hl=en">Dutch Dame Stroopwafels</a>*</li>
+<li><a href="https://www.portopies.com/">Porto-Pies</a>*</li>
+<li><a href="https://www.docedonut.com/">Doce Donuts</a></li>
+<li><a href="https://www.thecookiebreaks.com/">Cookie Break</a>
+<ul>
+<li>Neighborhood home bakery</li>
+<li>Our current Eurovision tradition</li>
+</ul>
+</li>
+</ul>
+<h2 id="decent">Decent</h2>
+<ul>
+<li><a href="https://www.cakedgoods.com/">Caked Goods</a>*</li>
+<li><a href="https://www.boonboonacoffee.com/">Boon Boona Coffee</a></li>
+<li><a href="https://www.ladygreyseattle.com/">Lady Grey</a>* (cakes)</li>
+<li><a href="https://www.caffeladro.com/">Caffe Ladro</a></li>
+<li><a href="https://www.santocoffee.co/">Santo Coffee</a></li>
+<li><a href="https://grayseaspies.squarespace.com/">Graysea's Pies</a>*</li>
+<li><a href="https://www.facebook.com/KaffeeklatschSeattle/">Kaffeeklatsch</a></li>
+<li><a href="https://seattlebackyardbakery.com/">Backyard Bakery Maple Leaf</a></li>
+<li><em><a href="https://www.cakesandtrees.com/">Cakes + Trees</a> (closed)</em></li>
+<li><a href="https://www.grandcentralbakery.com/find-us/seattle/wedgwood/">Grand Central Bakery</a>
+<ul>
+<li>Get: coffeecake, cuties (seasonal mini chocolate pies), sourdough</li>
+<li>Pass: most of their other things</li>
+</ul>
+</li>
+<li><a href="https://www.papercakeshop.com/">Paper Cake Shop</a>
+<ul>
+<li>unique flavors, but slices are small and pricey</li>
+</ul>
+</li>
+</ul>
+<h2 id="not-recommended">Not recommended</h2>
+<ul>
+<li>General Porpoise (donuts)</li>
+<li>La Dulce*
+<ul>
+<li>Silvanas and breads had mild detergent taste</li>
+<li>Cheesecakes were okay, but kind of imploded and the volume made up for with whipped cream??</li>
+</ul>
+</li>
+<li>Rey Amargo (chocolate)</li>
+<li>Lola's Traveling Tea Party</li>
+<li>Saint Bread
+<ul>
+<li>Cardamom is great, but not THAT much cardamom</li>
+</ul>
+</li>
+<li><a href="https://www.cafearta.com/">Cafe Arta</a>
+<ul>
+<li>our neighborhood bookstore cafe</li>
+</ul>
+</li>
+</ul>
+
+
+    </div>
+
+        </div>
+    </section>
+</body>
+
+</html>
