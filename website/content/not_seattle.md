@@ -292,8 +292,73 @@ Things to eat outside the greater Seattle area.
 
 ## Peru
 ### Lima
-- [Central](https://centralrestaurante.com.pe/en/)
-- [Isolina](https://isolina.pe/)
+
+#### Restaurants
+- [Quipas (2025)](https://quipas.mesa247.pe/)
+    - Second best meal of the trip
+    - Get all the desserts!
+- [Maido (2025)](https://maido.pe/)
+    - Best meal of the trip
+    - Best non alcoholic beverage pairing I've ever had; delicious on their own and chosen to complement the dishes well
+- [Merito (2025)](https://www.merito.com.pe/)
+    - Not bad, but somewhat overrated, IMO. Non alcoholic pairing felt haphazardy thrown together. Many of the beverages didn't taste great, and none of them paired particularly well with the food. The servers also didn't provide much explanation of dishes unless prompted
+- [Central (2017)](https://centralrestaurante.com.pe/en/)
+- [Isolina (2017)](https://isolina.pe/)
+    - 2025: there were lines out the door, so presumably it's still good
+- Kio (2025) (pan de chicharron) (chain)
+- El Chinito (2025) (pan de chicharron) (chain)
+- La Lucha (2025) (pan de chicharron) (chain)
+    - pretty good fries too
+- Los Portales de Lima (Centro; not really a tourist area)
+- Tio Mario
+    - Good option if Isolina is too busy, it's next door
+    - Good anticuchos and picarones
+- Madame Tusan (2025) (chifa)
+    - Like a Din Tai Fung for chifa
+- Tomoya Izakaya (2025) (nikkei)
+    - Very nice rolls
+- [Pardo's (2025)](https://www.pardoschicken.pe/) (pollo a la brasa) (chain)
+- [El Aguajal (2025)](https://www.elaguajal.com/sanborja)
+    - Inspired by food from the selva
+
+#### Dessert/cafe
+- [Blu Gelateria (2025)](https://www.instagram.com/blu.ilgelato/)
+    - Super tasty
+- Helado de Lima (2025)
+    - Various locations
+    - Good enough for a local chain
+- [Napoleon (2025)](https://www.instagram.com/napoleon_patisserie/)
+    - Really good macarons
+- [Pan Atelier (2025)](https://www.panatelier.com.pe/)
+    - If you go early (before ~9), they have bread rolls
+- [Alanya Reposteria (2025)](https://www.instagram.com/alanyareposteria/)
+    - Amazing chocolate lucuma dessert
+
+#### Coffee
+- [Ursa (2025)](https://www.instagram.com/ursacoffeeperu/?hl=en)
+- [Kaldi's (2025)](https://www.instagram.com/kaldiscoffeetea/)
+- [Millimetrica (2025)](https://milimetrica.coffee/)
+- [Ciclos + El Cacaotal (2025)](https://www.instagram.com/cicloscafe/)
+    - Cafe with specialty chocolate store on second floor
+- [Puku Puku (2025)](https://pukupuku.pe/)
+    - Local chain; seems like they tend towards medium roasts
+    - Lots of coffee options, both ground and whole bean and nice merch; maybe not the most gourment, but good for souvenirs
+- [Raiz (2025)](https://www.instagram.com/raizcoffeeroasters/)
+- [Neira Coffee Lab (2025)](https://neiracafelab.com/)
+- [Cofaine (2025)](https://cofaine.pe/)
+- [Caleta Dolsa (2025)](https://www.instagram.com/caleta.dolsacoffee/)
+- [Coffee Time (2025)](https://www.instagram.com/coffeetimemiraflores/?hl=en)
+
+#### Crema Volteada (flan) ranked list
+- Quipas (2025)
+    - Super tasty
+- Los Reyes by Isolina (2025) (airport)
+- Cosme (2025)
+    - Condensed milk flavor too strong
+- Merito (2025)
+    - No egg white, so it was overly creamy/rich for me. But Reddit raves about it, so maybe it's just a matter of taste
+- Manolo (2025)
+    - Just meh overall
 
 # Europe
 
