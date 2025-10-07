@@ -65,6 +65,8 @@ template = "food-section.html"
 - [Taurus Ox](https://www.taurusox.com)
  -[Loumpia](https://www.loumpia.com/)*
     - They like experimenting with flavors, like a superb halo halo lumpia
+- [Gao Lhao Noodle Shop](https://gaolhao.com/)
+    - A worthy successor to Eight Row
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
@@ -117,6 +119,8 @@ template = "food-section.html"
 - _[Samara](https://samaraseattle.com/) (closed)_
 - [Pancita @ Pair](https://www.pairseattle.com/)
 - [Atoma](https://www.atomaseattle.com/)
+- [Sacro Bosco](https://www.sacroboscopizza.com/)
+    - Temple Pastries' evening pizza sibling
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
