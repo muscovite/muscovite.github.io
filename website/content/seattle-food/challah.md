@@ -13,6 +13,7 @@ template = "food-section.html"
 ## Decent
 - [Zylberschtein's](https://www.zylberschtein.com/)
     - Husband really likes it. I think Zylb's breads have had a slightly off taste recently?
+    - Dec '25: recipe seems to have changed. It's much better now!
 
 ## Not recommended
 - Grand Central Bakery
