@@ -7,8 +7,6 @@ template = "food-section.html"
 ## Tier 1
 - [Taneda Sushi in Kaiseki](https://tanedaseattle.com/)
     - Very hard to get reservations! Best bet is to sign up for cancellation notifications, or stalk their page at midnight for a spot 60 days out
-- [Sushi Kashiba](https://sushikashiba.com/)
-- [Altura](https://alturarestaurant.com/)
 
 ## Tier 2
 - [Copine](https://www.copineseattle.com/)
@@ -22,6 +20,10 @@ template = "food-section.html"
 - [The Herbfarm](https://www.theherbfarm.com/)
 - [Surrell](https://surrellseattle.com/)
     - They are very slow. Expect a 2.5-3 hr long meal
+- [Sushi Kashiba](https://sushikashiba.com/)
+    - Only visited once back in 2016ish, so it's hard to rank appropriately
+- [Altura](https://alturarestaurant.com/)
+    - 12/31/2025: third visit, much less impressive than the first two; good meal, but not amazing. Nothing particularly stood out
 - _[The Shambles](https://www.delimeatsbar.com/) (no longer offered)_
 
 ## Tier 3
