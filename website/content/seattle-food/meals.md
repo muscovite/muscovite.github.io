@@ -96,9 +96,9 @@ template = "food-section.html"
     - Is now another Pablo y Pablo location ):
 - [The Shambles](https://www.delimeatsbar.com/)
 - _**[Eight Row](https://www.eightrow.com/)** (closed)_
-- [The Greenwood American Bistro](https://www.thegreenwoodamericanbistro.com/)
-    - Shaping up to be the next Eight Row, but only time will tell
-    - Sides and apps are really good, mains have been unmemorable
+- _[The Greenwood American Bistro](https://www.thegreenwoodamericanbistro.com/) (closed)_
+    - The closest replacement to Eight Row, but now they're gone ):
+    - Sides and apps are really good, especially the pita. Mains have been unmemorable
 - **[Bateau](https://www.restaurantbateau.com/)**
 - [Korochka Tavern](https://www.korochkatavern.net/)
 - [Pel Meni Dumpling Tzar](http://dumplingtzar.com/)
