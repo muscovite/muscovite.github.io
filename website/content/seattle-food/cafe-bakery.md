@@ -75,7 +75,7 @@ template = "food-section.html"
 - _**[SUSU Dessert Bar](https://www.instagram.com/sususeattle)** (on hiatus)_
     - Need to get in line 1~1.5 hours before opening to ensure widest choice of items. The line also moves extremely slowly as there's only one person both taking and packing orders. Food is pretty good, though
 - **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
-- [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
+- _[Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts) (closed)_
     - Get: matcha soft serve
 - _**[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)** (closed) _
 - [Coco Pandan](https://cocopandansea.cococart.co/)*
