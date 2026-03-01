@@ -90,7 +90,7 @@ Things to eat outside the greater Seattle area.
 - [Deer And Dough](https://www.deeranddough.ca/)
 - [Chocolate & Co](https://www.chocolatandco.com/)
 - [Part and Parcel](https://www.partandparcel.ca/)
-- [Morning People](https://www.morningpeoplefoodtruck.com/)
+- [Morning People](https://www.morningpeople.ca/)
 - [10 Acres Bistro](https://10acres.ca/)
 - [Martha's Delectables](https://marthasdelectables.ca/)*
 - [Cold Comfort](https://www.coldcomfort.ca/)

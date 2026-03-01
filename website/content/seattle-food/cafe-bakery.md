@@ -77,7 +77,7 @@ template = "food-section.html"
 - **[Hood Famous Bakeshop](https://www.hoodfamousbakeshop.com/) (Filipino)**
 - [Matcha Cafe Maiko](https://www.matchacafe-maiko.com/eng/) (matcha desserts)
     - Get: matcha soft serve
-- **[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)**
+- _**[Hiroki](https://www.instagram.com/hirokidesserts) (Japanese-inspired)** (closed) _
 - [Coco Pandan](https://cocopandansea.cococart.co/)*
     - kaya; pandan-infused baked goods (very light on pandan flavor, but good quality)
 - [Hello Em](https://www.instagram.com/hello.em_coffee/?hl=en) (Vietnamese inspired)
