@@ -13,7 +13,7 @@ template = "food-section.html"
 - _[Eight Row](https://www.eightrow.com/) (closed)_
 - [Carrello](https://www.carrellorestaurant.com/)
     - Altura's younger sibling, just as solid at a lower price point
-- [Cook Weaver](https://www.cookweaver.com/)
+- _[Cook Weaver](https://www.cookweaver.com/) (closed)_
 - [Archipelago](https://www.archipelagoseattle.com/)
 - [Cafe Juanita](https://www.cafejuanita.com/)
     - Four tasting menus (omnivore, pescatarian, vegetarian, and vegan) and you're allowed to mix and match components of each
