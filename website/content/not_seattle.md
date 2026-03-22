@@ -294,31 +294,31 @@ Things to eat outside the greater Seattle area.
 ### Lima
 
 #### Restaurants
-- [Quipas (2025)](https://quipas.mesa247.pe/)
+- [Quipas (09/2025, 01/2026)](https://quipas.mesa247.pe/)
     - Second best meal of the trip
     - Get all the desserts!
-- [Maido (2025)](https://maido.pe/)
+- [Maido (09/2025)](https://maido.pe/)
     - Best meal of the trip
     - Best non alcoholic beverage pairing I've ever had; delicious on their own and chosen to complement the dishes well
-- [Merito (2025)](https://www.merito.com.pe/)
+- [Merito (09/2025)](https://www.merito.com.pe/)
     - Not bad, but somewhat overrated, IMO. Non alcoholic pairing felt haphazardy thrown together. Many of the beverages didn't taste great, and none of them paired particularly well with the food. The servers also didn't provide much explanation of dishes unless prompted
-- [Central (2017)](https://centralrestaurante.com.pe/en/)
-- [Isolina (2017)](https://isolina.pe/)
+- [Central (12/2017)](https://centralrestaurante.com.pe/en/)
+- [Isolina (12/2017)](https://isolina.pe/)
     - 2025: there were lines out the door, so presumably it's still good
-- Kio (2025) (pan de chicharron) (chain)
-- El Chinito (2025) (pan de chicharron) (chain)
-- La Lucha (2025) (pan de chicharron) (chain)
+- Kio (09/2025) (pan de chicharron) (chain)
+- El Chinito (09/2025) (pan de chicharron) (chain)
+- La Lucha (09/2025, 01/2026) (pan de chicharron) (chain)
     - pretty good fries too
-- Los Portales de Lima (Centro; not really a tourist area)
-- Tio Mario
+- Los Portales de Lima (09/2025) (Centro; not really a tourist area)
+- Tio Mario (09/2025)
     - Good option if Isolina is too busy, it's next door
     - Good anticuchos and picarones
-- Madame Tusan (2025) (chifa)
+- Madame Tusan (09/2025, 01/2026) (chifa)
     - Like a Din Tai Fung for chifa
-- Tomoya Izakaya (2025) (nikkei)
+- Tomoya Izakaya (09/2025) (nikkei)
     - Very nice rolls
-- [Pardo's (2025)](https://www.pardoschicken.pe/) (pollo a la brasa) (chain)
-- [El Aguajal (2025)](https://www.elaguajal.com/sanborja)
+- [Pardo's (09/2025)](https://www.pardoschicken.pe/) (pollo a la brasa) (chain)
+- [El Aguajal (09/2025)](https://www.elaguajal.com/sanborja)
     - Inspired by food from the selva
 
 #### Dessert/cafe
