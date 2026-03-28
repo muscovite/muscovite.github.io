@@ -139,6 +139,9 @@ template = "food-section.html"
 - [Cookie Break](https://www.thecookiebreaks.com/)
     - Neighborhood home bakery
     - Our current Eurovision tradition
+- [9th and Hennepin](https://9thandhennepin.com/)
+    - Fried on the spot
+    - Has a West Seattle window and shows up at some farmer's markets
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*

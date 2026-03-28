@@ -67,6 +67,8 @@ template = "food-section.html"
     - They like experimenting with flavors, like a superb halo halo lumpia
 - [Gao Lhao Noodle Shop](https://gaolhao.com/)
     - A worthy successor to Eight Row
+- [Grillbird (Greenwood)](https://www.grillbird.com/)
+    - 03/2026: smash burger, waffle fries, bird sauce (basically Chick-Fil-A sauce), chicken katsu, spam musubi; all solid
 
 ### Americanized Mexican
 - [Heavy Restaurant Group](https://www.heavyrestaurantgroup.com/)
