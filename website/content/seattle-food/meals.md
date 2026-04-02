@@ -123,6 +123,9 @@ template = "food-section.html"
 - [Atoma](https://www.atomaseattle.com/)
 - [Sacro Bosco](https://www.sacroboscopizza.com/)
     - Temple Pastries' evening pizza sibling
+- [Lingon](https://lingonseattle.com/)
+    - 4/2026: Swedish meatballs, Swedish pancakes
+    - Owner says he hosts regular wine pairing tasting menus; seems to have good connections to exclusive wines, if that's your thing
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
