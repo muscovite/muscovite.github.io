@@ -28,6 +28,8 @@ template = "food-section.html"
 - [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
 - [Preserve & Gather](https://www.preserveandgather.com/)
+    - 04/2026: ham and cheese roll, sweet jalapeño scone
+    - Sometimes they offer to add a marshamallow on mochas
 - [Blackbird Bakery](https://blackbirdbakery.com/) (Bainbridge Island)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
 - **[Sea Wolf](https://www.seawolfbakers.com/)**
