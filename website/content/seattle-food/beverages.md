@@ -9,7 +9,6 @@ template = "food-section.html"
 - _**[C Fruit Life](https://www.yelp.com/biz/c-fruit-life-seattle)** (closed)_
     - Get: shaved ice, avocado shake, mashed taro drinks
 - [Sip House](https://www.siphousewa.com/) (Vietnamese coffee)
-- [Coffeeholic](https://coffeeholichouse.com/) (Vietnamese coffee)
 - [Rachel's Ginger Beer](https://rachelsgingerbeer.com/)
     - All the flavors kind of blur together, but they're all good
 - [Seeking Kombucha](https://seekingkombucha.com/)
@@ -43,3 +42,4 @@ template = "food-section.html"
 - Kung Fu Tea
 - Sharetea
 - Tiger Sugar
+- Coffeeholic (lackluster flavors)
