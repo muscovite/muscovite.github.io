@@ -17,13 +17,13 @@ template = "food-section.html"
 - [20 OZ TEA](https://www.20oztea.com/)
 - [Young Tea](https://www.youngteaglobal.com/)
 - [Sunright](https://www.snrtea.com/)
-    - Have only been once so far, but it's promising
+    - White cream pudding > yellow pudding
 - [Aroom Coffee](https://www.aroomers.com/home) (Vietnamese)
-    - Avocado coffee
+    - Avocado coffee (no longer on menu RIP)
 - [Yoka Tea](https://www.yokatea.us/)
     - Just opened, so I need to revisit them as they rotate drinks seasonally
     - Pretty tasty croffles
-    - When they were a popup, they had an AMAZING avocado match drink
+    - When they were a popup, they had an AMAZING avocado matcha drink
 
 ## Decent
 - [Happy Lemon](https://happylemonseattle.com/)
