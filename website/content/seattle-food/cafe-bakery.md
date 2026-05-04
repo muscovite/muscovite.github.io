@@ -28,7 +28,7 @@ template = "food-section.html"
 - [Fresh Flours](https://www.freshfloursseattle.com/)
 - [Rosellini's](https://rosellinis.com/)
 - [Preserve & Gather](https://www.preserveandgather.com/)
-    - 04/2026: ham and cheese roll, sweet jalapeño scone
+    - 04/2026: ham and cheese roll, sweet jalapeño sconegi
     - Sometimes they offer to add a marshamallow on mochas
 - [Blackbird Bakery](https://blackbirdbakery.com/) (Bainbridge Island)
 - [R&M Dessert Bar](https://www.rmdessertbar.com/)
@@ -135,7 +135,7 @@ template = "food-section.html"
 - _[Hédonisme](https://www.experiencehedonisme.com/) (closed for now)_
     - Chef moved to France, hope she comes back some day
 - [Old Salt](https://www.oldsaltseattle.com/) (bagel sandwiches)
-- [Spinnaker Chocolate](https://www.spinnakerchocolate.com/)
+- [Spinnaker Chocolate](https://www.spinnakerchocolate.com/) (chocolatier/cafe)
     - excellent limited run hazelnut chocolate spread
 - [Dutch Dame Stroopwafels](instagram.com/ddamestroopwafels/?hl=en)*
 - [Porto-Pies](https://www.portopies.com/)*
@@ -146,6 +146,8 @@ template = "food-section.html"
 - [9th and Hennepin](https://9thandhennepin.com/)
     - Fried on the spot
     - Has a West Seattle window and shows up at some farmer's markets
+- [Cocoa Legato](https://www.cocoalegatochocolate.com/) (chocolatier/cafe)
+    - Very smooth bars
 
 ## Decent
 - [Caked Goods](https://www.cakedgoods.com/)*
