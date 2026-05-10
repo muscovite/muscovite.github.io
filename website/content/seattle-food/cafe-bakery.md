@@ -68,6 +68,8 @@ template = "food-section.html"
     - Particularly enjoy that they have both baked goods and hearty sandwiches during all opening hours
 - [Slow Day Coffee](https://slowday.coffee/)
     - Focuses on showcasing specialty beans from outside the Seattle area
+- [The Usual](https://www.instagram.com/theusualseattle)
+    - Eastern European flair of some sort (Ukrainian?)
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
