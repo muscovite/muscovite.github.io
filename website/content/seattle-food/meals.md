@@ -63,7 +63,7 @@ template = "food-section.html"
 - [Aroy Mak](https://thairestaurantseattle.com/)
     - Hits the chicken and rice spot
 - [Taurus Ox](https://www.taurusox.com)
- -[Loumpia](https://www.loumpia.com/)*
+- [Loumpia](https://www.loumpia.com/)*
     - They like experimenting with flavors, like a superb halo halo lumpia
 - [Gao Lhao Noodle Shop](https://gaolhao.com/)
     - A worthy successor to Eight Row
