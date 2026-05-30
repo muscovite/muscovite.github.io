@@ -121,11 +121,13 @@ template = "food-section.html"
 - _[Samara](https://samaraseattle.com/) (closed)_
 - [Pancita @ Pair](https://www.pairseattle.com/)
 - [Atoma](https://www.atomaseattle.com/)
-- [Sacro Bosco](https://www.sacroboscopizza.com/)
+- _[Sacro Bosco](https://www.sacroboscopizza.com/) (closed)_
     - Temple Pastries' evening pizza sibling
 - [Lingon](https://lingonseattle.com/)
     - 4/2026: Swedish meatballs, Swedish pancakes
     - Owner says he hosts regular wine pairing tasting menus; seems to have good connections to exclusive wines, if that's your thing
+- Spud fka Just Fries*
+    - super crispy fries and wide range of dipping sauces 
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)
