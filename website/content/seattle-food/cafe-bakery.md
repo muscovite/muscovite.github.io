@@ -70,6 +70,11 @@ template = "food-section.html"
     - Focuses on showcasing specialty beans from outside the Seattle area
 - [The Usual](https://www.instagram.com/theusualseattle)
     - Eastern European flair of some sort (Ukrainian?)
+- baci baci
+    - 5/30/26: coffee & baked goods by two lovely ceramacists who make all the cups in store
+ - [MOMENT coffee](https://www.instagram.com/moment_coffee_fremont/)
+    - 5/30/26: coffee, matcha drinks, avo toast, sandwiches, basque cheesecake; pretty good, but slow service due to limited no. of workers
+
 
 ### Asian/ Asian inspired
 - [Kinako & Goma](https://www.instagram.com/kinakoandgoma/)* (Southeast Asian inspired)
