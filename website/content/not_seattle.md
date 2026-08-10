@@ -82,25 +82,39 @@ Things to eat outside the greater Seattle area.
 ### Recommended
 
 - [Red Fish Blue Fish](https://www.redfish-bluefish.com/)
+    - 07/26: seem to have changed the batter recipe, it's less tender than before
 - [White Heather Tea Room](https://www.whiteheather-tearoom.com/afternoon-tea)
+    - 07/26: not as memorable as previous visits. Ownership change related?
+- [Teahouse at Abkhazi Garden](https://www.abkhaziteahouse.com/)
+    - 07/26: great afternoon tea
 - [Jam Cafe](https://jamcafes.com/)
 - [Fol Epi](https://www.folepi.ca/)
+    - 07/26: one of the best coffee cakes I've ever had
 - [Habit Coffee](https://www.habitcoffee.com/)
 - [The Hidden Gem](https://www.thehiddengem.ca/)
 - [Deer And Dough](https://www.deeranddough.ca/)
 - [Chocolate & Co](https://www.chocolatandco.com/)
+    - 07/26: tasty ice cream bars
 - [Part and Parcel](https://www.partandparcel.ca/)
+    - 07/26: tasting menu is a bit unrefined, but very filling. Still worth trying
+- [Ugly Duckling](https://www.uglyducklingrestaurant.ca/)
+    - 07/26: great tasting menu
 - [Morning People](https://www.morningpeople.ca/)
 - [10 Acres Bistro](https://10acres.ca/)
 - [Martha's Delectables](https://marthasdelectables.ca/)*
 - [Cold Comfort](https://www.coldcomfort.ca/)
-- [Bear & Joey](https://www.bearandjoey.ca/)
+- _Bear & Joey (closed)_
 - [Sea Cider](https://www.seacider.ca/)
     - Worth a drive to their tasting room
     - Really good cheese plate and non alcoholic ciders
 - [Chocolats Favoris](https://maps.app.goo.gl/UQGopXQURyKyWuqf9)
     - Decent soft serve, but the existence of hard shell as a topping really elevates it
 - [GoodSide Pastry House](https://goodsidepastryhouse.ca/)
+    - Favorite bakery in Victoria
+- [Working Culture](https://www.workingculturebread.com/)
+    - 07/26: like the downtown version of GoodSide, down to the people lining up before opening
+    - 07/26: very good ham, cheese & mustard croissant; cinnamon bun; smoked cheese pretzel
+- [Wairua Coffee](https://www.wairuacafe.com/)
 
 ### Decent
 - Crust Bakery
@@ -115,7 +129,6 @@ Things to eat outside the greater Seattle area.
 
 ### Afternoon Tea - to try
 - Butchart Gardens
-- Abkhazi Teahouse
 
 ## NYC
 - [LlamaSan](https://www.llamasannyc.com/)

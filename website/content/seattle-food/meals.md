@@ -76,11 +76,15 @@ template = "food-section.html"
 ### Peruvian
 - **[Don Lucho's](https://donluchosinseattle.com/)**
 - [Mumu's Kitchen](https://www.instagram.com/mumuskitchen.seattle)*
-- **[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)**
+- _**[Señor Carbon](https://www.instagram.com/senorcarbonperuviancuisine/)**_ (closed)
     - specialty: Nikkei (Peruvian-Japanese) sushi rolls
     - Amazing homemade Basque-style cheesecake (may no longer be offered)
 - **[Pink Salt](https://pinksaltseattle.com/) (upscale/fusion-y)**
     - Still need to try their pollo a la brasa
+- [Uchu](https://www.instagram.com/uchuperuseattle/)
+    - pop up on weekends at Secret Congee
+- [Chef Joe Brunch @ El Callejon](https://www.chefjoet.com/)
+    - Next project from Señor Carbon chef
 
 ### Sandwich-like
 - **[Ma'ono](https://www.maonoseattle.com/)**
@@ -128,6 +132,9 @@ template = "food-section.html"
     - Owner says he hosts regular wine pairing tasting menus; seems to have good connections to exclusive wines, if that's your thing
 - Spud fka Just Fries*
     - super crispy fries and wide range of dipping sauces 
+- [Brileys](https://www.brileysbbq.com/)
+    - Get: sausage, beignets, pit beef
+    - Skip: brisket
 
 ## Decent
 - [Isarn Thai Soul Kitchen](https://www.isarnkitchen.com/)

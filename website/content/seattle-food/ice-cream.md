@@ -20,6 +20,8 @@ template = "food-section.html"
 - [Hellenika Cultured Creamery](https://www.hellenika.us/)
     - New concept from Ellenos founders. Based in Pike Places, also shows up at farmer's markets
     - Highlights: ube coconut, marionberry
+- [Raindrop Creamery](https://www.raindropcreamery.com/)
+    - 08/26: first visit, pretty impressed! Good waffle cone, flavors that taste like real ingredients and mostly match the descriptions. Would try again. Usually, chocolate brownie-flavored ice cream is pretty cheap and lacks chocolate flavor, but theirs was quite good
 
 ### Tier 3
 
