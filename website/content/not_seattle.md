@@ -22,13 +22,41 @@ Things to eat outside the greater Seattle area.
 ## Portland, OR
 - _[Wiz Bang Bar](https://saltandstraw.com/pages/wiz-bang-bar) (closed indefinitely)_
 - [Screen Door](https://screendoorrestaurant.com/)
-    - Get: chicken and waffles
+    - Get: chicken and sweet potato waffles
+    - 09/2026: still good, but not amazing. Would not wait in line
 - [Pie Spot](https://www.pie-spot.com/)
-- [Pine State Biscuits](https://www.pinestatebiscuits.com/)
 - [Andina](https://www.andinarestaurant.com/)
-- [Kopi Coffee Company](https://www.kopicoffeeco.com/)
+    - 09/2026: still holds up!
+- [Kann](https://kannrestaurant.com/)
+    - Dairy free and gluten free
+    - 09/2026: overall great, except their soursop items tasted nothing like soursop
+- [Langbaan](https://www.langbaanportland.com/)
+    - 09/2026: last visit
+- [Gado Gado](https://www.gadogadopdx.com/)
+    - 09/2026: last visit, had the rice table
+- [Paper Bridge](https://www.thepaperbridgepdx.com/)
+    - 09/2026: AMAZING soursop smoothie (esp coming off Kann disappointment)
+- [Cheese & Crack](https://www.cheeseandcrack.com/)
+    - 09/2026: cheeseboard and soft serve both good
+- [Kachka](https://www.kachkapdx.com/)
+    - 09/2026: last visit
+- [Little T American Baker](https://www.littletbaker.com/)
+    - 09/2026: last visit
+- [Fifty Licks (Division St)](https://www.fifty-licks.com/)
+    - 09/2026: last visit; went twice on this trip
 - [Doe Donuts](https://www.doedonuts.com/)
     - Their long donut boxes are kind of awkward if you order more than a few
+
+### Coffee
+Haven't found anything truly excellent yet, but these were decent
+
+- [No Preference Coffee](https://www.instagram.com/noprefcoffee)
+    - Seems to have replaced Kopi Coffee Company
+    - 09/2026: last visit
+- [Old Friends](https://www.ofpdx.com/)
+    - 09/2026: last visit
+- [Sometimes Coffee](https://www.instagram.com/sometimes.pdx/)
+    - 09/2026: has a very cute dog
 
 ## Eugene, OR
 - [Off the Waffle](https://offthewaffle.com/)
