@@ -189,7 +189,9 @@ Haven't found anything truly excellent yet, but these were decent
     - Coffeehouse with a matcha specialization
     - Pretty good croissants & alfajores supplied by [Love Croissants](https://www.lovecroissants.com/)
 - [Rang Coffee & More](https://www.instagram.com/rang.coffeeandmore/?hl=en)
-    - Vietnames coffee
+    - Vietnamese coffee
+- [Boba & Broth](https://www.instagram.com/boba.brothtx/?hl=en)
+    - need to explore it more; but had a good avocado drink IIRC, and cute little maker's stalls
 
 ### To Try/ retry
 - [Craft Creamery](https://craftcreameryhtx.com/)
